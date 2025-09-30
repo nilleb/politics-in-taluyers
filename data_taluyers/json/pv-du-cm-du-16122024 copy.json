@@ -1,0 +1,223 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-12-16",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Sylvain NAVARRO",
+        "PierreLuc GUITTET",
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Séverine SICHÉ-CHOL",
+          "mandataire": "Jean-Louis MONTCEL"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Charles JULLIAN"
+        },
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Mireille BERTHOUD"
+        },
+        {
+          "mandant": "Emilie GRAU",
+          "mandataire": "Evelyne VIOLLET"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHET-CONVERT"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20241216-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Modification du tableau des emplois pour permettre la nomination d'agents, suppression et création d'emplois.",
+      "themes": [
+        "RH",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Crédits inscrits au budget 2025, chapitre 012."
+    },
+    {
+      "id": "20241216-02",
+      "titre": "Autorisation d'engager, liquider et mandater les dépenses d'investissement de 2025",
+      "resume": "Engagement des dépenses d'investissement dans la limite de 25% des crédits ouverts au budget 2024.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Dépenses réparties par chapitre, autorisation d'engagement avant l'adoption du budget 2025."
+    },
+    {
+      "id": "20241216-03",
+      "titre": "Convention de partenariat avec l'État pour la vidéoprotection",
+      "resume": "Convention avec l'État pour l'exploitation de vidéoprotection par la Gendarmerie.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Convention conclue pour cinq ans, opération de déport des images vers la Gendarmerie."
+    },
+    {
+      "id": "20241216-04",
+      "titre": "Programme et enveloppe financière pour la végétalisation de deux cours d'école",
+      "resume": "Approbation du programme et budget de maîtrise d'œuvre pour la végétalisation des cours d'école.",
+      "themes": [
+        "marches",
+        "subventions",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Enveloppe financière estimée à 110000 € HT, subvention de 10000 € obtenue."
+    },
+    {
+      "id": "20241216-05",
+      "titre": "Acquisition d'une parcelle de la rue Saint-Marc",
+      "resume": "Acquisition d'une parcelle pour régularisation foncière à l'euro symbolique.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Parcelle constituée du trottoir de la rue Saint-Marc."
+    },
+    {
+      "id": "20241216-06",
+      "titre": "Acquisition d'une parcelle de la rue des Blanchardes",
+      "resume": "Acquisition d'une parcelle pour l'aménagement de la rue des Blanchardes.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Acquisition pour 1350 €, pour élargissement et aménagement de la rue."
+    },
+    {
+      "id": "20241216-07",
+      "titre": "Modification n°2 du PLU",
+      "resume": "Décision de la Mission Régionale relative à la modification du PLU.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Pas d'évaluation environnementale requise par la MRAE."
+    }
+  ]
+}

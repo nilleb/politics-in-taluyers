@@ -1,0 +1,191 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2018-07-02",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "M. Loïc TAMISIER (Secrétaire de séance)"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "David SEGURA",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Séverine SICHE CHOL",
+        "Véronique GOUTTENOIRE",
+        "Marc MIOTTO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Séverine SICHE-CHOL"
+        },
+        {
+          "mandant": "Bruno SICARD",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Yves CUBLIER",
+          "mandataire": "Guy DANIEL"
+        },
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "Jean-Pierre MARCONNET",
+        "Audrey MICHALLET",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20180702-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Modification de l'organisation et du planning du service périscolaire suite à la réduction du temps scolaire hebdomadaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180702-02",
+      "titre": "Taux de promotion pour les avancements de grade",
+      "resume": "Fixation des taux de promotion pour les avancements de grade des fonctionnaires communaux.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180702-03",
+      "titre": "Mission de médiation préalable obligatoire – Convention avec le Centre de Gestion du Rhône",
+      "resume": "Approbation de la convention d’adhésion à la mission de médiation préalable obligatoire proposée par le Centre de Gestion du Rhône.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180702-05",
+      "titre": "Acquisition et installation d’un sanitaire automatique",
+      "resume": "Approbation de la commande d’un sanitaire automatique auprès de l’UGAP pour les infrastructures sportives et associatives.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Arrivée de Mme Sylvie ROMAN-CLAVELLOUX ajoutant un conseiller présent."
+    },
+    {
+      "id": "20180702-06",
+      "titre": "Marché de maîtrise d’œuvre pour les travaux de construction d’une bibliothèque et rénovation de l’ancienne bibliothèque en salle de restauration",
+      "resume": "Approbation de la modification du contrat en cours pour la maîtrise d’œuvre des travaux de construction d'une nouvelle bibliothèque et la rénovation de l'ancienne.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180702-07",
+      "titre": "Convention de mise à disposition de locaux scolaires et périscolaires avec la SPL Enfance en Pays Mornantais",
+      "resume": "Approbation de la convention de mise à disposition des locaux scolaires et périscolaires avec la SPL Enfance en Pays Mornantais.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

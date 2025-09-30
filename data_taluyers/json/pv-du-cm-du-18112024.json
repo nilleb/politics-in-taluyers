@@ -1,0 +1,209 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-11-18",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Sophie BERTHELIER (responsable de la bibliothèque municipale)"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Sylvain NAVARRO",
+        "Pierre-Luc GUITTET",
+        "Audrey MICHALLET",
+        "Giada RAVET",
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Séverine SICHÉ-CHOL"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "SYN-20241118-APPR-PV-20241007",
+      "titre": "Approbation du procès-verbal de la séance du Conseil municipal du 7 octobre 2024",
+      "resume": "Le procès-verbal de la séance du 7 octobre 2024 est approuvé.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Approuvé à l'unanimité des votes exprimés."
+    },
+    {
+      "id": "20241118-01",
+      "titre": "Adhésion à la convention de participation en matière de protection sociale complémentaire (risque prévoyance) portée par le cdg69 et approbation de la participation financière",
+      "resume": "Adhésion au dispositif cdg69/MNT pour la prévoyance des agents à compter du 01/01/2025 (durée 1 an). Participation communale de 10 € par agent et par mois, versement direct aux agents, option 2 (incapacité/invalidité) – niveau 2 (maintien 95% indiciaire et 47,5% RI). Taux de cotisation fixé à 1,74%.",
+      "themes": [
+        "RH",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Application au 01/01/2025 pour une durée d’un an jusqu’au 31/12/2025."
+    },
+    {
+      "id": "20241118-02",
+      "titre": "Mise à jour du règlement intérieur et de la convention cadre du Réseau des bibliothèques du Pays Mornantais",
+      "resume": "Approbation du règlement intérieur du Réseau des bibliothèques (applicable au 01/01/2025) et de la convention de partenariat et de fonctionnement ; autorisation de signature.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Le texte de cette délibération apparaît deux fois dans le PV (doublon rédactionnel)."
+    },
+    {
+      "id": "20241118-03",
+      "titre": "Présentation du bilan et poursuite de l'expérimentation du dispositif Aidants scolaires H+",
+      "resume": "Prend acte du bilan 2023/2024 (13 enfants accompagnés, 643 heures, budget ~12 000 €) et valide la poursuite de l’expérimentation pour l’année scolaire 2024-2025 ; autorisation d’engager les actions et signer les documents afférents.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241118-04",
+      "titre": "Avenant n°1 à la convention de mise à disposition de locaux communaux pour les activités de la SPL EPM",
+      "resume": "Approbation de l’avenant n°1 à la convention (période 2024-2028) fixant notamment la facturation de l’entretien des locaux ; pour 2024, contrepartie financière de 11 528 € versée par la SPL EPM à la commune ; autorisation de signature.",
+      "themes": [
+        "budget",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241118-05",
+      "titre": "Fiscalisation des participations hors GEMAPI au SMAGGA",
+      "resume": "Opposition à la fiscalisation directe sur les contribuables de la participation hors GEMAPI au SMAGGA ; la commune continuera à la budgétiser (montant 2025 pour Taluyers : 10 242 €). Autorisation de signature.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Décision prise dans le délai d’opposition de 40 jours suivant la décision du SMAGGA (08/11/2024)."
+    },
+    {
+      "id": "20241118-06",
+      "titre": "Adressage : nommage et numérotage des voies et lieux-dits de la commune",
+      "resume": "Validation des noms attribués à l’ensemble des voies communales et privées ouvertes à la circulation et des lieux-dits (liste en annexe) ; autorisation de signature et mise en œuvre. Exemples d’impasses renommées dans le secteur 1.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Échanges sur méthode (choix par groupe de travail avec l’historien de la commune, numérotation au mètre, prise en charge communale des panneaux). La liste exhaustive des dénominations est annexée à la délibération."
+    }
+  ]
+}

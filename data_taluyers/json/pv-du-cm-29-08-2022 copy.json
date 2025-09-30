@@ -1,0 +1,321 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-08-29",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Sylvain NAVARRO",
+        "Pierre-Henri JOUFFRE",
+        "Pierre-Luc GUITTET",
+        "Charles JULLIAN",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Jean-Jacques COURBON",
+        "Audrey MICHALLET",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Mireille BERTHOUD",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHET"
+        }
+      ],
+      "ABSENT": [
+        "Geneviève CASCHETTA",
+        "Dominique FONS",
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20220829-01",
+      "titre": "Modification du tableau des effectifs et création de deux emplois non permanents",
+      "resume": "Création de nouveaux postes pour ajuster le service périscolaire et autres emplois temporaires.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Ajustements liés aux effectifs scolaires et nécessité de service."
+    },
+    {
+      "id": "20220829-02",
+      "titre": "Modification du règlement intérieur d'occupation de la salle « Barbelous »",
+      "resume": "Suppression de l'option ménage du règlement intérieur de la salle.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220829-03",
+      "titre": "Budget principal 2022 – Décision Modificative n°1",
+      "resume": "Ajustement des crédits du budget pour le Fonds national de péréquation des ressources intercommunales et communales (FPIC).",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220829-04",
+      "titre": "Avenant n°1 au lot 3 Charpente/couverture",
+      "resume": "Ajustements dans le marché de charpente/couverture pour le groupe scolaire avec plus et moins-values.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Projet de rénovation thermique et mise en accessibilité."
+    },
+    {
+      "id": "20220829-05",
+      "titre": "Avenant n°1 au lot 9 Plâtrerie peinture",
+      "resume": "Ajout de faux plafonds dans plusieurs salles du groupe scolaire entraînant une plus-value.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220829-06",
+      "titre": "Avenant n°1 au lot 12 Revêtement de sol / carrelage / faïences",
+      "resume": "Modification avec une plus-value pour un local technique dans le groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220829-07",
+      "titre": "Avenant n°1 au lot 13 Chauffage ventilation",
+      "resume": "Améliorations dans le système de ventilation nécessitant une plus-value sur le chantier scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220829-08",
+      "titre": "Avenant n°1 au lot 15 Electricité",
+      "resume": "Modifications électriques nécessaires pour le chantier de rénovation avec une petite plus-value.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220829-09",
+      "titre": "Avenant n°1 au lot 14 Plomberie",
+      "resume": "Petite moins-value pour des modifications dans le lot plomberie du chantier scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220829-10",
+      "titre": "Avenant n°1 au lot 17 Forages géothermiques",
+      "resume": "Inclure des modifications de forages impliquant une plus-value dans le projet.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220829-11",
+      "titre": "Marché de réalisation d'un réseau d'arrosage automatique du stade de football",
+      "resume": "Installation d'un arrosage automatique pour le stade de football en collaboration avec l'entreprise GREEN STYLE.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Séverine SICHÉ-CHOL",
+            "Odile BRACHET",
+            "Laurent NAULIN",
+            "Loïc TAMISIER",
+            "Marc MIOTTO",
+            "Sylvain NAVARRO",
+            "Pierre-Henri JOUFFRE",
+            "Christiane ROUAND",
+            "Emilie GRAU",
+            "Jean-Jacques COURBON",
+            "Audrey MICHALLET",
+            "Yves CUBLIER",
+            "Charles JULLIAN"
+          ],
+          "CONTRE": [
+            "Pierre-Luc GUITTET"
+          ],
+          "ABSTENTION": [
+            "Jean-Louis MONTCEL"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 1,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": "Nécessité de maintenir le stade de foot fonctionnel et ouvert à d'autres activités."
+    }
+  ]
+}

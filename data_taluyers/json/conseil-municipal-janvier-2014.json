@@ -1,0 +1,417 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2014-01-20",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Jean-Jacques COURBON",
+        "Martine TREVISANI",
+        "Odile BRACHET",
+        "Fabienne ROUX LAFORIE",
+        "Dominique FONS",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Guy DANIEL",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Thierry MICHAUDON",
+        "Gérard CHOLLET",
+        "Dominique CHAPUT"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Véronique MARY",
+          "mandataire": "Dominique FONS"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "André LAMOUILLE",
+        "Guillaume VERPILLIEUX",
+        "Christiane FERRARI"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": null,
+      "titre": "Marché de travaux d’extension de la cuisine et du réfectoire du restaurant scolaire",
+      "resume": "Attribution des lots du marché de travaux pour l'extension de la cuisine et du réfectoire du restaurant scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Financement partiel par le Département du Rhône et Dotation d’Equipement des Territoires Ruraux."
+    },
+    {
+      "id": null,
+      "titre": "Révision des tarifs du restaurant scolaire",
+      "resume": "Augmentation des tarifs de la cantine scolaire à partir du 1er février 2014.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "PENAP du Pays mornantais",
+      "resume": "Accord de la commune pour la réintégration dans le périmètre PENAP des terrains agricoles et naturels concernés par la DUP liée à l’autoroute A45.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Convention d’assistance juridique avec le Centre de Gestion du Rhône – année 2014",
+      "resume": "Approbation de l'avenant à la convention d'assistance juridique avec le Centre de Gestion pour 2014.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Convention 2014-2017 relative à la retraite CNRACL",
+      "resume": "Approbation de la convention pour l'intervention du Centre de Gestion sur les dossiers de retraite CNRACL.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Convention d’entretien de voirie avec la commune de Montagny",
+      "resume": "Approbation de la convention avec la commune de Montagny pour l’entretien du chemin de la Vaure.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Répartition 2013 du produit 2012 des amendes de police",
+      "resume": "Acceptation de la subvention pour la sécurisation de l’environnement des écoles et des infrastructures sportives.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Approbation de l'augmentation de la quotité horaire pour un poste d'Adjoint technique de 2ème classe.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Marché de construction d’une Maison des Associations et d’un plateau sportif – lot 6 Menuiseries intérieures – avenant n°2",
+      "resume": null,
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "AUTRE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Ajournée"
+    },
+    {
+      "id": null,
+      "titre": "Marché de construction d’une Maison des Associations et d’un plateau sportif – lot 11 Serrurerie – avenant n°1",
+      "resume": "Approbation de l'avenant n°1, modifiant le montant du marché du lot 11 avec une moins-value.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Contrat pluriannuel avec le Département du Rhône 2010-2014 – Opération n°2 Aménagement quartier de loisirs en terrain de sport",
+      "resume": "Approbation du plan de financement pour l'aménagement d'un quartier de loisirs.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Marché de construction des toilettes publiques – lot 3 Menuiseries extérieures – avenant n°1",
+      "resume": "Approbation de l'avenant n°1 pour la mise en place d’une crédence derrière le bac à laver extérieur.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Une abstention"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Marché de construction des toilettes publiques – lot 6 Electricité – avenant n°1",
+      "resume": "Approbation de l'avenant n°1 pour l'électricité, incluant des modifications pour chauffage.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Une abstention"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Marché de construction des toilettes publiques – lot 7 Plomberie sanitaire – avenant n°1",
+      "resume": "Approbation de l'avenant n°1 modifiant le matériel de plomberie installée pour le marché des toilettes publiques.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Une abstention"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Marché de construction des toilettes publiques – lot 8 Carrelage – avenant n°1",
+      "resume": "Approbation de l'avenant n°1 pour la mise en place d’une bonde de sol sur le marché de construction des toilettes publiques.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Une abstention"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Révision des droits de place",
+      "resume": "Révision des tarifs des droits de place pour les commerçants occasionnels et les spectacles ambulants.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

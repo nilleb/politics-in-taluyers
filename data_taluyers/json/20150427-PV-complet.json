@@ -1,0 +1,160 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2015-04-27",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Bruno SICARD",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Loïc TAMISIER",
+        "Séverine SICHE-CHOL",
+        "Martine TREVISANI",
+        "Jean-Jacques COURBON",
+        "Véronique GOUTTENOIRE",
+        "Yves CUBLIER",
+        "Audrey MICHALLET",
+        "Guy DANIEL",
+        "Dominique FONS",
+        "Nathalie FORISSIER",
+        "Marc MIOTTO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20150427-01",
+      "titre": "Détermination des taux de promotion pour l’avancement de grade",
+      "resume": "Fixation des ratios d’avancement de grade pour les fonctionnaires territoriaux.",
+      "themes": [
+        "RH",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150427-04",
+      "titre": "Souscription du marché de conception et d’impression du bulletin municipal « Taluyers Infos »",
+      "resume": "Attribution des marchés de conception et d’impression du bulletin municipal.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Subventions aux associations",
+      "resume": "Attribution des subventions aux associations pour l’année 2015.",
+      "themes": [
+        "subventions",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Vente du local de l’ancienne agence postale communale",
+      "resume": "Approbation de la vente du local de l’ancienne agence postale à Yves DAURAT.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150427-07",
+      "titre": "Don du local « Cuvier Adam et Eve » par l’association TALUSATIS",
+      "resume": "Acceptation du don par TALUSATIS à la commune avec l’obligation de conserver sa vocation culturelle.",
+      "themes": [
+        "urbanisme",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

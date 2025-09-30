@@ -1,0 +1,582 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2021-03-29",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Evelyne VIOLLET",
+        "Charles JULLIAN",
+        "Stéphane LEMARCHAND",
+        "Giada RAVET",
+        "Mireille BERTHOUD",
+        "Yves CUBLIER",
+        "Jean-Jacques COURBON",
+        "Christiane ROUAND",
+        "Dominique FONS",
+        "Sylvain NAVARRO",
+        "Annabelle PATRIER",
+        "Jean-Louis MONTCEL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Pierre-Luc GUITTET",
+          "mandataire": "Séverine SICHE-CHOL"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Concetta SAYER CORTAZZI"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20210329-01",
+      "titre": "Budget principal – Approbation du compte de Gestion 2020",
+      "resume": "Approbation du compte de gestion dressé pour l'exercice 2020 par le Receveur.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-02",
+      "titre": "Budget principal – Approbation du compte administratif 2020",
+      "resume": "Approbation du Compte Administratif 2020 du budget principal.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-03",
+      "titre": "Budget principal – Affectation des résultats de l’exercice 2020",
+      "resume": "Affectation des résultats de fonctionnement et d’investissement.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-04",
+      "titre": "Budget principal – vote des taux d’imposition 2021",
+      "resume": "Vote des taux d’imposition des taxes directes locales pour 2021.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Taux de la taxe foncière (bâti) fixé à 27,99%"
+    },
+    {
+      "id": "20210329-05",
+      "titre": "Vote des subventions aux associations et au CCAS",
+      "resume": "Attribution des subventions aux associations et au CCAS.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Christiane ROUAND"
+          ]
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": "Subventions conditionnées pour 'Prieurité talusienne' et 'Talarun'."
+    },
+    {
+      "id": "20210329-06",
+      "titre": "Budget principal – Adoption du Budget primitif 2021",
+      "resume": "Approbation du Budget Primitif principal 2021.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-07",
+      "titre": "Autorisation de programme et crédits de paiement – Rénovation énergétique du groupe scolaire",
+      "resume": "Création de l’AP/CP pour les travaux de rénovation énergétique du groupe scolaire.",
+      "themes": [
+        "urbanisme",
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "AP de 1 408 800 €, CP de 284 800 € pour 2021, 1 124 000 € pour 2022."
+    },
+    {
+      "id": "20210329-08",
+      "titre": "Budget Locaux commerciaux – Approbation du Compte de Gestion 2020",
+      "resume": "Approbation du compte de gestion pour l'exercice 2020, budget 'Locaux commerciaux'.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-09",
+      "titre": "Budget Locaux commerciaux – Approbation du Compte Administratif 2020",
+      "resume": "Approbation du Compte Administratif 2020 du budget 'Locaux commerciaux'.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-10",
+      "titre": "Budget Locaux commerciaux – Affectation du résultat",
+      "resume": "Affectation des résultats du budget 'Locaux commerciaux'.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-11",
+      "titre": "Excédent du budget annexe 'Locaux commerciaux' 2020 – Transfert au Budget principal 2021",
+      "resume": "Transfert de l’excédent d’investissement du budget 'Locaux commerciaux' sur le Budget principal 2021.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-12",
+      "titre": "Budget Locaux commerciaux – Adoption du Budget primitif 2021",
+      "resume": "Approbation du Budget Primitif 'Locaux commerciaux' 2021.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-13",
+      "titre": "Vente d’un véhicule du service technique",
+      "resume": "Autorisation de vente d'un véhicule thermique de type Berlingo.",
+      "themes": [
+        "RH",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Vente effective avec une offre de 6 079,00 €."
+    },
+    {
+      "id": "20210329-14",
+      "titre": "Demande de subventions – Partenariat territorial avec le Département du Rhône",
+      "resume": "Approbation de la demande de subvention pour travaux de rénovation énergétique du groupe scolaire.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-15",
+      "titre": "Modification des statuts de la COPAMO – transfert de la compétence mobilité",
+      "resume": "Approbation du transfert de compétence mobilité à la communauté de communes COPAMO.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-16",
+      "titre": "« Jobs d’été » Création d’emplois non-permanents – annule et remplace la délibération n°20210222-02",
+      "resume": "Création d'emplois saisonniers pour la période du 5 avril au 20 août 2021.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-17",
+      "titre": "Fixation du taux de promotion - Rédacteur",
+      "resume": "Fixation des ratios d’avancement pour le grade de rédacteur principal de 2ème classe.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Taux de promotion fixé à 100%."
+    },
+    {
+      "id": "20210329-18",
+      "titre": "Marché de maîtrise d’œuvre des travaux de rénovation énergétique du groupe scolaire – Désignation du titulaire",
+      "resume": "Désignation de l'Atelier d’architecture RIVAT comme titulaire du marché de maîtrise d’œuvre pour la rénovation du groupe scolaire.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-19",
+      "titre": "Prolongation de la convention d’objectifs et de moyens 2020-2021 avec l’association Léo Lagrange",
+      "resume": "Prolongation de la collaboration avec l'association Léo Lagrange pour les actions jeunesse jusqu'au 31 août 2021.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-20",
+      "titre": "Demande d’un fonds de concours « Actions complémentaires de proximité jeunesse » auprès de la Communauté de communes du Pays Mornantais – année 2021",
+      "resume": "Demande de fonds de concours pour financer des actions jeunesse complémentaires pour 2021.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-21",
+      "titre": "Demande de subventions dans le cadre des amendes de police",
+      "resume": "Demande de subventions pour travaux de sécurisation de voirie.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-22",
+      "titre": "Convention avec la COPAMO relative au versement d’un fonds de concours voirie – route des Fontaines - annule et remplace la délibération n°20210222-09",
+      "resume": "Approbation d'une nouvelle convention pour le versement d’un fonds de concours voirie à la COPAMO.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210329-23",
+      "titre": "Convention cadre avec le CAUE",
+      "resume": "Approbation de la convention avec le CAUE pour la requalification de la montée de l’église.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

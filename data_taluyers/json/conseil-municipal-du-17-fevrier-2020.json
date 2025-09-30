@@ -1,0 +1,576 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2020-02-17",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Isabelle PETIT",
+        "Séverine SICHE CHOL",
+        "Marc MIOTTO",
+        "Jean-Jacques COURBON",
+        "Bruno SICARD",
+        "Yves CUBLIER",
+        "Charles JULLIAN",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Véronique GOUTTENOIRE",
+          "mandataire": "Marc MIOTTO"
+        }
+      ],
+      "ABSENT": [
+        "Martine TREVISANI",
+        "Guy DANIEL",
+        "Jean-Pierre MARCONNET",
+        "Nathalie FORISSIER",
+        "David SEGURA"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20200217-01",
+      "titre": "Budget principal – Approbation du Compte de Gestion 2019",
+      "resume": "Approbation du compte de gestion pour 2019 par le Receveur, visé et certifié conforme par l'ordonnateur.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-02",
+      "titre": "Budget principal – Approbation du compte administratif 2019",
+      "resume": "Approbation du Compte Administratif 2019 du budget principal et attestation de sa concordance avec le Compte de Gestion.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-03",
+      "titre": "Budget principal – Affectation des résultats",
+      "resume": "Affectation du résultat de fonctionnement excédentaire de 440 469,18 € et du résultat d’investissement de 43 627,51 €.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-04",
+      "titre": "Budget principal – Vote des taux d’imposition 2020",
+      "resume": "Vote des taux d’imposition des trois taxes directes locales pour l’année 2020.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-05",
+      "titre": "Budget principal – Vote des subventions aux associations et au CCAS",
+      "resume": "Attribution des subventions aux associations et au CCAS pour 2020.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-06",
+      "titre": "Budget principal – Adoption du budget primitif 2020",
+      "resume": "Approbation du Budget Primitif principal 2020 voté par chapitres en section de fonctionnement et par opération en section d’investissement.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-07",
+      "titre": "Modification de l’autorisation de programme et crédits de paiement – Construction d’une bibliothèque",
+      "resume": "Révision de l’AP/CP n°2 pour la construction d’une bibliothèque et rénovation de l’ancienne bibliothèque.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-08",
+      "titre": "Modification de l’autorisation de programme et crédits de paiement – Rénovation de l’église",
+      "resume": "Révision de l’AP/CP n°3 pour la rénovation de l’église.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-09",
+      "titre": "Budget locaux commerciaux – Approbation du Compte de Gestion 2019",
+      "resume": "Approbation du compte de gestion 2019 par le Receveur pour le budget des locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-10",
+      "titre": "Budget Locaux commerciaux – Approbation du Compte Administratif 2019",
+      "resume": "Approbation du Compte Administratif 2019 pour le budget des locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-11",
+      "titre": "Budget Locaux commerciaux – Affectation du résultat",
+      "resume": "Affectation des résultats du Compte Administratif et du Compte de Gestion de l’exercice 2019.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-12",
+      "titre": "Excédent du budget annexe « Locaux commerciaux » 2019 – Transfert au Budget principal 2020",
+      "resume": "Transfert de l’excédent d’investissement du budget « Locaux commerciaux » 2019 vers le Budget principal 2020.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-13",
+      "titre": "Budget Locaux commerciaux – Adoption du Budget primitif 2020",
+      "resume": "Approbation du Budget Primitif pour l’année 2020 concernant les locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-14",
+      "titre": "Maintien ou non des fonctions d’Adjoint au Maire après retrait de ses délégations",
+      "resume": "Le Conseil décide de ne pas maintenir M. Guy DANIEL dans ses fonctions d’Adjoint.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET",
+            "Dominique FONS",
+            "Loïc TAMISIER",
+            "Sylvie ROMAN-CLAVELLOUX",
+            "Séverine SICHE CHOL",
+            "Marc MIOTTO",
+            "Jean-Jacques COURBON",
+            "Bruno SICARD",
+            "Yves CUBLIER",
+            "Charles JULLIAN",
+            "Audrey MICHALLET"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Isabelle PETIT"
+          ]
+        },
+        "compteur": {
+          "pour": 12,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-15",
+      "titre": "Détermination du nombre d’Adjoints au Maire",
+      "resume": "Le Conseil fixe à cinq le nombre d’adjoints au Maire.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-16",
+      "titre": "Election du 5ème Adjoint au Maire",
+      "resume": "Élection de M. Jean-Jacques COURBON en tant que 5ème adjoint.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "AUTRE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET",
+            "Dominique FONS",
+            "Loïc TAMISIER",
+            "Sylvie ROMAN-CLAVELLOUX",
+            "Isabelle PETIT",
+            "Séverine SICHE CHOL",
+            "Marc MIOTTO",
+            "Jean-Jacques COURBON",
+            "Bruno SICARD",
+            "Yves CUBLIER",
+            "Charles JULLIAN"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 12,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": "1 bulletin blanc ou nul"
+    },
+    {
+      "id": "20200217-17",
+      "titre": "Création d’emplois non-permanents",
+      "resume": "Approbation de la création d’emplois non-permanents pour besoins saisonniers et occasionnels.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-18",
+      "titre": "Conventions de mise à disposition d’agents de la COPAMO",
+      "resume": "Approbation des conventions de mise à disposition d’agents par la COPAMO dans le cadre de la plate-forme d’ingénierie.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-19",
+      "titre": "Marché de construction d’une bibliothèque – Modification d’un contrat en cours",
+      "resume": "Approbation de la modification du contrat pour le lot 13 concernant des travaux de plomberie sanitaires.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-20",
+      "titre": "Mandat de vente de l’appartement communal sis 24 rue Saint Agathe",
+      "resume": "Approbation de la souscription d’un mandat de vente pour un appartement communal.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-21",
+      "titre": "Adhésion de la commune de Taluyers au CAUE",
+      "resume": "Approbation de l’adhésion au Conseil d’Architecture d’Urbanisme et de l’Environnement.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200217-22",
+      "titre": "Actions en faveur de la transition énergétique",
+      "resume": "Approbation du règlement d’attribution des aides financières pour la transition énergétique en 2020.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-08-30",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Giada RAVET",
+        "Geneviève CASCHETTA",
+        "Marc MIOTTO",
+        "Evelyne VIOLLET",
+        "Mireille BERTHOUD",
+        "Jean-Louis MONTCEL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Evelyne VIOLLET"
+        }
+      ],
+      "ABSENT": [
+        "Emilie GRAU",
+        "Sylvain NAVARRO",
+        "Yves CUBLIER",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE",
+        "Pierre-Luc GUITTET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20240830-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création et modification de postes pour le bon fonctionnement des services.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240830-02",
+      "titre": "Création d'emplois non-permanents",
+      "resume": "Création de deux emplois non-permanents pour accroissement temporaire d'activité.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240830-03",
+      "titre": "Convention unique avec le Centre de Gestion de la Fonction Publique Territoriale du Rhône - Actualisation",
+      "resume": "Actualisation de la convention avec le CDG69 pour les missions de la fonction publique territoriale.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240830-04",
+      "titre": "Acquisition d'un camion-benne pour le service technique",
+      "resume": "Approbation de l'achat d'un nouveau camion-benne pour le service technique.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240830-05",
+      "titre": "Approbation du marché de mise en œuvre et de maintenance d'un dispositif de vidéoprotection",
+      "resume": "Approbation du marché de vidéoprotection avec l'entreprise CITEOS.",
+      "themes": [
+        "sécurité",
+        "marches",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240830-06",
+      "titre": "Modalités d'adhésion à l'espace jeunes",
+      "resume": "Approbation des nouvelles modalités d'adhésion à l'espace jeunes.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240830-07",
+      "titre": "Budget Locaux commerciaux 2024 - Décision Modificative n°1",
+      "resume": "Régularisation des provisions sur charges avec le cabinet d'infirmières.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

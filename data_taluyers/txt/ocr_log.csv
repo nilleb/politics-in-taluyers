@@ -1,0 +1,19 @@
+pdf,txt,status,pages,error
+data_taluyers/raster_pdfs/proces-verbal-du-conseil-municipal-du-07072025.pdf,data_taluyers/txt/proces-verbal-du-conseil-municipal-du-07072025.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/proces-verbal-du-conseil-municipal-du-10022025.pdf,data_taluyers/txt/proces-verbal-du-conseil-municipal-du-10022025.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/proces-verbal-du-conseil-municipal-du-19052025.pdf,data_taluyers/txt/proces-verbal-du-conseil-municipal-du-19052025.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/proces-verbal-du-conseil-municipal-du-31032025.pdf,data_taluyers/txt/proces-verbal-du-conseil-municipal-du-31032025.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-03062024.pdf,data_taluyers/txt/pv-du-cm-du-03062024.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-04072022-2.pdf,data_taluyers/txt/pv-du-cm-du-04072022-2.txt,ERROR,0,"API error occurred: Status 401
+{""detail"":""Unauthorized""}"
+data_taluyers/raster_pdfs/pv-du-cm-du-05022024.pdf,data_taluyers/txt/pv-du-cm-du-05022024.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-07102024.pdf,data_taluyers/txt/pv-du-cm-du-07102024.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-08072024.pdf,data_taluyers/txt/pv-du-cm-du-08072024.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-09052022.pdf,data_taluyers/txt/pv-du-cm-du-09052022.txt,ERROR,0,"API error occurred: Status 401
+{""detail"":""Unauthorized""}"
+data_taluyers/raster_pdfs/pv-du-cm-du-16122024.pdf,data_taluyers/txt/pv-du-cm-du-16122024.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-18112024.pdf,data_taluyers/txt/pv-du-cm-du-18112024.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-25032024.pdf,data_taluyers/txt/pv-du-cm-du-25032024.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-28112022.pdf,data_taluyers/txt/pv-du-cm-du-28112022.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-29042024.pdf,data_taluyers/txt/pv-du-cm-du-29042024.txt,SKIPPED_EXISTS,,
+data_taluyers/raster_pdfs/pv-du-cm-du-30082024.pdf,data_taluyers/txt/pv-du-cm-du-30082024.txt,SKIPPED_EXISTS,,

@@ -1,0 +1,388 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-10-03",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Mme Mireille BERTHOUD"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Sylvain NAVARRO",
+        "Pierre-Henri JOUFFRE",
+        "Pierre-Luc GUITTET",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Giada RAVET",
+        "Audrey MICHALLET",
+        "Yves CUBLIER",
+        "Dominique FONS",
+        "Jean-Louis MONTCEL"
+      ],
+      "EXCUSE": [
+        "Evelyne VIOLLET",
+        "Geneviève CASCHETTA",
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Marc MIOTTO"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20221003-01",
+      "titre": "Modification des indemnités de fonction des élus",
+      "resume": "Redistribution de l'enveloppe globale indemnitaire des élus en respectant les taux maximaux légaux.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Séverine SICHÉ-CHOL",
+            "Odile BRACHET",
+            "Loïc TAMISIER",
+            "Marc MIOTTO",
+            "Mireille BERTHOUD",
+            "Pierre-Henri JOUFFRE",
+            "Pierre-Luc GUITTET",
+            "Charles JULLIAN",
+            "Christiane ROUAND",
+            "Emilie GRAU",
+            "Giada RAVET",
+            "Audrey MICHALLET",
+            "Yves CUBLIER",
+            "Dominique FONS",
+            "Jean-Louis MONTCEL"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Sylvain NAVARRO",
+            "Laurent NAULIN"
+          ]
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": 3,
+      "notes": null
+    },
+    {
+      "id": "20221003-02",
+      "titre": "Désignation d'un correspondant incendie et secours",
+      "resume": "Nomination de M. Sylvain NAVARRO en tant que correspondant incendie et secours.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Séverine SICHÉ-CHOL",
+            "Odile BRACHET",
+            "Laurent NAULIN",
+            "Loïc TAMISIER",
+            "Marc MIOTTO",
+            "Mireille BERTHOUD",
+            "Pierre-Henri JOUFFRE",
+            "Pierre-Luc GUITTET",
+            "Charles JULLIAN",
+            "Christiane ROUAND",
+            "Emilie GRAU",
+            "Giada RAVET",
+            "Audrey MICHALLET",
+            "Yves CUBLIER",
+            "Dominique FONS",
+            "Jean-Louis MONTCEL"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Sylvain NAVARRO"
+          ]
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": 5,
+      "notes": null
+    },
+    {
+      "id": "20221003-03",
+      "titre": "Demande d'admission en non-valeur",
+      "resume": "Vote pour l'admission en non-valeur de créances irrécouvrables pour un montant de 289,80 €.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 5,
+      "notes": null
+    },
+    {
+      "id": "20221003-04",
+      "titre": "Budget principal 2022 - Décision Modificative n°2",
+      "resume": "Ajustement budgétaire pour les projets de voirie, matériel informatique et arrosage automatique.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 6,
+      "notes": null
+    },
+    {
+      "id": "20221003-05",
+      "titre": "Modification du tableau des effectifs et emploi non-permanent",
+      "resume": "Création d'un poste d'adjoint technique à temps complet pour renforcer le service technique.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 8,
+      "notes": null
+    },
+    {
+      "id": "20221003-06",
+      "titre": "Vote de subvention au FCSO69",
+      "resume": "Modification de la subvention au FCSO69 à 4000 € pour aligner avec la redevance municipale.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 10,
+      "notes": null
+    },
+    {
+      "id": "20221003-07",
+      "titre": "Convention de passage - sentier pédestre en prolongement d'un chemin rural",
+      "resume": "Approbation d'une convention destinée à autoriser le passage sur des terrains privés pour un itinéraire de randonnée.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 11,
+      "notes": null
+    },
+    {
+      "id": "20221003-08",
+      "titre": "Approbation d'une convention avec la COPAMO pour le versement d'un fonds de concours",
+      "resume": "Convention pour le financement des travaux de voirie rue du Prieuré, rue Saint-Marc et rue des Blanchardes.",
+      "themes": [
+        "budget",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 13,
+      "notes": null
+    },
+    {
+      "id": "20221003-09",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 1 - Gros-œuvre",
+      "resume": "Approbation de l'avenant concernant des modifications de travaux pour le lot Gros-œuvre du groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 14,
+      "notes": null
+    },
+    {
+      "id": "20221003-10",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°2 au lot 3 - Charpente-couverture",
+      "resume": "Approbation de l'avenant pour réduire les coûts en raison de l'abaissement des faux plafonds et annulation de fenêtres de toit.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 15,
+      "notes": null
+    },
+    {
+      "id": "20221003-11",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 7 - Menuiseries extérieures",
+      "resume": "Avenant pour changer les stores extérieurs par des stores intérieurs sur le lot Menuiseries extérieures.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 16,
+      "notes": null
+    },
+    {
+      "id": "20221003-12",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 8 - Serrurerie",
+      "resume": "Approbation de l'avenant pour le renforcement nécessaire de la poutre dans la salle de motricité.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 17,
+      "notes": null
+    },
+    {
+      "id": "20221003-13",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°2 au lot 15 Electricité",
+      "resume": "Approbation de l'avenant pour asservir le fonctionnement des chauffe-eaux afin de faire des économies d'énergie.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 18,
+      "notes": null
+    }
+  ]
+}

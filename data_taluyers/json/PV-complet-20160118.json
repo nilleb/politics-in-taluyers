@@ -1,0 +1,209 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2016-01-18",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "M. Bruno SICARD"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Bruno SICARD",
+        "Jean-Pierre MARCONNET",
+        "Martine TREVISANI",
+        "Dominique FONS",
+        "Marc MIOTTO",
+        "Yves CUBLIER",
+        "David SEGURA",
+        "Guy DANIEL",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Loïc TAMISIER",
+        "Jean-Jacques COURBON",
+        "Nathalie FORISSIER",
+        "Charles JULLIAN",
+        "Véronique GOUTTENOIRE"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Isabelle PETIT",
+          "mandataire": "Sylvie ROMAN CLAVELLOUX"
+        },
+        {
+          "mandant": "Séverine SICHE CHOL",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20160118-01",
+      "titre": "Mise à jour des statuts de la COPAMO pour la compétence « Enfance »",
+      "resume": "Mise à jour des statuts de la COPAMO pour la compétence « Enfance » afin de régler des problèmes de compétence pour l'accueil de loisirs et de financement par la CAF.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160118-02",
+      "titre": "Souscription du marché de maîtrise d’œuvre pour la construction d’un local périscolaire",
+      "resume": "Approbation du marché de maîtrise d’œuvre pour la construction d’un local périscolaire avec M. Dominique PUTZ.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160118-03",
+      "titre": "Construction d’un local pour le service périscolaire – demande de subvention dans le cadre de la DETR 2016",
+      "resume": "Demande de subvention DETR pour la construction d’un local pour le service périscolaire.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160118-04",
+      "titre": "Marché d’agencement intérieur du local commercial n°1 – Avenant en moins-value",
+      "resume": "Avenant en moins-value de 1 323,00 € HT au marché d’agencement intérieur du local commercial n°1.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160118-05",
+      "titre": "Autorisation d’engager, liquider et mandater les dépenses d’investissement de l’exercice 2016",
+      "resume": "Autorisation d’engager, liquider et mandater les dépenses d’investissement de 2016 dans la limite du quart des crédits ouverts au budget précédent.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160118-06",
+      "titre": "Transfert d’office de voirie privée dans le domaine public – Rue de la Tour",
+      "resume": "Transfert d’office de la rue de la Tour dans le domaine public communal.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160118-07",
+      "titre": "Approbation de la convention financière entre les communes et la COPAMO pour l’ADS",
+      "resume": "Approbation de la convention financière pour le remboursement des missions d’ADS confiées au SOL.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

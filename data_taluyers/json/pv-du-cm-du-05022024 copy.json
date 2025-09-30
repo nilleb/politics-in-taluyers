@@ -1,0 +1,256 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-02-05",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Charles JULLIAN",
+        "Giada RAVET",
+        "Jean-Jacques COURBON",
+        "Pierre-Luc GUITTET",
+        "Mireille BERTHOUD",
+        "Laurent NAULIN",
+        "Marc MIOTTO",
+        "Geneviève CASCHETTA",
+        "Yves CUBLIER",
+        "Loïc TAMISIER",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Sylvain NAVARRO",
+          "mandataire": "Odile BRACHET-CONVERT"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "240205-01",
+      "titre": "Désignation d'un élu représentant au CCAS",
+      "resume": "Désigne en qualité de membres élus du conseil d'administration du CCAS plusieurs conseillers.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "240205-02",
+      "titre": "Adoption du règlement budgétaire et financier",
+      "resume": "Adoption du référentiel budgétaire et comptable M57, incluant un règlement budgétaire et financier.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "240205-03",
+      "titre": "Création d'emplois non permanents",
+      "resume": "Décide de la création d'un emploi non permanent pour un accroissement temporaire d'activité lié à l'animation jeunesse.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "240205-04",
+      "titre": "Installation de la vidéoprotection - Demande de subvention FIPD 2024",
+      "resume": "Approbation et demande de subvention au titre du FIPD 2024 pour le déploiement de la vidéoprotection.",
+      "themes": [
+        "securite",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "240205-05",
+      "titre": "Convention constitutive du groupement de commande pour la signalisation",
+      "resume": "Approbation de la convention de groupement pour les travaux de signalisation.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "240205-06",
+      "titre": "Répartition 2023 des amendes de police",
+      "resume": "Engagement à réaliser les travaux liés au projet de sécurisation et mobilité douce.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "240205-07",
+      "titre": "Mission Régionale d'Autorité Environnementale - PLU",
+      "resume": "Décide de ne pas procéder à l'évaluation environnementale suite à l'avis de la MRAE sur la modification du PLU.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "240205-08",
+      "titre": "Convention cadre avec la MFR La petite Gonthière",
+      "resume": "Approbation d'une convention pour un partenariat technique et pédagogique pour la biodiversité.",
+      "themes": [
+        "environnement"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "240205-09",
+      "titre": "Subvention pour la végétalisation des centres-villages",
+      "resume": "Demande de subvention pour la renaturation et végétalisation de la cour de l'école élémentaire.",
+      "themes": [
+        "subventions",
+        "environment"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

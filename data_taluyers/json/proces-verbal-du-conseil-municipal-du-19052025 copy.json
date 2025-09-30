@@ -1,0 +1,375 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2025-05-19",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Sylvain NAVARRO",
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL",
+        "Christiane ROUAND",
+        "Audrey MICHALLET",
+        "Giada RAVET",
+        "Emilie GRAU",
+        "Pierre-Luc GUITTET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Loïc TAMISIER",
+          "mandataire": "Audrey MICHALLET"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Odile BRACHET-CONVERT"
+        },
+        {
+          "mandant": "Séverine SICHE-CHOL",
+          "mandataire": "Pierre-Luc GUITTET"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "n²0250519-01",
+      "titre": "Approbation de la modification n°2 du Plan Local d'Urbanisme",
+      "resume": "Modification du PLU pour réduire l'artificialisation des sols, conserver la biodiversité et adapter aux changements climatiques.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "RETIRE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Délibération ajournée suite à des interrogations sur la hauteur des bâtiments en zone UI."
+    },
+    {
+      "id": "n°20250519-02",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Suppression d'un poste d'adjoint administratif et création d'un nouveau poste avec une nouvelle quotité.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "n°20250519-03",
+      "titre": "Sollicitation d'une subvention dans le cadre du Fonds d'Aide à l'Investissement",
+      "resume": "Demande de subvention pour le déploiement de vidéoprotection.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Fonds d'aide pour renforcer la vidéoprotection."
+    },
+    {
+      "id": "n°20250519-04",
+      "titre": "Sollicitation d’une subvention avec le Département du Rhône",
+      "resume": "Financement pour l'installation de panneaux photovoltaïques.",
+      "themes": [
+        "subventions",
+        "transition énergétique"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "n°20250519-05",
+      "titre": "Rectification d'erreur matérielle dans la délibération n°2050331-04",
+      "resume": "Correction des montants de subventions et approbation de nouvelles subventions.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Montants des subventions rectifiés pour deux associations."
+    },
+    {
+      "id": "n°20250519-06",
+      "titre": "Modification du règlement d'utilisation de salles",
+      "resume": "Changement des règlements pour la Salle d'Animation et des Barbelous.",
+      "themes": [
+        "marches",
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Distinction des règlements pour associations et particuliers."
+    },
+    {
+      "id": "n°20250519-07",
+      "titre": "Attribution du marché pour l'espace loisirs multisports",
+      "resume": "Approbation pour travaux d'aménagement d'espace de loisirs.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Marché attribué à Green-Style."
+    },
+    {
+      "id": "n°20250519-08",
+      "titre": "Subvention à M. et Mme PERNOD pour travaux énergétiques",
+      "resume": "Subvention pour l'amélioration énergétique de leur résidence principale.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "n°20250519-09",
+      "titre": "Subvention à M. SIOUANE pour travaux énergétiques",
+      "resume": "Subvention pour l'amélioration énergétique de sa résidence.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "n°20250519-10",
+      "titre": "Subvention à M. et Mme PIEGAY pour travaux d'adaptation",
+      "resume": "Subvention pour l'adaptation de leur résidence principale.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "n°20250519-11",
+      "titre": "Sollicitation d'une subvention des amendes de police",
+      "resume": "Répartition du produit des amendes pour travaux de sécurité routière.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Zone 30 sur diverses voies de l'agglomération."
+    },
+    {
+      "id": "n°20250519-12",
+      "titre": "Adressage et dénomination des voies de la commune",
+      "resume": "Choix des noms de rues, voies, places et lieux-dits.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Faciliter la fourniture de services publics et commerciaux."
+    },
+    {
+      "id": "n°20250519-13",
+      "titre": "Mise en valeur d'un poste de distribution publique d'électricité",
+      "resume": "Projet d'embellissement d'un poste électrique en collaboration avec ENEDIS.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "n°20250519-14",
+      "titre": "Rénovation de la cuisine de la salle d'animation",
+      "resume": "Approbation des lots pour travaux de rénovation de la cuisine.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Travaux divisés en lots pour murs, électricité, et équipements."
+    }
+  ]
+}

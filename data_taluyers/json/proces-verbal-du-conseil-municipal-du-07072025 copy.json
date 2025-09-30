@@ -1,0 +1,371 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2025-07-07",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL",
+        "Christiane ROUAND",
+        "Giada RAVET",
+        "Yves CUBLIER",
+        "Emilie GRAU",
+        "Pierre-Luc GUITTET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Séverine SICHE-CHOL",
+          "mandataire": "Pierre-Luc GUITTET"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Charles JULLIAN"
+        },
+        {
+          "mandant": "Mireille BERTHOUD",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Laurent NAULIN"
+        }
+      ],
+      "ABSENT": [
+        "Sylvain NAVARRO",
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": null,
+      "titre": "Approbation du procès-verbal de la séance du Conseil municipal du 19 mai 2025",
+      "resume": "Le PV de la séance du 19 mai 2025 est approuvé à l'unanimité.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250707-01",
+      "titre": "Achat en VEFA d'un local professionnel pour la petite enfance",
+      "resume": "La commune souhaite acquérir un local pour la petite enfance en partenariat avec la COPAMO.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Intérêt stratégique de l'acquisition; financement par subventions CAF et fonds de concours COPAMO."
+    },
+    {
+      "id": "20250707-02",
+      "titre": "Approbation de l'avenant n°1 à la VEFA pour travaux modificatifs",
+      "resume": "Avenant pour intégrer des modifications demandées par COPAMO : casquette béton et BSO.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Surcoût remboursé par COPAMO."
+    },
+    {
+      "id": "20250707-03",
+      "titre": "Acceptation d'un legs",
+      "resume": "Acceptation de la maison de M. Jean-Paul CHEVAL en legs à la commune.",
+      "themes": [
+        "bien"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Mise au profit des œuvres sociales ou conservation dans le patrimoine."
+    },
+    {
+      "id": "20250707-04",
+      "titre": "Recomposition du Conseil Communautaire de la COPAMO",
+      "resume": "Fixation du nombre et de la répartition des sièges pour la prochaine mandature.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Accord local plébiscité pour maintien de la composition actuelle : 37 sièges."
+    },
+    {
+      "id": "20250707-05",
+      "titre": "Budget principal 2025 – Décision Modificative n°1",
+      "resume": "Adjustments in the 2025 budget for maintenance and improvements.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET-CONVERT",
+            "Laurent NAULIN",
+            "Loïc TAMISIER",
+            "Charles JULLIAN",
+            "Marc MIOTTO",
+            "Evelyne VIOLLET",
+            "Jean-Louis MONTCEL",
+            "Christiane ROUAND",
+            "Giada RAVET",
+            "Yves CUBLIER",
+            "Emilie GRAU"
+          ],
+          "CONTRE": [
+            "Pierre-Luc GUITTET",
+            "Séverine SICHE-CHOL (par p. GUITTET)"
+          ],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 2,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250707-06",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création et modification des postes d'adjoint d'animation.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Adaptation des plannings et anticipation des recrutements."
+    },
+    {
+      "id": "20250707-07",
+      "titre": "Création d'emplois non-permanents",
+      "resume": "Recrutement saisonnier et temporaire pour besoins estivaux et congés.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250707-08",
+      "titre": "Attribution d'une aide financière pour adaptation de résidence principale",
+      "resume": "Aide de 831 € pour l'adaptation de la salle de bain d'une résidence principale.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250707-09",
+      "titre": "Avenant n°1 du lot Rénovation des murs et des plinthes",
+      "resume": "Réduction de 1100 € HT dans le lot de rénovation de la cuisine de la salle d'animation.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Réduction de coût par remplacement de matériaux."
+    },
+    {
+      "id": "20250707-10",
+      "titre": "Attribution du marché de restauration scolaire",
+      "resume": "Contrat d'un an pour la fourniture et livraison de repas scolaires à SAS LATURINOISE EN K2 PAUSE.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Intégration de produits bio et locaux dans l'offre gagnante."
+    },
+    {
+      "id": "20250707-11",
+      "titre": "Attribution du marché de végétalisation des cours d'école",
+      "resume": "Marché attribué à LE NOUVEAU PAYSAGE pour la végétalisation des cours d'école.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Option jeux d'équilibre et économies par négociation réussie."
+    },
+    {
+      "id": "20250707-12",
+      "titre": "Attribution du marché de fourniture et installation d'un jeu extérieur pour la cour de l'école maternelle",
+      "resume": "Marché attribué à TERRES DE LOISIRS pour un montant de 20501,29 € HT.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Choix suite avis des enseignants et propositions des entreprises."
+    }
+  ]
+}

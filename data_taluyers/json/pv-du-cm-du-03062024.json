@@ -1,0 +1,259 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-06-03",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "M. BIAGGI",
+      "M. TORLOTTING",
+      "M. GIROUD-JARNIOUD"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Yves CUBLIER",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET",
+        "Pierre-Luc GUITTET",
+        "Mireille BERTHOUD",
+        "Giada RAVET",
+        "Geneviève CASCHETTA"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Sylvain NAVARRO",
+        "Marc MIOTTO",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20240603-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Suppression du poste d'ATSEM principal et création d'un poste d'Adjoint d'animation.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 3,
+      "notes": null
+    },
+    {
+      "id": "20240603-02",
+      "titre": "Nature et durée des autorisations spéciales d'absence",
+      "resume": "Instaurer et encadrer des ASA pour les agents de la collectivité.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 5,
+      "notes": null
+    },
+    {
+      "id": "20240603-03",
+      "titre": "Modalités de fonctionnement du Compte Epargne Temps",
+      "resume": "Introduction d'un Compte Epargne Temps pour les agents fonctionnaires.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 9,
+      "notes": null
+    },
+    {
+      "id": "20240603-04",
+      "titre": "Mise en place d'une démarche de prévention des risques psychosociaux",
+      "resume": "Elaboration d'un plan de prévention des risques psychosociaux après un diagnostic interne.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Mireille BERTHOUD",
+            "Jean-Louis MONTCEL"
+          ]
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": 11,
+      "notes": null
+    },
+    {
+      "id": "20240603-05",
+      "titre": "Délibération rectificative - Acquisition de parcelles rue du Prieuré",
+      "resume": "Rectification des numéros de parcelles à acquérir pour le réaménagement de la rue du Prieuré.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 13,
+      "notes": null
+    },
+    {
+      "id": "20240603-06",
+      "titre": "Convention de partenariat pour la gestion de l'Agence postale communale",
+      "resume": "Nouvelle convention avec La Poste pour la gestion de l'agence postale communale.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 15,
+      "notes": null
+    },
+    {
+      "id": "20240603-07",
+      "titre": "Exonération d'une redevance d'occupation du domaine public",
+      "resume": "Exonération exceptionnelle de la redevance pour les nouveaux propriétaires du bar pour l'année 2024.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 17,
+      "notes": null
+    },
+    {
+      "id": "20240603-08",
+      "titre": "Subvention à l'association Triangle des sapeurs-pompiers TMC",
+      "resume": "Octroi d'une subvention de 1000 € à l'association Triangle des sapeurs-pompiers Taluyers/Montagny/Chassagny.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 18,
+      "notes": null
+    },
+    {
+      "id": "20240603-09",
+      "titre": "Convention avec l'association « Projet Colibri de reboisement du Pays Mornantais »",
+      "resume": "Participation à une initiative de reboisement avec l'association Colibri.",
+      "themes": [
+        "subventions",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 19,
+      "notes": "Jean-Louis MONTCEL, trésorier de l'association, ne prend pas part au vote."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-05-09",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "M. Pascal OUTREBON",
+        "Mme Séverine SICHÉ-CHOL",
+        "Mme Odile BRACHET-CONVERT",
+        "M. Laurent NAULIN",
+        "Mme Geneviève CASCHETTA",
+        "M. Loïc TAMISIER",
+        "M. Jean-Jacques COURBON",
+        "Mme Dominique FONS",
+        "Mme Christiane ROUAND",
+        "Mme Mireille BERTHOUD",
+        "M. Marc MIOTTO",
+        "Mme Emilie GRAU",
+        "Mme Giada RAVET",
+        "M. Sylvain NAVARRO",
+        "M. Pierre-Henri JOUFFRE"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Mme Audrey MICHALLET",
+          "mandataire": "M. Loïc TAMISIER"
+        },
+        {
+          "mandant": "M. Pierre-Luc GUITTET",
+          "mandataire": "Mme Séverine SICHE-CHOL"
+        },
+        {
+          "mandant": "M. Charles JULLIAN",
+          "mandataire": "M. Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "M. Jean-Louis MONTCEL",
+        "M. Yves CUBLIER",
+        "Mme Evelyne VIOLLET",
+        "M. Stéphane LEMARCHAND",
+        "M. Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "Délibération n²0220509-01",
+      "titre": "Composition du conseil municipal - Installation d'un nouveau conseiller municipal",
+      "resume": "Prise d’acte de la démission de Mme Concetta SAYER et installation de M. Pierre-Henri JOUFFRE en qualité de conseiller municipal ; modification du tableau du conseil.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "INCONNU",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Fondement juridique cité : CGCT L2121-4, Code électoral art. 270."
+    },
+    {
+      "id": "Délibération n²0211122-02",
+      "titre": "Modification des commissions municipales",
+      "resume": "Suite à la démission de Mme Concetta SAYER, ajustement de la composition des commissions municipales, notamment l’intégration de M. Pierre-Henri JOUFFRE et la liste des membres par commission.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Fondement juridique cité : CGCT L2121-22. Commissions concernées : Urbanisme-activité économique ; Affaires scolaires et jeunesse ; Animation ; Transition écologique ; Bâtiments ; Espaces verts."
+    },
+    {
+      "id": "Délibération n²20211122-03",
+      "titre": "Création d'un emploi non permanent",
+      "resume": "Suppression d’un emploi non permanent d’adjoint d’animation (faute de candidatures) et création d’un emploi non permanent d’adjoint technique (cat. C) de 26,5 h/hebdo du 10 mai au 7 juillet 2022 pour faire face à un accroissement temporaire d’activité (surveillance pause méridienne et renfort technique).",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Fondement juridique cité : Code général de la fonction publique L332-23-10. Rémunération par référence au 1er échelon du grade de recrutement. Crédits inscrits au budget."
+    },
+    {
+      "id": "Délibération n²20211122-04",
+      "titre": "Demande de subventions auprès du Département - Répartition du produit des amendes de police 2022",
+      "resume": "Autorisation de solliciter la subvention maximale du Département du Rhône au titre de la répartition des amendes de police pour l’étude mobilité et modes actifs.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Références CGCT R2334-10 à R2334-12. Objet : étude et mise en œuvre de plans de circulation."
+    },
+    {
+      "id": "Délibération n²20211122-05",
+      "titre": "Demande de subventions auprès de la COPAMO - Aide à la réalisation de projets d'aménagement modes actifs / pacification de la circulation",
+      "resume": "Autorisation de solliciter la subvention maximale de la COPAMO pour des travaux et équipements de mobilité douce, conformément aux préconisations de l’étude en cours sur Taluyers.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "S’inscrit dans la compétence COPAMO « Actions de transition énergétique et écologique » et la politique de promotion des modes actifs."
+    }
+  ]
+}

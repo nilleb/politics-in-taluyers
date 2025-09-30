@@ -1,0 +1,206 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2020-01-13",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Séverine SICHE CHOL",
+        "Marc MIOTTO",
+        "Jean-Jacques COURBON",
+        "Bruno SICARD",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        },
+        {
+          "mandant": "Véronique GOUTTENOIRE",
+          "mandataire": "Marc MIOTTO"
+        }
+      ],
+      "ABSENT": [
+        "Guy DANIEL",
+        "Audrey MICHALLET",
+        "Jean-Pierre MARCONNET",
+        "Nathalie FORISSIER",
+        "David SEGURA"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20200113-01",
+      "titre": "Subvention exceptionnelle en faveur de la commune du TEIL à l'occasion du séisme",
+      "resume": "Allocation d'une subvention de 300 € à la commune du TEIL suite au séisme du 11 novembre 2019.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200113-02",
+      "titre": "Répartition 2019 du produit 2018 des amendes de police - engagement de réalisation des travaux",
+      "resume": "Engagement à réaliser les travaux de voirie financés par la répartition des amendes de police.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200113-03",
+      "titre": "Marché de construction d'une bibliothèque et réhabilitation de l'ancienne bibliothèque en restaurant scolaire - Modification du contrat Lot 13 Chauffage VMC",
+      "resume": "Modification du contrat pour travaux de ventilation dans la nouvelle salle de restauration scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200113-04",
+      "titre": "Marché de restauration de l'église - Modification du contrat Lot 1 Maçonnerie - enduits",
+      "resume": "Modification du contrat pour travaux de maçonnerie et traitement des tâches d'humidité sur l'église.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200113-05",
+      "titre": "Marché de restauration de l'église - Modification du contrat Lot 4 Menuiserie ébénisterie",
+      "resume": "Modification du contrat pour installation d'un écran vidéo et modification des supports de statues.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200113-06",
+      "titre": "Marché de restauration de l'église - Modification du contrat Lot 6 Electricité",
+      "resume": "Modification du contrat pour l'installation de blocs de secours et d'un parafoudre.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200113-07",
+      "titre": "Marché de rénovation et de mise en accessibilité du perron et du parvis de l'église - Modification du contrat Lot 1 Maçonnerie - pierre de taille",
+      "resume": "Modification du contrat pour l'aménagement du parvis avec installation de potelets.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

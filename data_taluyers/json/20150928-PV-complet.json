@@ -1,0 +1,143 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2015-09-28",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Bruno SICARD",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "Loïc TAMISIER",
+        "Martine TREVISANI",
+        "Véronique GOUTTENOIRE",
+        "Dominique FONS",
+        "Marc MIOTTO",
+        "Séverine SICHE-CHOL",
+        "Jean-Jacques COURBON",
+        "Yves CUBLIER",
+        "Nathalie FORISSIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        },
+        {
+          "mandant": "David SEGURA",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Guy DANIEL",
+          "mandataire": "Séverine SICHE-CHOL"
+        },
+        {
+          "mandant": "Sylvie ROMAN CLAVELLOUX",
+          "mandataire": "Marc MIOTTO"
+        }
+      ],
+      "ABSENT": [
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20150928-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création du poste d’Adjoint technique de 1ère classe.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150928-02",
+      "titre": "Installation de commerces ambulants sur les parcs d'activités intercommunaux : approbation du règlement",
+      "resume": "Réglementation des commerces ambulants sur les parcs d'activités intercommunaux.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150928-03",
+      "titre": "Demande de subvention pour la réalisation d’un audit énergétique",
+      "resume": "Sollicitation d'une subvention auprès de l’ADEME et de la Région Rhône-Alpes pour un audit énergétique.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Projet de rénovation de la Salle d’animation."
+    },
+    {
+      "id": "20150928-04",
+      "titre": "Subvention exceptionnelle au Comité des Fêtes",
+      "resume": "Approbation du versement d’une subvention de 189 € au Comité des Fêtes.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

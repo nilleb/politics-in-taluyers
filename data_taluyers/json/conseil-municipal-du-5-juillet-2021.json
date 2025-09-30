@@ -1,0 +1,124 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2021-07-05",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Evelyne VIOLLET",
+        "Giada RAVET",
+        "Mireille BERTHOUD",
+        "Jean-Jacques COURBON",
+        "Jean-Louis MONTCEL",
+        "Sylvain NAVARRO",
+        "Dominique FONS",
+        "Charles JULLIAN"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Concetta SAYER CORTAZZI",
+          "mandataire": "Charles JULLIAN"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND",
+        "Annabelle PATRIER",
+        "Pierre-Luc GUITTET",
+        "Yves CUBLIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20210705-01",
+      "titre": "Marché de maîtrise d’œuvre des travaux de rénovation énergétique et d’accessibilité du groupe scolaire – avenant n°1",
+      "resume": "Approbation de l’avenant n°1 au marché de maîtrise d’œuvre pour la rénovation énergétique et accessibilité du groupe scolaire.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210705-02",
+      "titre": "Avenant n°1 à la convention entre la COPAMO et la commune de Taluyers portant sur le reversement d’une fraction de la part communale de la Taxe d’aménagement",
+      "resume": "Approbation de l’avenant n°1 modifiant la temporalité des reversements de la taxe d’aménagement à la COPAMO.",
+      "themes": [
+        "budget",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210705-03",
+      "titre": "Convention de groupement de commande voirie – Annule et remplace la délibération n°20210125-07",
+      "resume": "Approbation de la convention de groupement de commandes pour les travaux de voirie et réseau.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

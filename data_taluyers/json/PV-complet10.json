@@ -1,0 +1,271 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2017-09-18",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Charles JULLIAN",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Isabelle PETIT",
+        "Jean-Jacques COURBON",
+        "Séverine SICHE-CHOL",
+        "Bruno SICARD",
+        "Marc MIOTTO",
+        "Odile BRACHET",
+        "Martine TREVISANI",
+        "Yves CUBLIER",
+        "Véronique GOUTTENOIRE"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": [
+        "Audrey MICHALLET",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20170918-01",
+      "titre": "Approbation du marché de maîtrise d’œuvre pour la construction d’une nouvelle bibliothèque et la rénovation de l’ancienne bibliothèque",
+      "resume": null,
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Construction nouvelle bibliothèque, rénovation ancienne bibliothèque."
+    },
+    {
+      "id": "20170918-02",
+      "titre": "Marché de rénovation thermique et de mise aux normes PMR de la salle d’animation – Lot 6 Plâtrerie-peinture – Modification du contrat en cours d’exécution n°1",
+      "resume": null,
+      "themes": [
+        "urbanisme",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Rénovation thermique, mise aux normes PMR."
+    },
+    {
+      "id": "20170918-03",
+      "titre": "Marché de rénovation thermique et de mise aux normes PMR de la salle d’animation – Lot 5 Menuiserie – Modification du contrat en cours d’exécution n°1",
+      "resume": null,
+      "themes": [
+        "urbanisme",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Rénovation thermique, mise aux normes PMR."
+    },
+    {
+      "id": "20170918-04",
+      "titre": "Marché de construction d’un bâtiment pour le service périscolaire – Modification du contrat en cours d’exécution n°3",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Construction bâtiment périscolaire, modification contrat."
+    },
+    {
+      "id": "20170918-05",
+      "titre": "Convention Gaz 4 de mise à disposition du marché de fourniture et d’acheminement de gaz à conclure avec l’UGAP",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Convention gaz UGAP."
+    },
+    {
+      "id": "20170918-06",
+      "titre": "Modification du tableau des effectifs",
+      "resume": null,
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Modification tableaux des effectifs administratifs."
+    },
+    {
+      "id": "20170918-07",
+      "titre": "Convention relative à la mise à disposition et à la mise à jour du document d’urbanisme (PLU) numérisé",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Convention PLU numérisé."
+    },
+    {
+      "id": "20170918-08",
+      "titre": "Demande de subvention dans le cadre du fonds de concours de la COPAMO « Maîtrise de l’énergie et développement de l’énergie solaire »",
+      "resume": null,
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Subvention COPAMO énergie solaire."
+    },
+    {
+      "id": "20170918-09",
+      "titre": "Subvention à l’association Tennis Club de Taluyers",
+      "resume": null,
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Subvention Tennis Club."
+    },
+    {
+      "id": "20170918-10",
+      "titre": "Ouragan Irma : subvention à la Fondation de France",
+      "resume": null,
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Subvention Fondation de France, ouragan Irma."
+    }
+  ]
+}

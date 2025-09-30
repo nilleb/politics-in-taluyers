@@ -1,0 +1,249 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2014-05-12",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Marc MIOTTO",
+        "Odile BRACHET",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Guy DANIEL",
+        "Bruno SICARD",
+        "Dominique FONS",
+        "Yves CUBLIER",
+        "Jean-Jacques COURBON",
+        "Véronique GOUTTENOIRE",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Loïc TAMISIER",
+        "Séverine SICHE-CHOL",
+        "Nathalie FORISSIER",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Martine TREVISANI",
+          "mandataire": "Dominique FONS"
+        }
+      ],
+      "ABSENT": [
+        "Charles JULLIAN"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": null,
+      "titre": "Désignation du correspondant défense",
+      "resume": "Désignation du Maire comme correspondant défense pour la commune de Taluyers.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Désignation du représentant au CNAS",
+      "resume": "Désignation du Maire comme représentant des élus de la commune de Taluyers auprès du CNAS.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Formation des élus",
+      "resume": "Approbatation des orientations données à la formation des élus de la collectivité.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140224-11",
+      "titre": "Modification du quotient familial pour le demi-tarif du restaurant scolaire",
+      "resume": "Fixation du passage au demi tarif des repas de cantine pour un quotient familial inférieur ou égal à 650.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Création d’emplois non permanents pour besoins saisonniers",
+      "resume": "Création d’emplois non permanents à temps complet pour besoins saisonniers.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140407-16",
+      "titre": "Décision Modificative n°1 du budget communal",
+      "resume": "Approbatation de la décision modificative n°1 du budget communal 2014.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140407-16",
+      "titre": "Vote du budget annexe 2014 « Locaux commerciaux »",
+      "resume": "Approbation du Budget annexe 2014 « locaux commerciaux » tel que présenté.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Désignation d’un délégué pour l’association ALCALY",
+      "resume": "Désignation de M. Charles JULLIAN comme délégué titulaire au sein de l’association ALCALY.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Désignation à la Commission Locale d’Information pour la décharge de Montarcis",
+      "resume": "Désignation de M. Charles JULLIAN délégué titulaire au sein de la Commission Locale d’Information.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

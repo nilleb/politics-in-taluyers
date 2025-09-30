@@ -1,0 +1,220 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-12-16",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Sylvain NAVARRO",
+        "PierreLuc GUITTET",
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Séverine SICHÉ-CHOL",
+          "mandataire": "Jean-Louis MONTCEL"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Charles JULLIAN"
+        },
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Mireille BERTHOUD"
+        },
+        {
+          "mandant": "Emilie GRAU",
+          "mandataire": "Evelyne VIOLLET"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHET-CONVERT"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20241216-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Modification du tableau des effectifs pour permettre la nomination d'un agent inscrit au tableau d'avancement de grade.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Les suppressions de poste seront proposées lors d'une prochaine séance."
+    },
+    {
+      "id": "20241216-02",
+      "titre": "Autorisation d'engager, liquider et mandater les dépenses d'investissement de 2025",
+      "resume": "Autorisation d'engager, liquider et mandater les dépenses d'investissement de 2025 dans la limite du quart des crédits ouverts au budget de 2024.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241216-03",
+      "titre": "Convention de partenariat pour la vidéoprotection",
+      "resume": "Convention entre la commune de Taluyers et l'État pour le déport des images de vidéoprotection vers la Gendarmerie.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241216-04",
+      "titre": "Programme et enveloppe financière pour la végétalisation des cours d'école",
+      "resume": "Approbation du programme et de l'enveloppe financière pour la végétalisation de deux cours d'école.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Enveloppe financière estimée à 110,000 € HT avec notification de subvention de 10,000 € de la COPAMO."
+    },
+    {
+      "id": "20241216-05",
+      "titre": "Acquisition d'une parcelle de la rue Saint-Marc",
+      "resume": "Régularisation de la propriété d'une portion de voirie en acquérant la parcelle à l'euro symbolique.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241216-06",
+      "titre": "Acquisition d'une parcelle de la rue des Blanchardes",
+      "resume": "Acquisition de la parcelle pour l'aménagement de la rue des Blanchardes, au prix de 1,350 €.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241216-07",
+      "titre": "Décision de la Mission Régionale d'Autorité Environnementale relative au PLU",
+      "resume": "Décision de ne pas réaliser d'évaluation environnementale pour la modification n°2 du PLU.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

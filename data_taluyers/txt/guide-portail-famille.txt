@@ -1,0 +1,572 @@
+Guide utilisateur   
+
+de l'espace   
+
+famille 
+
+Portail BL.Citoyens 
+
+ 
+ Table des matières 
+CRÉATION D'UN COMPTE FAMILLE  ___________________________________________________  3 
+
+VOUS N'AVEZ PAS VOTRE CODE ABONNÉ AU MOMENT DE LA CRÉATION DE VOTRE COMPTE ? 
+
+4 
+
+GÉRER VOTRE DOSSIER FAMILLE _____________________________________________________  5 
+
+GÉRER LES ACTIVITÉS DE VOS ENFANTS ________________________________________________  7 
+
+FAIRE UNE DEMANDE DE RÉSERVATION OU D'ABSENCE  __________________________________  8 
+
+VISUALISATION DE VOS DEMANDES  __________________________________________________  9 
+
+NOTIFICATIONS  DE  VOS  DEMANDES  DE  RÉSERVATION  ET  D'ABSENCE  DES  ACTIVITÉS  DE  VOS 
+ENFANTS _______________________________________________________________________ 10 
+
+GÉRER VOS PIÈCES JUSTIFICATIVES  __________________________________________________ 12 
+
+PRÉINSCRIRE VOTRE ENFANT EN CRÈCHE _____________________________________________ 13 
+
+VOTRE ESPACE DE FACTURATION____________________________________________________ 13 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+2/15 
+
+ 
+ 
+ 
+ 
+   
+CRÉATION D'UN COMPTE FAMILLE 
+
+  Accédez au Portail Citoyen via son URL. 
+
+  Cliquez sur le bouton Créer un compte. 
+
+  Renseignez le formulaire ci-dessous. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+3/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  Vous allez recevoir un email de confirmation dans votre messagerie, cliquez sur le lien d'activation. 
+
+  Vous pouvez, à présent, accéder au Portail Citoyen avec vos identifiant et mot de passe. 
+
+ Vous pouvez accéder aux Espaces Famille et Facturation si vous avez renseigné votre Code 
+
+abonné Famille dans le formulaire de création de compte. 
+
+VOUS N'AVEZ PAS VOTRE CODE ABONNÉ AU MOMENT DE 
+LA CRÉATION DE VOTRE COMPTE ? 
+
+Vous pourrez le renseigner ultérieurement dans le menu Mon Espace Citoyen / Mes abonnements. 
+
+  Cliquez sur le bouton M'abonner. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+4/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Saisissez alors votre Code Abonné puis cliquez sur le bouton Rechercher. 
+
+  Cliquez sur le bouton Rechercher. Votre abonnement apparait dans la liste de vos abonnements. 
+Pour rendre actif cet abonnement, vous devez, à présent, vous déconnecter à l'aide du bouton 
+
+situé en haut à droite de l'écran puis vous reconnecter. 
+
+GÉRER VOTRE DOSSIER FAMILLE 
+
+Pour consulter l'ensemble des données de votre famille, cliquez sur le menu Espace Famille puis sur le 
+bloc Dossier Famille. 
+
+Dans  cet  espace,  vous  avez  la  possibilité  de  consulter  et  modifier  l'ensemble  des  données  liées  aux 
+membres de votre famille (responsables et enfants). 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+5/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L'écran des responsables de la famille permet de consulter et de modifier les informations fiscales, les 
+informations  de  base,  l'adresse  et  les  données  bancaires.  Toute  modification  est  soumise  à  une 
+validation par la collectivité. Les modifications qui  n'ont pas encore été traitées par la collectivité sont 
+affichées en jaune. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+6/15 
+
+ 
+ 
+ 
+ 
+ 
+L'écran  des  enfants permet de consulter et de modifier les informations générales, les autorisations, 
+les  données  sanitaires  et  les  contacts  des  adultes  habilités  à  le  prendre  en  charge.  Vous  pouvez 
+également ajouter une photo. 
+
+GÉRER LES ACTIVITÉS DE VOS ENFANTS 
+
+Les activités de vos enfants sont récapitulées sous la forme d'un planning. De cette façon, vous pouvez 
+consulter l'agenda de votre ou de vos enfant(s) au mois ou à la semaine (7 jours et 5 jours). 
+
+Un code couleur permet de différencier vos enfants. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+7/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les  boutons  "switch" 
+plusieurs activités auxquelles ils sont inscrits. 
+
+  permettent  d'afficher  au  choix  un  ou  plusieurs  de  vos  enfants,  une  ou 
+
+Le nom de l'activité concernée est indiqué sur le planning et son état est affiché en dessous. 
+
+Chaque état d'une activité est représenté selon une légende : 
+
+Votre enfant est inscrit à cette activité sur la période concernée mais la 
+réservation n'est pas effective. 
+
+Vous  avez  réalisé  une  demande  de  réservation  pour  que  votre  enfant 
+participe à cette activité. 
+
+Vous  avez  réalisé  une  demande  d'absence  pour  que  votre  enfant  ne 
+participe plus à cette activité. 
+
+Votre  enfant  participe  à  l'activité  et  la  collectivité  a  accepté  votre 
+demande. 
+
+ Selon les cas et les contraintes fixées par la collectivité, plusieurs réponses sont possibles et 
+
+seront précisées dans le planning. 
+Par exemple :   
+
+FAIRE UNE DEMANDE DE RÉSERVATION OU D'ABSENCE 
+
+Pour effectuer une demande de réservation ou d'absence vous avez deux possibilités :   
+
+  sur le planning directement 
+
+  via le formulaire (demande sur une période) 
+
+VIA LE PLANNING 
+
+  Cliquez sur l'activité souhaitée et confirmez la demande. 
+
+  La demande de réservation ne peut s'effectuer que sur une journée où l'enfant est inscrit. 
+
+  La déclaration d'absence ne peut s'effectuer que sur une journée où l'enfant a réservé. 
+
+ Ce  mode  de  fonctionnement  permet  d'effectuer  rapidement  une  demande  de  réservation 
+
+ou d'absence pour un seul jour. 
+
+VIA LE FORMULAIRE (CONSEILLÉ POUR LES RÉSERVATIONS SUR UNE PÉRIODE) 
+
+La demande de réservation s'effectue via le bouton Réservations à droite du planning. 
+
+  Remplissez le formulaire. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+8/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ce mode de fonctionnement permet d'effectuer une réservation ou demande d'absence sur 
+
+une longue période en précisant les journées concernées. 
+
+VISUALISATION DE VOS DEMANDES 
+
+Les activités sont visibles également en mode liste. Vous pouvez choisir d'afficher l'un ou l'autre mode 
+grâce au lien Planning/Liste situé au-dessus du planning. 
+
+L'affichage sous forme de liste permet de visualiser l'ensemble de vos demandes dans un tableau. Vous 
+pouvez filtrer les demandes par enfant. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+9/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTIFICATIONS DE VOS DEMANDES DE RÉSERVATION 
+ET D'ABSENCE DES ACTIVITÉS DE VOS ENFANTS 
+
+Lors de la demande de réservation ou d’absence d’une activité, vous recevez un e-mail de confirmation 
+de réception de votre demande. Il se présente de la façon suivante : 
+
+Pour les réservations sur une longue période 
+
+Pour les réservations sur un créneau donné 
+
+Lorsque  votre  demande  a  été  acceptée  ou  refusée,  vous  recevez  un  e-mail  d’accusé  de  traitement. 
+Celui-ci  est  envoyé  deux  fois  dans  la  journée,  à  13h  et  à  18h.  Celui  de  13h  rassemble  toutes  les 
+réservations acceptées ou refusées entre 18h01 du jour n-1 et 13h du jour n. Quant au mail de 18h, il 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+10/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+rassemble toutes les réservations acceptées ou refusées entre 13h01 et 18h du jour donné. Ces e-mails 
+se présentent de la façon suivante : 
+
+À  chaque  évolution  de  votre  demande,  vous  pouvez  retrouver  les  informations  apportées  par  votre 
+collectivité  au  niveau  du  menu  Mon  espace  citoyen/Mes  demandes.  Si  une  de  vos  demandes  a  été 
+modifiée, vous en êtes informé grâce au message « 1 nouveau(x) message(s) » qui s’affiche sur la ligne 
+de la demande concernée : 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+11/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Le bouton 
+
+  vous permet d'accéder à l'historique de la demande. 
+
+GÉRER VOS PIÈCES JUSTIFICATIVES 
+
+Au niveau du menu Espace famille / Pièces  justificatives vous pouvez ajouter, modifier ou visualiser 
+les documents nécessaires et demandés par le service enfance. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+12/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRÉINSCRIRE VOTRE ENFANT EN CRÈCHE 
+
+Vous  pouvez  effectuer  une  demande  de  pré-inscription  en  crèche  pour  votre  enfant  via  le  menu 
+Pré-inscription en crèche. Il s’agit d’un formulaire où les informations sur les responsables de l’enfant, 
+l’enfant et le type de garde sont demandés. La demande sera ensuite traitée par la collectivité. 
+
+VOTRE ESPACE DE FACTURATION 
+
+Au niveau du menu Espace Facturation, vous retrouvez les factures émises par votre collectivité pour 
+le paiement des activités de vos enfants, la liste des règlements que vous avez déjà effectués et la liste 
+des opérations. 
+
+La  liste  des  factures  vous  permet  de  visualiser  si  vous  avez  des  factures  à  payer  grâce  au  bouton 
+
+. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+13/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pour chacune des factures, la date d’échéance de règlement, le montant de la facture ainsi que la régie 
+
+sont affichés. Le bouton 
+
+  vous permet de visualiser le détail de la facture.   
+
+Le sous-menu Mes Opérations permet de retrouver toutes les opérations confondues notamment les 
+règlements effectués pour les factures à payer ainsi que le montant des factures à régler. 
+
+Enfin,  le  sous-menu  Mes  règlements  répertorie  pour  chaque  règlement,  le  type  de  règlement  (par 
+chèque, en ligne…) effectué, le numéro d’opération qui lui est attribué, la date du règlement ainsi que le 
+montant. Ces règlements sont ceux qui sont également visibles dans le sous-menu Mes opérations. 
+
+Copyright 2019 © Berger-Levrault - BLSP n° 5176 
+
+14/15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e
+c
+n
+a
+r
+F
+
+-
+
+t
+r
+u
+o
+c
+n
+a
+
+l
+l
+i
+
+B
+
+l
+
+-
+e
+n
+g
+o
+u
+o
+B
+0
+0
+1
+2
+9
+-
+n
+e
+m
+r
+e
+K
+s
+e
+v
+Y
+e
+u
+r
+2
+9
+8
+
+:
+
+l
+
+i
+
+a
+i
+c
+o
+s
+e
+g
+è
+S
+-
+6
+4
+6
+0
+0
+8
+5
+5
+7
+e
+r
+r
+e
+t
+n
+a
+N
+S
+C
+R
+-
+e
+v
+i
+t
+i
+u
+t
+n
+
+I
+
+t
+n
+a
+r
+é
+g
+e
+r
+i
+a
+t
+a
+c
+o
+L
+
+-
+€
+5
+6
+3
+1
+3
+5
+2
+1
+e
+d
+
+l
+
+a
+t
+i
+p
+a
+c
+u
+a
+A
+S
+-
+8
+1
+0
+2
+t
+l
+u
+a
+r
+v
+e
+L
+-
+r
+e
+g
+r
+e
+B
+©
+
+www.berger-levrault.com 
+
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

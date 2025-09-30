@@ -1,0 +1,157 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2018-03-05",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Jean-Jacques COURBON",
+        "Séverine SICHE CHOL",
+        "Bruno SICARD",
+        "Marc MIOTTO",
+        "Odile BRACHET",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Charles JULLIAN",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Dominique FONS"
+        }
+      ],
+      "ABSENT": [
+        "Véronique GOUTTENOIRE",
+        "Jean-Pierre MARCONNET",
+        "Nathalie FORISSIER",
+        "David SEGURA"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20180122-01",
+      "titre": "Construction d’une bibliothèque municipale et aménagement d’une deuxième salle de restauration scolaire – Demande de subventions dans le cadre de la Dotation d’Equipement des Territoires Ruraux (DETR)",
+      "resume": "Approbation des travaux et financement pour construction et aménagement relatifs à la bibliothèque et salle scolaire.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-02",
+      "titre": "Construction d’une bibliothèque municipale et aménagement d’une deuxième salle de restauration scolaire – Demande de subventions dans le cadre du Fonds de Soutien à l’Investissement Local (FSIL)",
+      "resume": "Approbation des travaux et financement pour construction et aménagement relatifs à la bibliothèque et salle scolaire.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-03",
+      "titre": "Restauration de l’église de Taluyers – Demande de subventions dans le cadre de la Dotation d’Equipement des Territoires Ruraux (DETR)",
+      "resume": "Approbation des travaux et financement pour la restauration de l’église Notre-Dame.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-04",
+      "titre": "Restauration de l’église de Taluyers – Demande de subventions dans le cadre du Fonds de Soutien à l’Investissement Local (FSIL)",
+      "resume": "Approbation des travaux et financement pour la restauration de l’église Notre-Dame.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Réunions publiques annoncées pour sensibilisation et donations."
+    },
+    {
+      "id": "20180122-05",
+      "titre": "Jardins partagés communaux – convention d’exploitation",
+      "resume": "Approbation de la convention d'exploitation pour les jardins partagés.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

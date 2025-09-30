@@ -1,0 +1,254 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2018-03-26",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Marc MIOTTO",
+        "Charles JULLIAN",
+        "Yves CUBLIER",
+        "Séverine SICHE-CHOL",
+        "Martine TREVISANI",
+        "Jean-Jacques COURBON",
+        "Audrey MICHALLET",
+        "Isabelle PETIT"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Véronique GOUTTENOIRE",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "Bruno SICARD",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20180326-01",
+      "titre": "Budget principal – Approbation du Compte de Gestion 2017",
+      "resume": "Le Conseil Municipal approuve le compte de gestion 2017 présenté par le Receveur.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180326-02",
+      "titre": "Budget principal – Approbation du Compte Administratif 2017",
+      "resume": "Le Conseil Municipal approuve le Compte Administratif 2017 du budget communal M 14.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180326-03",
+      "titre": "Budget principal – Affectation du résultat",
+      "resume": "Affectation du résultat de fonctionnement du budget 2017.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180326-04",
+      "titre": "Budget principal – Vote des taux d’imposition 2018",
+      "resume": "Le Conseil Municipal vote les taux d’imposition des trois taxes locales pour 2018.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180326-05",
+      "titre": "Budget principal – Vote des subventions aux associations",
+      "resume": "Attribution des subventions aux associations pour 2018.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180326-06",
+      "titre": "Budget principal – Adoption du Budget primitif 2018",
+      "resume": "Approbation du Budget Primitif 2018.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180326-07",
+      "titre": "Taxe d’habitation – Suppression de l’Abattement Spécial",
+      "resume": "Suppression de l’abattement spécial à la base.",
+      "themes": [
+        "budget",
+        "taxe"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Jacques COURBON"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180326-08",
+      "titre": "Taxe d’habitation – Modification des taux de l’abattement obligatoire",
+      "resume": "Modification des taux de l’abattement obligatoire pour charges de famille.",
+      "themes": [
+        "budget",
+        "taxe"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Jacques COURBON"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180326-09",
+      "titre": "Autorisation de Programme et Crédits de Paiement – Construction d’une bibliothèque",
+      "resume": "Création de l’AP/CP pour la construction et rénovation de bibliothèques.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

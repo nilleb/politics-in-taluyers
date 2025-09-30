@@ -1,0 +1,167 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-02-28",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Evelyne VIOLLET",
+        "Jean-Jacques COURBON",
+        "Dominique FONS",
+        "Christiane ROUAND",
+        "Mireille BERTHOUD",
+        "Marc MIOTTO",
+        "Pierre-Luc GUITTET",
+        "Giada RAVET",
+        "Sylvain NAVARRO",
+        "Emilie GRAU"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Séverine SICHÉ-CHOL"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Jean-Louis MONTCEL",
+        "Audrey MICHALLET",
+        "Concetta SAYER CORTAZZI",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20220228-01",
+      "titre": "Acquisition des parcelles ZB n°0028 et ZB n°0029 au lieu-dit La Selle – Demande de subvention auprès du Département du Rhône",
+      "resume": "Acquisition des parcelles à La Selle avec subvention départementale.",
+      "themes": [
+        "urbanisme",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220228-02",
+      "titre": "Adhésion de la commune de Cellieu au Syndicat Intercommunal de l’Aqueduc Romain du Gier",
+      "resume": "Approbation à l'unanimité de l'adhésion de Cellieu au SIARG.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220228-03",
+      "titre": "Travaux de rénovation énergétique du groupe scolaire – Demande de subvention auprès de la COPAMO",
+      "resume": "Demande de subvention pour rénovation énergétique du groupe scolaire.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220228-04",
+      "titre": "Marché de travaux de rénovation énergétique et de mise en accessibilité du groupe scolaire – Approbation du lot 7",
+      "resume": "Approbation de l'attribution du Lot 7 (Menuiseries extérieures) à LMPR ALUMINIUM.",
+      "themes": [
+        "marches",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220228-05",
+      "titre": "Modification du règlement du cimetière communal – prix de la plaque du columbarium",
+      "resume": "Approbation du prix de la plaque du columbarium à 175 € TTC.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

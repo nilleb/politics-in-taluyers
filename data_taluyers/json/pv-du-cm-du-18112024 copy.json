@@ -1,0 +1,184 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-11-18",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Mme Sophie BERTHELIER"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Sylvain NAVARRO",
+        "Pierre-Luc GUITTET",
+        "Audrey MICHALLET",
+        "Giada RAVET",
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Séverine SICHÉ-CHOL"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20241118-01",
+      "titre": "Adhésion à la convention de participation en matière de protection sociale complémentaire",
+      "resume": "Adhésion à la convention de participation en matière de protection sociale complémentaire souscrite par le cdg69 pour le risque « prévoyance » et approbation du montant de la participation financière.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Obligation de financement de la protection sociale à compter du 1er janvier 2025."
+    },
+    {
+      "id": "20241118-02",
+      "titre": "Mise à jour du règlement intérieur et de la convention cadre du réseau des bibliothèques du Pays Mornantais",
+      "resume": "Mise à jour nécessaire du règlement et de la convention cadre de partenariat du réseau des bibliothèques pour diverses raisons comme la mise à jour des informations et l'anticipation des évolutions futures.",
+      "themes": [
+        "culture"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241118-03",
+      "titre": "Poursuite de l'expérimentation du dispositif Aidants scolaires H+",
+      "resume": "Présentation du bilan et validation de la poursuite de l'expérimentation du dispositif Aidants scolaires H+ pour l'année scolaire 2024-2025.",
+      "themes": [
+        "education"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Le dispositif concernait 13 enfants et 14 aidants scolaires H+ formés."
+    },
+    {
+      "id": "20241118-04",
+      "titre": "Avenant n°1 à la convention de mise à disposition de locaux communaux pour les activités de la SPL EPM",
+      "resume": "Approbation de l'avenant à la convention relative à la mise à disposition de locaux pour la SPL EPM.",
+      "themes": [
+        "education"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Concernait les modalités d'occupation des locaux scolaires pour la période 2024-2028."
+    },
+    {
+      "id": "20241118-05",
+      "titre": "Fiscalisation des participations hors GEMAPI au SMAGGA",
+      "resume": "S'opposer à la fiscalisation des participations au SMAGGA et maintenir leur budgétisation.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "La contribution de Taluyers pour 2025 s'élève à 10 242 €."
+    },
+    {
+      "id": "20241118-06",
+      "titre": "Adressage : nommage et numérotage des voies et lieux-dits de la commune",
+      "resume": "Validation du nommage et numérotage des voies et lieux-dits de la commune pour faciliter l'adressage.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Concerne la dénomination de 50 nouvelles adresses."
+    }
+  ]
+}

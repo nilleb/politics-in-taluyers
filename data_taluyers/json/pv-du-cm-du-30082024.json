@@ -1,0 +1,233 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-08-30",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Giada RAVET",
+        "Geneviève CASCHETTA",
+        "Marc MIOTTO",
+        "Evelyne VIOLLET",
+        "Mireille BERTHOUD",
+        "Jean-Louis MONTCEL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Evelyne VIOLLET"
+        }
+      ],
+      "ABSENT": [
+        "Emilie GRAU",
+        "Sylvain NAVARRO",
+        "Yves CUBLIER",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE",
+        "Pierre-Luc GUITTET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "APPROBATION_PV_2024-07-08",
+      "titre": "Approbation du procès-verbal de la séance du Conseil municipal du 8 juillet 2024",
+      "resume": "Le PV de la séance du 8 juillet 2024 est approuvé.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240830-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Créations et ajustements de postes (animation, administratif, patrimoine) et modification de quotité pour répondre aux besoins périscolaires et d’accueil.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Créations: 2 postes d’adjoint d’animation à 6,25/35e, 1 à 7,5/35e; ajustement d’un poste d’animation de 30/35e à 31,25/35e; créations: adjoint administratif 8,5/35e et 16,75/35e, adjoint du patrimoine 8,25/35e. Possibilité de recruter des contractuels <50% (CGFP L332-8 5°)."
+    },
+    {
+      "id": "20240830-02",
+      "titre": "Création d'emplois non-permanents",
+      "resume": "Deux emplois non permanents pour accroissement temporaire d’activité au périscolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "1 emploi du 2/09/2024 au 18/10/2024 à 13/35e (adjoint d’animation, réserve citoyenne) et 1 emploi du 2/09/2024 au 4/07/2025 à 5/35e (adjoint d’animation). Référencement au 1er échelon."
+    },
+    {
+      "id": "20240830-03",
+      "titre": "Convention unique avec le CDG69 - Actualisation",
+      "resume": "Poursuite de l’adhésion à la convention unique du CDG69 avec actualisation tarifaire et réglementaire à compter du 1er janvier 2025.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Missions: médecine préventive/statutaire, inspection hygiène-sécurité, conseil en droit, archivage pluriannuel, retraite (cohortes), intérim. Évolutions tarifaires et organisationnelles sur certaines missions."
+    },
+    {
+      "id": "20240830-04",
+      "titre": "Acquisition d'un camion-benne pour le service technique",
+      "resume": "Attribution du marché pour un camion-benne neuf au fournisseur IVECO L.V.I. après procédure initiale infructueuse.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Montant: 40 880,00 € HT. Consultation relancée sans publicité ni mise en concurrence; 3 fournisseurs consultés, 2 offres reçues."
+    },
+    {
+      "id": "20240830-05",
+      "titre": "Approbation du marché de mise en œuvre et de maintenance d'un dispositif de vidéoprotection",
+      "resume": "Accord-cadre de 1 an reconductible (max 4 ans) attribué à CITEOS pour la vidéoprotection communale.",
+      "themes": [
+        "marches",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Max par période: 250 000 € HT. Autorisation préfectorale du 29/02/2024 (conservation 15 jours). Maintenance estimée ~2 400 €/an phase 1. Subventions sollicitées État/Région; 40 000 € acquis du Département."
+    },
+    {
+      "id": "20240830-06",
+      "titre": "Modalités d'adhésion à l'espace jeunes",
+      "resume": "Mise en place d’une adhésion annuelle de 20 € et participation aux activités payantes pour l’espace jeunes.",
+      "themes": [
+        "autre",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Réouverture du local jeunes en 2024 avec un nouvel animateur; volonté de structurer et d’assurer l’ouverture."
+    },
+    {
+      "id": "20240830-07",
+      "titre": "Budget Locaux commerciaux 2024 - Décision Modificative n°1",
+      "resume": "Régularisation de charges au profit du cabinet d’infirmières et ouverture de crédits correspondants.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Remboursement de 535,49 € TTC; mouvements: 011-615228 -535,49 € (dépense) et 67-673 +535,49 €."
+    }
+  ]
+}

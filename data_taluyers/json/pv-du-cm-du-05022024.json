@@ -1,0 +1,280 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-02-05",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Charles JULLIAN",
+        "Giada RAVET",
+        "Jean-Jacques COURBON",
+        "Pierre-Luc GUITTET",
+        "Mireille BERTHOUD",
+        "Laurent NAULIN",
+        "Marc MIOTTO",
+        "Geneviève CASCHETTA",
+        "Yves CUBLIER",
+        "Loïc TAMISIER",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Sylvain NAVARRO",
+          "mandataire": "Odile BRACHET-CONVERT"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "CM-20240205-00",
+      "titre": "Approbation du procès-verbal de la séance du Conseil municipal du 18 décembre 2023",
+      "resume": "Le procès-verbal du 18/12/2023 est approuvé.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n²0240205-01",
+      "titre": "Désignation d'un élu représentant au CCAS",
+      "resume": "Désignation des membres élus du conseil d'administration du CCAS suite à une démission : Loïc TAMISIER, Yves CUBLIER, Mireille BERTHOUD, Christiane ROUAND, Evelyne VIOLLET, Giada RAVET, Odile BRACHET-CONVERT, Audrey MICHALLET.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n²0240205-02",
+      "titre": "Adoption du règlement budgétaire et financier",
+      "resume": "Adoption du Règlement Budgétaire et Financier (M57) à compter de l'exercice 2024.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Référentiel M57 ; procédures budgétaires/comptables ; dette et trésorerie."
+    },
+    {
+      "id": "Délibération n²0240205-03",
+      "titre": "Création d'emplois non permanents",
+      "resume": "Création d’un emploi non permanent d’adjoint d’animation (cat. C) à temps non complet du 10/02/2024 au 31/07/2024 pour l’animation jeunesse (local jeunes).",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Accroissement temporaire d’activité lié à la compétence jeunesse partagée avec la COPAMO."
+    },
+    {
+      "id": "Délibération n²0240205-04",
+      "titre": "Installation de la vidéoprotection - Demande de subvention FIPD 2024",
+      "resume": "Approbation du projet de déploiement de la vidéoprotection et sollicitation d’une subvention FIPD 2024 (plan de financement avec Département et fonds propres).",
+      "themes": [
+        "subventions",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "FIPD non cumulable avec DETR ; AMO retenu en 2023 ; projet sur 3 ans."
+    },
+    {
+      "id": "Délibération n°20240205-05",
+      "titre": "Convention constitutive du groupement de commande – Signalisation horizontale/verticale",
+      "resume": "Adhésion au groupement de commande piloté par la COPAMO pour les marchés de signalisation (marquage au sol, panneaux, équipements, mobilier).",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Renouvellement après fin du marché précédent (A2S) de 4 ans."
+    },
+    {
+      "id": "Délibération n°20240205-06",
+      "titre": "Répartition 2023 des amendes de police – Engagement de réaliser les travaux",
+      "resume": "Acceptation de la subvention départementale (37 300 €) et engagement de réaliser les travaux de sécurisation et de mobilité douce.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n²0240205-07",
+      "titre": "MRAE – Modification simplifiée n°1 du PLU",
+      "resume": "Prise d’acte de l’avis MRAE (pas d’évaluation environnementale requise) et décision de ne pas réaliser d’évaluation environnementale.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Objet de la modification: logements en BRS et modification de l’OAP « La Tour-Sainte-Maxime »."
+    },
+    {
+      "id": "Délibération n²0240205-08",
+      "titre": "Convention cadre avec la MFR « La petite Gonthière »",
+      "resume": "Approbation d’une convention-cadre de 5 ans pour un partenariat technique et pédagogique en faveur de la biodiversité (chantiers, études, inventaires, suivis).",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n²0240205-09",
+      "titre": "Appel à projets COPAMO « Végétalisation des centres-villages » – Renaturation de la cour de l’école élémentaire",
+      "resume": "Approbation du projet de renaturation/végétalisation de la cour de l’école élémentaire et demande de subvention COPAMO (taux maximal).",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "La délibération apparaît en doublon dans le texte avec le même identifiant et le même objet."
+    }
+  ]
+}

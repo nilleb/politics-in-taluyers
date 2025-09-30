@@ -1,0 +1,164 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-01-31",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Evelyne VIOLLET",
+        "Jean-Jacques COURBON",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Yves CUBLIER",
+        "Mireille BERTHOUD",
+        "Marc MIOTTO",
+        "Pierre-Luc GUITTET",
+        "Jean-Louis MONTCEL",
+        "Giada RAVET",
+        "Sylvain NAVARRO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Emilie GRAU",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Concetta SAYER CORTAZZI",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20220131-01",
+      "titre": "Modification de l'objet social de la SPL « Enfance en Pays Mornantais »",
+      "resume": "Modification de l'objet social de la SPL EPM pour inclure des actions pour les jeunes et la Structure Locale Information Jeunesse.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "La délibération traite de l'élargissement des actions de la SPL EPM pour inclure des activités pour les jeunes et des services d'information jeunesse."
+    },
+    {
+      "id": "20220131-02",
+      "titre": "Modification des commissions municipales",
+      "resume": "Modification de la composition des commissions municipales suite à la démission de Mme Annabelle PATRIER.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Modification des membres des commissions avec l'ajout de Mme Emilie GRAU suite à la démission de Mme Annabelle PATRIER."
+    },
+    {
+      "id": "20220131-03",
+      "titre": "Création d'un emploi non-permanent",
+      "resume": "Création d'un emploi non-permanent pour faire face à un besoin ponctuel dans la restauration et l'entretien.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "L'emploi non-permanent est créé pour répondre à des besoins temporaires pendant les vacances de février."
+    },
+    {
+      "id": "20220131-04",
+      "titre": "Marché de travaux de rénovation énergétique et de mise en accessibilité du groupe scolaire",
+      "resume": "Approbation de l'attribution des lots 3, 5 et 11 pour les travaux de rénovation énergétique du groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "La délibération approuve l'attribution des lots pour les travaux du groupe scolaire après négociation et consultation."
+    },
+    {
+      "id": "20220110-05",
+      "titre": "Marché de fourniture et installation de stores enrouleurs",
+      "resume": "Attribution du marché de fourniture et installation de stores pour limiter l'ensoleillement dans deux salles.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Le marché est attribué à l'entreprise SAM RHONE pour la fourniture et l'installation de stores."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2023-02-27",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Mireille BERTHOUD",
+        "Pierre-Henri JOUFFRE",
+        "Sylvain NAVARRO",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Marc MIOTTO",
+        "Pascal OUTREBON",
+        "Giada RAVET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Séverine SICHÉ-CHOL"
+        },
+        {
+          "mandant": "Yves CUBLIER",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Dominique FONS",
+          "mandataire": "Jean-Jacques COURBON"
+        },
+        {
+          "mandant": "Pierre-Luc GUITTET",
+          "mandataire": "Laurent NAULIN"
+        },
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHET"
+        }
+      ],
+      "ABSENT": [
+        "Evelyne VIOLLET",
+        "Geneviève CASCHETTA",
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND",
+        "Jean-Louis MONTCEL"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20230227-01",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°3 au lot 12 Revêtement de sol, carrelage, faïence",
+      "resume": "Approbation de l'avenant n°3 pour le lot de revêtement de sol en raison d'un surplus de traitement des sols.",
+      "themes": [
+        "marches",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20230227-02",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 6 - Façade-ITE-enduit",
+      "resume": "Approbation de l'avenant n°1 pour la fourniture et la pose d'une couverture à l'entrée de l'école élémentaire.",
+      "themes": [
+        "marches",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20230227-04",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°2 au lot 13 - Chauffage-ventilation",
+      "resume": "Approbation de l'avenant n°2 pour l'installation d'une chaudière provisoire suite à une panne.",
+      "themes": [
+        "marches",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20230227-05",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°4 au lot 15 Electricité",
+      "resume": "Approbation de l'avenant n°4 pour le changement du système de sécurité incendie.",
+      "themes": [
+        "marches",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20230227-06",
+      "titre": "Convention d'indemnisation en application de la théorie de l'imprévision - RPC",
+      "resume": "Approbation de la convention avec RPC pour compenser les augmentations de charges.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Séverine SICHÉ-CHOL",
+            "Jean-Jacques COURBON",
+            "Odile BRACHET",
+            "Laurent NAULIN",
+            "Loïc TAMISIER",
+            "Mireille BERTHOUD",
+            "Pierre-Henri JOUFFRE",
+            "Sylvain NAVARRO",
+            "Christiane ROUAND",
+            "Emilie GRAU",
+            "Marc MIOTTO",
+            "Pascal OUTREBON",
+            "Giada RAVET"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Charles JULLIAN"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": null,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

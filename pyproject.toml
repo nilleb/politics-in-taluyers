@@ -1,0 +1,16 @@
+[project]
+name = "politicsintaluyers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "mistralai>=1.9.10",
+    "openai>=1.109.1",
+    "pdfminer-six>=20250506",
+    "python-dateutil>=2.9.0.post0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+    "tqdm>=4.67.1",
+]

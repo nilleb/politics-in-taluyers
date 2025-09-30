@@ -1,0 +1,590 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-03-25",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Sylvain NAVARRO",
+        "Marc MIOTTO",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Giada RAVET",
+        "Yves CUBLIER",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Pierre-Luc GUITTET",
+          "mandataire": "Séverine SICHE-CHOL"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Mireille BERTHOUD",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20240325-00",
+      "titre": "Approbation du procès-verbal de la séance du Conseil municipal du 5 février 2024",
+      "resume": "Le PV du 5 février 2024 est approuvé.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Approuvé à l'unanimité des votes exprimés."
+    },
+    {
+      "id": "20240325-01",
+      "titre": "Budget principal - Approbation du compte de Gestion 2023",
+      "resume": "Le Conseil déclare conforme le compte de gestion 2023 du budget principal présenté par le Receveur.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-02",
+      "titre": "Budget principal – Approbation du compte administratif 2023",
+      "resume": "Le compte administratif 2023 du budget principal est approuvé et concordant avec le compte de gestion.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Vote hors de la présence du Maire (présidence assurée par Marc MIOTTO)."
+    },
+    {
+      "id": "20240325-03",
+      "titre": "Budget principal – Affectation des résultats de l'exercice 2023",
+      "resume": "Affectation de 534 710,10 € au 1068 (excédents de fonctionnement capitalisés) et 270 419,13 € au R001 (investissement).",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Résultats 2023 : fonctionnement +534 710,10 € ; investissement +270 419,13 € (solde cumulé)."
+    },
+    {
+      "id": "20240325-04",
+      "titre": "Budget principal - Vote des taux d'imposition 2024",
+      "resume": "Taux 2024 votés : TH résidences secondaires 14,55 % ; TFPB 27,99 % ; TFPNB 53,99 %.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Autorise la mise en œuvre par le Maire."
+    },
+    {
+      "id": "20240325-05",
+      "titre": "Vote des subventions aux associations et au CCAS",
+      "resume": "Attribution des subventions 2024 aux associations (total 32 700 €) et d’une subvention d’équilibre de 10 000 € au CCAS.",
+      "themes": [
+        "subventions",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Mme Christiane ROUAND, présidente de l’association musicale, ne prend pas part au vote."
+    },
+    {
+      "id": "20240325-06",
+      "titre": "Révision n°1 de l'AP/CP – Fonds de concours voirie (rue du Prieuré, Saint-Marc, Blanchardes)",
+      "resume": "Révision du phasage des crédits de paiement en raison du décalage des travaux par la COPAMO.",
+      "themes": [
+        "budget",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "AP inchangée (543 076 €). CP rééchelonnés."
+    },
+    {
+      "id": "20240325-07",
+      "titre": "Révision n°1 de l'AP/CP – Travaux de mobilité douce",
+      "resume": "Révision du phasage des CP (2023: 4 100,40 € ; 2024: 315 000 €) pour adapter la planification des travaux.",
+      "themes": [
+        "budget",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "AP maintenue à 377 500 €."
+    },
+    {
+      "id": "20240325-08",
+      "titre": "Mise en place de la fongibilité des crédits en M57",
+      "resume": "Autorisation de virements de crédits entre chapitres dans la limite de 7,5 % des dépenses réelles de chaque section, hors personnel.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Information des virements à la plus proche séance."
+    },
+    {
+      "id": "20240325-09",
+      "titre": "Budget principal - Adoption du budget primitif 2024",
+      "resume": "BP 2024 approuvé (fonctionnement 2 174 549 € ; investissement 2 267 938,98 € de dépenses, recettes 1 462 809,75 € + reports/affectations).",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Voté par chapitres en fonctionnement et par opérations en investissement."
+    },
+    {
+      "id": "20240325-10",
+      "titre": "Budget Locaux commerciaux - Approbation du compte de gestion 2023",
+      "resume": "Le compte de gestion 2023 du budget « Locaux commerciaux » est déclaré conforme.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-11",
+      "titre": "Budget Locaux commerciaux - Approbation du compte administratif 2023",
+      "resume": "Le CA 2023 des « Locaux commerciaux » est approuvé et concorde avec le CG.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Vote hors de la présence du Maire (présidence assurée par Marc MIOTTO)."
+    },
+    {
+      "id": "20240325-12",
+      "titre": "Budget Locaux commerciaux - Affectation du résultat",
+      "resume": "Affectation: R1068 5 197,75 € ; R001 7 961,29 €.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-13",
+      "titre": "Budget Locaux commerciaux - Adoption du budget primitif 2024",
+      "resume": "BP 2024 « Locaux commerciaux » approuvé (fonctionnement 5 300 € ; investissement 13 159,04 € avec financement par R1068 5 197,75 € et R001 7 961,29 €).",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-14",
+      "titre": "Convention de groupement de commande voirie - attribution du marché",
+      "resume": "Prise d’acte du titulaire MGB/CARLE TP et décision de confier des travaux de sécurisation et apaisement de la circulation dans le cadre de l’accord-cadre (max 1 000 000 € HT sur 4 ans pour la commune).",
+      "themes": [
+        "marches",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Seuil indicatif de 30 000 € HT par aménagement global; au-delà, consultation spécifique possible."
+    },
+    {
+      "id": "20240325-15",
+      "titre": "Lignes Directrices de Gestion - Renouvellement",
+      "resume": "Approbation des LDG 2024-2026 (continuité du service, QVT, attractivité; formations, mobilités, critères d’avancement).",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Avis favorable unanime du CST du 12/02/2024."
+    },
+    {
+      "id": "20240325-16",
+      "titre": "Instauration de la prime pouvoir d'achat",
+      "resume": "Institution d’une prime exceptionnelle de pouvoir d’achat (barème communal de 150 € à 400 €, proratisée le cas échéant), versement avant le 30/06/2024.",
+      "themes": [
+        "RH",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Avis favorable unanime du comité social territorial (12/02/2024)."
+    },
+    {
+      "id": "20240325-17",
+      "titre": "Convention de mise à disposition d'agents par la COPAMO – entretien du parc automobile",
+      "resume": "Approbation d’une convention de mise à disposition pour maintenance mécanique du parc communal (estimation 2024: 10 h, 224,60 €).",
+      "themes": [
+        "RH",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Autorise le Maire à signer la convention avec la COPAMO."
+    },
+    {
+      "id": "20240325-18",
+      "titre": "Validation du rapport de la CLECT – transfert de la compétence « gestion des espaces jeunes » au 1er janvier 2024",
+      "resume": "Approbation du rapport CLECT (montant restitué aux communes: 198 707 € ; COPAMO conserve 100 000 €). Attribution de compensation de Taluyers ramenée de 24 523 € à 8 966 €.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-19",
+      "titre": "Convention « dispositif aidant scolaire H+ »",
+      "resume": "Approbation de la convention COPAMO–commune–Éducation nationale pour la mise à disposition d’Aidants Scolaires H+ en attente d’AESH.",
+      "themes": [
+        "autre",
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Charte d’accompagnement; coordination par la COPAMO."
+    },
+    {
+      "id": "20240325-20",
+      "titre": "Déclassement et désaffectation de la parcelle A 3213 – Rue Saint Maxime",
+      "resume": "Constat de désaffectation et déclassement de la parcelle A 3213 en vue d’un échange pour l’acquisition de la Tour Sainte‑Maxime (A 3212).",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Application du CG3P art. L2141‑1."
+    },
+    {
+      "id": "20240325-21",
+      "titre": "Approbation de la modification simplifiée n°1 du PLU",
+      "resume": "Approbation de la modification simplifiée n°1 (règlement zone UB – stationnement pour BRS; précision de l’OAP n°1 « La Tour, Sainte‑Maxime »).",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Avis MRAE: pas d’évaluation environnementale; mise à disposition du public du 22/01 au 23/02/2024."
+    },
+    {
+      "id": "20240325-22",
+      "titre": "Acquisition des parcelles cadastrées B n°182 et n°769 – Promesse unilatérale d'achat consentie à la SAFER",
+      "resume": "Approbation de la promesse d’achat de 2 parcelles en friche (total 5 610 m² à 0,80 €/m²) en zone agricole, via la SAFER; étude d’un projet d’agriphotovoltaïsme expérimental.",
+      "themes": [
+        "urbanisme",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Avis favorable du comité technique SAFER; prix foncier 4 500 €, frais SAFER 700 € HT, frais de notaire estimés 770 €."
+    }
+  ]
+}

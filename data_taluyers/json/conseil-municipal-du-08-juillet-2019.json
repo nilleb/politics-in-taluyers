@@ -1,0 +1,165 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2019-07-08",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "M. Jean-Jacques Courbon"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHE CHOL",
+        "Dominique FONS",
+        "Odile BRACHET",
+        "Isabelle PETIT",
+        "Marc MIOTTO",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Jean-Jacques COURBON"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Véronique GOUTTENOIRE",
+          "mandataire": "Pascal OUTREBON"
+        },
+        {
+          "mandant": "Martine TREVISANI",
+          "mandataire": "Dominique FONS"
+        }
+      ],
+      "ABSENT": [
+        "Audrey MICHALLET",
+        "Bruno SICARD",
+        "Yves CUBLIER",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20190708-01",
+      "titre": "Remboursement des frais de réparation d’un téléphone portable communal",
+      "resume": "Le Conseil Municipal a approuvé le remboursement de 79 € à M. le Maire pour la réparation de l'écran de son téléphone portable.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190708-02",
+      "titre": "Convention d’objectifs et de moyens 2019-2020 avec Léo Lagrange dans le cadre des actions de proximité complémentaire au projet jeunesse intercommunale",
+      "resume": "Approbation de la convention permettant le soutien des actions jeunesse avec un fonds de concours de 16 371€.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190708-03",
+      "titre": "Règlement intérieur du local jeunes",
+      "resume": "Approbation du règlement intérieur d’accueil à l’espace jeunes précisant les horaires et tarifs.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190708-05",
+      "titre": "Vente des espaces de stationnement de la placette du Batard",
+      "resume": "Approbation de la vente de 4 places de stationnement au prix de 30 000 € à M. Christian LUCIC et Mme Rose-Marie RODRIGUEZ.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190708-06",
+      "titre": "Vente du local commercial n°1 du Clos du Centre",
+      "resume": "Approbation de la vente du local commercial pour 160 000 € à la SCI THECHELY IMMO.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

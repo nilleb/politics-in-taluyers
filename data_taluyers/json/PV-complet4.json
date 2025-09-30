@@ -1,0 +1,260 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2016-10-10",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Séverine SICHE CHOL",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Yves CUBLIER",
+        "Véronique GOUTTENOIRE",
+        "Marc MIOTTO",
+        "Bruno SICARD",
+        "Charles JULLIAN",
+        "Jean-Pierre MARCONNET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Marc MIOTTO"
+        }
+      ],
+      "ABSENT": [
+        "David SEGURA",
+        "Nathalie FORISSIER",
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20161010-01",
+      "titre": "Convention de fourrière avec la SPA – année 2017",
+      "resume": "Renouvellement de la convention de fourrière avec la SPA pour l'année 2017.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20161010-02",
+      "titre": "Convention de mutualisation pour la pose et la dépose des illuminations",
+      "resume": "Mutualisation des moyens pour réduire les coûts de pose et dépose des illuminations entre plusieurs communes.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20161010-03",
+      "titre": "Délégation du conseil municipal au Maire – Droits de préemption",
+      "resume": "Délégation des droits de préemption au Maire pour faciliter le traitement des DIA.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET",
+            "Dominique FONS",
+            "Guy DANIEL",
+            "Loïc TAMISIER",
+            "Séverine SICHE CHOL",
+            "Martine TREVISANI",
+            "Isabelle PETIT",
+            "Sylvie ROMAN-CLAVELLOUX",
+            "Yves CUBLIER",
+            "Véronique GOUTTENOIRE",
+            "Marc MIOTTO",
+            "Bruno SICARD",
+            "Charles JULLIAN"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Pierre MARCONNET"
+          ]
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20161010-04",
+      "titre": "Marché de construction d’un bâtiment pour le service périscolaire",
+      "resume": "Attribution du lot de Sols Coulés à l'entreprise SOREDAL pour le service périscolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20161010-05",
+      "titre": "Installation d’une crèche privée – garantie d’emprunt",
+      "resume": "Accord de la garantie d'emprunt pour la société Brins de Malice pour la construction d'une crèche privée.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET",
+            "Dominique FONS",
+            "Guy DANIEL",
+            "Loïc TAMISIER",
+            "Séverine SICHE CHOL",
+            "Martine TREVISANI",
+            "Isabelle PETIT",
+            "Yves CUBLIER",
+            "Marc MIOTTO",
+            "Bruno SICARD",
+            "Charles JULLIAN",
+            "Jean-Pierre MARCONNET"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Véronique GOUTTENOIRE",
+            "Sylvie ROMAN-CLAVELLOUX"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20161010-06",
+      "titre": "Subvention exceptionnelle au Comité des Fêtes",
+      "resume": "Versement d'une subvention de 150 € au Comité des Fêtes pour la prise en charge de frais de restauration.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20161010-07",
+      "titre": "Exonération d’un mois de loyer du parking de la Cordonnerie",
+      "resume": "Exonération d’un mois de loyer pour les locataires du parking de la Cordonnerie en raison de dysfonctionnements.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20161010-08",
+      "titre": "Budget principal 2016 – Décision modificative n°3",
+      "resume": "Approbation de la Décision Modificative n°3 du Budget principal – exercice 2016.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

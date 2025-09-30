@@ -1,0 +1,199 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2020-11-09",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHE-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Evelyne VIOLLET",
+        "Charles JULLIAN",
+        "Stéphane LEMARCHAND",
+        "Giada RAVET",
+        "Concetta SAYER CORTAZZI",
+        "Mireille BERTHOUD",
+        "Yves CUBLIER",
+        "Sylvain NAVARRO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Pierre Luc GUITTET",
+          "mandataire": "Séverine SICHE-CHOL"
+        },
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Odile BRACHET-CONVERT"
+        },
+        {
+          "mandant": "Jean-Louis MONTCEL",
+          "mandataire": "Laurent NAULIN"
+        },
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Dominique FONS",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Annabelle PATRIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20201109-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Ajustement du temps de travail des agents suite à l'ouverture d'une nouvelle salle de restauration scolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Les crédits nécessaires sont inscrits au budget 2020."
+    },
+    {
+      "id": "20201109-02",
+      "titre": "Budget communal 2020 - Décision Modificative n°3",
+      "resume": "Ajustement des crédits pour des dépenses de masse salariale imprévues liées au protocole sanitaire.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20201109-03",
+      "titre": "Désaffectation, déclassement et vente d'un espace de stationnement sur la Placette du Bâtard",
+      "resume": "Vente d'un espace de stationnement et de plates-bandes après désaffectation et déclassement.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Vente approuvée pour parcelle A 3133."
+    },
+    {
+      "id": "20201109-04",
+      "titre": "Marché de construction d'une bibliothèque - Lot 12 Electricité",
+      "resume": "Modification d'un contrat en cours d'exécution concernant le lot Electricité pour des dysfonctionnements.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Modification n°3 approuvée pour le lot Electricité."
+    },
+    {
+      "id": "20201109-05",
+      "titre": "Opposition au transfert de la compétence PLUI",
+      "resume": "Opposition au transfert de la compétence PLUI à la COPAMO.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Conserve la maîtrise de l'urbanisation au niveau communal."
+    },
+    {
+      "id": "20201109-06",
+      "titre": "Désignation d'un délégué pour l'association ALCALY",
+      "resume": "Désignation d'un délégué représentant la commune pour ALCALY.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "M. Charles JULLIAN désigné titulaire, M. Pascal OUTREBON suppléant."
+    }
+  ]
+}

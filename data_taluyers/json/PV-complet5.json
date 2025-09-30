@@ -1,0 +1,158 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2016-11-07",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Séverine SICHE CHOL",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Véronique GOUTTENOIRE",
+        "Marc MIOTTO",
+        "Bruno SICARD",
+        "Charles JULLIAN",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Yves CUBLIER",
+          "mandataire": "Bruno SICARD"
+        },
+        {
+          "mandant": "Martine TREVISANI",
+          "mandataire": "Dominique FONS"
+        },
+        {
+          "mandant": "Isabelle PETIT",
+          "mandataire": "Odile BRACHET"
+        }
+      ],
+      "ABSENT": [
+        "Jean-Jacques COURBON",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20161107-01",
+      "titre": "Mise en conformité des compétences de la COPAMO avec la loi NOTRe",
+      "resume": "La mise en conformité des compétences de la COPAMO avec la loi NOTRe et la mise à jour des statuts.",
+      "themes": [
+        "urbanisme",
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET",
+            "Dominique FONS",
+            "Guy DANIEL",
+            "Loïc TAMISIER",
+            "Séverine SICHE CHOL",
+            "Sylvie ROMAN-CLAVELLOUX",
+            "Véronique GOUTTENOIRE",
+            "Marc MIOTTO",
+            "Bruno SICARD",
+            "Charles JULLIAN",
+            "David SEGURA",
+            "Audrey MICHALLET"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Pierre MARCONNET"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": "La délibération concerne principalement l'adaptation aux nouvelles obligations préfectorales et législatives."
+    },
+    {
+      "id": "20161107-02",
+      "titre": "Convention de prestation d’animation avec la SPL « Enfance en Pays Mornantais »",
+      "resume": "Approbation de la convention avec la SPL pour la gestion et l'animation des actions éducatives.",
+      "themes": [
+        "RH",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "La convention est renouvelable deux fois par tacite reconduction."
+    },
+    {
+      "id": "20161107-03",
+      "titre": "Convention portant occupation de logements dépendant du domaine public communal",
+      "resume": "Approbation de la mise à jour du montant de la redevance pour l'occupation de logements communaux.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Mise à jour des montants de la redevance de 378,15 € à 384,95 € par mois."
+    },
+    {
+      "id": "20161107-04",
+      "titre": "Centrale villageoise photovoltaïque en Pays mornantais",
+      "resume": "Déclaration d’intention de mise à disposition de la toiture de la salle d’animation pour projet photovoltaïque.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Projet soutenu par la COPAMO pour le développement des énergies renouvelables."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2015-02-02",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Marc MIOTTO",
+        "Odile BRACHET",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Bruno SICARD",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Loïc TAMISIER",
+        "Séverine SICHE-CHOL",
+        "Martine TREVISANI",
+        "Jean-Jacques COURBON",
+        "Véronique GOUTTENOIRE",
+        "Yves CUBLIER",
+        "Audrey MICHALLET",
+        "Guy DANIEL",
+        "Dominique FONS"
+      ],
+      "EXCUSE": [
+        "Nathalie FORISSIER"
+      ],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20150202-01",
+      "titre": "Mise en place de la verbalisation électronique",
+      "resume": "Approbation de la mise en place de la verbalisation électronique.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150202-02",
+      "titre": "Retrait de la commune de Givors du SYDER",
+      "resume": "Approbation du retrait de la commune de Givors du SYDER.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150202-03",
+      "titre": "Produit des amendes de police 2014",
+      "resume": "Acceptation de la subvention pour les projets liés au produit des amendes de police 2014.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150202-04",
+      "titre": "Demande de subvention DETR 2015 – Rénovation de la Salle d’Animation",
+      "resume": "Approbation du projet de rénovation de la Salle d'Animation et de son plan de financement.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150202-05",
+      "titre": "Rétrocession de la voirie du lotissement situé entre la rue Saint Agathe et la rue de la Bénichonnière",
+      "resume": "Approbation de la rétrocession de la voirie dans le domaine public communal.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

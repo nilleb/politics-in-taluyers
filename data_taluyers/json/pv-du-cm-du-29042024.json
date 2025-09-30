@@ -1,0 +1,206 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-04-29",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Sylvain NAVARRO",
+        "Marc MIOTTO",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Yves CUBLIER",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET",
+        "PierreLuc GUITTET",
+        "Mireille BERTHOUD",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [
+        "Geneviève CASCHETTA",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHETCONVERT"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20240429-01",
+      "titre": "Recrutement de vacataires pour le service périscolaire",
+      "resume": "Approbation du recrutement de vacataires pour le service périscolaire à compter du 2 mai 2024.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "La rémunération des vacataires sera basée sur le SMIC horaire."
+    },
+    {
+      "id": "20240429-02",
+      "titre": "Création d'emplois non permanents",
+      "resume": "Création d'emplois non permanents pour des besoins estivaux dans le service technique et périscolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Besoin est lié à un accroissement temporaire d'activité durant la période estivale."
+    },
+    {
+      "id": "20240429-03",
+      "titre": "Déploiement de la vidéoprotection - Demande de subvention",
+      "resume": "Approbation du déploiement de la vidéoprotection et demande de subvention à la région Auvergne Rhône-Alpes.",
+      "themes": [
+        "securite",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "La dépense prévisionnelle pour cette phase est estimée à 208437,33 € HT."
+    },
+    {
+      "id": "20240429-05",
+      "titre": "Approbation du titulaire du marché d'aménagement d'un sanitaire public au Parc Pie X",
+      "resume": "Approbation du titulaire du marché pour les travaux d'aménagement de sanitaires publics au Parc Pie X.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "L'UGAP a désigné l'entreprise FRANCIOLI pour la fourniture du sanitaire."
+    },
+    {
+      "id": "20240429-06",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - avenant n°3 au lot 11 - Menuiseries intérieures",
+      "resume": "Approbation de l'avenant n°3 au lot 11 pour les travaux de menuiseries intérieures dans le cadre de la rénovation thermique du groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "L'avenant s'élève à 1 671,00 € HT."
+    },
+    {
+      "id": "20240429-07",
+      "titre": "Bail rural à clauses environnementales sur la parcelle n°A 649 au lieu-dit « Pré-Chatel » - avenant",
+      "resume": "Approbation de l'avenant au bail rural sur la parcelle n°A 649 pour un bail avec le GAEC AS DE FERME.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Le bail passe au statut de GAEC AS DE FERME."
+    },
+    {
+      "id": "20240429-08",
+      "titre": "Dépôts sauvages de déchets - Instauration d'une amende administrative",
+      "resume": "Instaurer une amende administrative pour lutter contre les dépôts sauvages de déchets.",
+      "themes": [
+        "environnement"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Les amendes sont proportionnelles au volume du dépôt sauvage."
+    }
+  ]
+}

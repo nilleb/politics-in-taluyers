@@ -1,0 +1,323 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2020-07-06",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Mme Sophie BERTHELIER",
+      "Claire JOANNIN"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHE-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Christiane ROUAND",
+        "Evelyne VIOLLET",
+        "Mireille BERTHOUD",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Annabelle PATRIER",
+        "Stéphane LEMARCHAND",
+        "Giada RAVET",
+        "Pierre-Luc GUITTET",
+        "Audrey MICHALLET",
+        "Sylvain NAVARRO",
+        "Jean-Louis MONTCEL",
+        "Concetta SAYER CORTAZZI"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20200706-01",
+      "titre": "Désignation du délégué communal au sein de la Centrale Villageoise en Pays Mornantais",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Louis MONTCEL"
+          ]
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-02",
+      "titre": "Règlement intérieur du conseil municipal",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-03",
+      "titre": "Règlementation interne à la commune de Taluyers pour la passation des marchés publics conclus sous la forme de procédure adaptée (MAPA)",
+      "resume": null,
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-04",
+      "titre": "Désignation des délégués au Syndicat pour l'Aqueduc Romain du Gier",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-05",
+      "titre": "Acquisition de la parcelle cadastrée A 2415 - Emplacement Réservé R6",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-06",
+      "titre": "Modification du tableau des effectifs",
+      "resume": null,
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-07",
+      "titre": "Création d'emplois non-permanents",
+      "resume": null,
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-09",
+      "titre": "Renouvellement de la commission communale des impôts directs (CCID)",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-10",
+      "titre": "Groupement de commande d'électricité du SYDER",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-11",
+      "titre": "Attribution du marché de fourniture et livraison de repas au restaurant scolaire et personnel municipal",
+      "resume": null,
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-13",
+      "titre": "Convention d'occupation du domaine public et de mise à disposition de locaux",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-14",
+      "titre": "Actions en faveur de la transition énergétique",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

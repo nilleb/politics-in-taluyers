@@ -1,0 +1,222 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2017-01-16",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Marc MIOTTO",
+        "Bruno SICARD",
+        "Charles JULLIAN",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Yves CUBLIER",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Séverine SICHE CHOL",
+        "Véronique GOUTTENOIRE",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": [
+        "Jean-Jacques COURBON",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20170116-01",
+      "titre": "Désignation d’un représentant à la Commission Locale d’Evaluation des Charges Transférées (CLECT) auprès de la COPAMO",
+      "resume": "Désignation de M. OUTREBON Pascal comme représentant de la commune de Taluyers au sein de la CLECT de la COPAMO.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170116-02",
+      "titre": "Fixation du nombre et de la répartition des sièges du conseil communautaire de la COPAMO à compter de mars 2017",
+      "resume": "Fixation à 40 du nombre de sièges du Conseil Communautaire de la COPAMO et leur répartition.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170116-03",
+      "titre": "Autorisation d’engager, liquider et mandater les dépenses d’investissement de l’exercice 2017",
+      "resume": "Autorisation donnée à M. Le Maire d’engager, liquider et mandater les dépenses d’investissement 2017 dans la limite de 25% des crédits ouverts au budget de l’année précédente.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170116-04",
+      "titre": "Marché de construction d’un bâtiment pour le service périscolaire – lot 1 Terrassement VRD- avenant n°1",
+      "resume": "Approbation de l’avenant n°1 avec l’entreprise CARLE TP pour des travaux supplémentaires.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170116-05",
+      "titre": "Marché de construction d’un bâtiment pour le service périscolaire – attribution du lot 8 – menuiseries intérieures",
+      "resume": "Rectification du montant de l'attribution du lot 8 à l’entreprise JULLIEN.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170116-06",
+      "titre": "Demandes de subventions auprès de la Dotation d’Equipement des Territoires Ruraux (DETR) 2017",
+      "resume": "Approbation des opérations de travaux et des modalités de financement pour des projets d’aménagements sportifs et rénovation thermique.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170116-07",
+      "titre": "Répartition 2016 du produit des amendes de police",
+      "resume": "Engagement à réaliser des travaux de voirie et acceptation d'une subvention correspondant à la répartition des amendes de police.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170116-08",
+      "titre": "Opposition au transfert de la compétence PLUI (Plan Local d’Urbanisme Intercommunal) à la COPAMO",
+      "resume": "Opposition au transfert de la compétence en matière de plan local d’urbanisme à la COPAMO.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

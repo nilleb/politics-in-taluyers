@@ -1,0 +1,274 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2016-02-29",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Bruno SICARD",
+        "Jean-Pierre MARCONNET",
+        "Martine TREVISANI",
+        "Dominique FONS",
+        "Marc MIOTTO",
+        "Yves CUBLIER",
+        "Guy DANIEL",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Loïc TAMISIER",
+        "Jean-Jacques COURBON",
+        "Nathalie FORISSIER",
+        "Charles JULLIAN",
+        "Véronique GOUTTENOIRE",
+        "Isabelle PETIT",
+        "Séverine SICHE CHOL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "David SEGURA",
+          "mandataire": "Sylvie ROMAN CLAVELLOUX"
+        }
+      ],
+      "ABSENT": [
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20160229-01",
+      "titre": "Convention avec les bénévoles de la bibliothèque",
+      "resume": "Approbation de la convention d’intervention des bénévoles de la bibliothèque municipale pour renforcer l'équipe de bénévoles.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-02",
+      "titre": "Règlement de la bibliothèque municipale – facturation en cas de perte d’un ouvrage",
+      "resume": "Modification du règlement de la bibliothèque municipale concernant la facturation de 15 € en cas de perte ou de dégradation d’un ouvrage.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-03",
+      "titre": "Assurance contre les risques financiers liés au régime de protection sociale du personnel",
+      "resume": "Demande au Centre de Gestion du Rhône de mener la procédure de marché pour souscription d'un contrat groupe d’assurance contre les risques financiers liés au régime de protection sociale.",
+      "themes": [
+        "RH",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-04",
+      "titre": "Aménagement de modes doux route de Berthoud – demande de subvention auprès de la COPAMO",
+      "resume": "Approbation de l’opération de création d’un cheminement piéton et demande de subvention auprès de la COPAMO.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-05",
+      "titre": "Projet de zonage « Eaux pluviales » - Approbation",
+      "resume": "Approbation du plan de zonage « Eaux pluviales » de la commune de Taluyers et décision de l’annexer au PLU.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-06",
+      "titre": "Plan Local d’Urbanisme (PLU) de Taluyers – Procédure de révision générale n°1 - Approbation",
+      "resume": "Approbation de la révision du Plan Local d'Urbanisme conformément aux articles du Code de l'Urbanisme.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-07",
+      "titre": "Déclaration préalable pour les clôtures",
+      "resume": "Décision de soumettre à autorisation préalable l’édification de clôture sauf pour l’activité agricole ou forestière.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-08",
+      "titre": "Déclaration préalable pour ravalement de façade",
+      "resume": "Décide de maintenir l’obligation de déclaration préalable pour les travaux de ravalement de façade sur tout le territoire communal.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-09",
+      "titre": "Instauration du droit de préemption urbain (DPU) sur le territoire communal et délégation à la COPAMO",
+      "resume": "Instaurer le droit de préemption urbain sur les zones urbaines et déléguer ce droit à la COPAMO pour la ZAC de la Ronze.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160229-10",
+      "titre": "Instauration du Permis de Démolir sur l’ensemble du territoire communal",
+      "resume": "Permis de démolir institué pour toute démolition sauf dans les zones protégées pour la protection du patrimoine.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-11-28",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Pierre-Henri JOUFFRE",
+        "Pierre-Luc GUITTET",
+        "Emilie GRAU",
+        "Giada RAVET",
+        "Audrey MICHALLET",
+        "Yves CUBLIER",
+        "Dominique FONS",
+        "Evelyne VIOLLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Sylvain NAVARRO",
+          "mandataire": "Jean-Jacques COURBON"
+        },
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Séverine SICHÉ-CHOL"
+        },
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Evelyne VIOLLET"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND",
+        "Jean-Louis MONTCEL",
+        "Geneviève CASCHETTA"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "APPROBATION_PV_20221003",
+      "titre": "Approbation du procès-verbal de la séance du Conseil municipal du 3 octobre 2022",
+      "resume": "Approbation du PV du 3 octobre 2022.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20221128-01",
+      "titre": "Budget principal 2022 - Décision Modificative n°3",
+      "resume": "Ajustements budgétaires 2022 : +8 000 € au chapitre 012 (personnel), +16 000 € acquisitions de terrains (opération 206), +1 000 € matériel informatique (opération 185), réimputation virement sections.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "DM n°3 du budget communal – exercice 2022."
+    },
+    {
+      "id": "Délibération n°20221128-02",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Créations et suppressions de postes (adjoint du patrimoine principal 2e cl., adjoint administratif principal 1re cl., réorganisation service administratif, ajustements d’animation et technique) suite avancements/mutations et réorganisation.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Avis favorable du CTP du 28/11/2022. Crédits au budget 2023, chapitre 012."
+    },
+    {
+      "id": "Délibération n°20221128-03",
+      "titre": "Taux de promotion pour les avancements de grade",
+      "resume": "Fixation du ratio d’avancement à 100% pour adjoint du patrimoine vers adjoint du patrimoine principal de 2e classe, après avis favorable du CTP.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20221128-04",
+      "titre": "Attribution d'une aide PIG Centres-Villages – Mme Véronique SEITZ-LEGODEC",
+      "resume": "Subvention communale de 1 500 € pour travaux d’amélioration de la performance énergétique (isolation combles, PAC air/eau, VMC double flux) dans le cadre du PIG.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Décision COPAMO n°315/22 du 29/09/2022 mentionnée; crédits au budget 2022, opération 278, compte 20422."
+    },
+    {
+      "id": "Délibération n°20221128-05",
+      "titre": "Révision des tarifs du cimetière",
+      "resume": "Mise à jour des tarifs des concessions (m² 15 ans: 100 €; 30 ans: 170 €) et du colombarium (case 10 ans: 230 €; 20 ans: 400 €) à compter du 01/01/2023.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20221128-06",
+      "titre": "Révision des tarifs de droits de place",
+      "resume": "Mise à jour des droits de place (mètre linéaire: 0,60 €; forfaits commerçants occasionnels et spectacles ambulants: 25 €; forfait électrique mensuel: 12 €) à compter du 01/01/2023.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20221128-07",
+      "titre": "Révision des tarifs d'occupation de la Maison des Associations et de la Salle d'Animation",
+      "resume": "Augmentation des tarifs de location (MA et Salle d’Animation) et harmonisation des cautions à compter du 01/01/2023.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20221128-08",
+      "titre": "Révision des tarifs de location du parking de la Cordonnerie",
+      "resume": "Nouveaux tarifs: 32 €/mois voiture; 39 €/mois grand véhicule, à compter du 01/01/2023.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Parking public de 18 places; indexation antérieure sur ICC rappelée."
+    },
+    {
+      "id": "Délibération n°20221128-09",
+      "titre": "Modification des tarifs des repas du restaurant scolaire et du périscolaire",
+      "resume": "Nouvelle grille de 6 tranches QF pour les repas scolaires (entrée en vigueur 01/02/2023) en réponse à la hausse des coûts; pas d’augmentation pour le périscolaire.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Séverine SICHÉ-CHOL",
+            "Jean-Jacques COURBON",
+            "Odile BRACHET",
+            "Laurent NAULIN",
+            "Loïc TAMISIER",
+            "Marc MIOTTO",
+            "Mireille BERTHOUD",
+            "Pierre-Henri JOUFFRE",
+            "Pierre-Luc GUITTET",
+            "Emilie GRAU",
+            "Giada RAVET",
+            "Yves CUBLIER",
+            "Dominique FONS",
+            "Evelyne VIOLLET",
+            "Sylvain NAVARRO",
+            "Charles JULLIAN",
+            "Christiane ROUAND"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Audrey MICHALLET"
+          ]
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": "Surcoût d’achat des repas +0,30 € HT/repas; coût réel estimé 7,80 € par repas pour la commune; recettes supplémentaires attendues ~8 000 €/an."
+    },
+    {
+      "id": "Délibération n°20221128-10",
+      "titre": "Avis sur l'extension d'une installation classée - Société ORIGINAL DOG à Mornant",
+      "resume": "Avis favorable à l’extension d’un bâtiment logistique (ICPE rubrique 1510, régime enregistrement) de la société ORIGINAL DOG, la commune étant dans le rayon de 1 km.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Volume 61 159 m³; SDP ~5 018 m² hors locaux techniques."
+    },
+    {
+      "id": "Délibération n°20221128-11",
+      "titre": "Attribution du marché de maîtrise d'œuvre – Mobilité douce et sécurisation de voiries",
+      "resume": "Attribution à SEDIC (Montagny) pour 22 780,00 € HT, après analyse des offres (prix 40 %, valeur technique 60 %).",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Issue de l’étude mobilité et modes actifs (CERYX) et consultation publique."
+    },
+    {
+      "id": "Délibération n°20221128-12",
+      "titre": "Subventions à des associations « 4L Trophy »",
+      "resume": "Subventions exceptionnelles de 150 € chacune aux associations « Les Baroudeurs » et « Les canailles en 4L » (raid humanitaire 2023).",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20221128-13",
+      "titre": "Rénovation thermique et accessibilité du groupe scolaire – Avenant n°3 au lot 15 Électricité",
+      "resume": "Avenant n°3 (+470,90 € HT) pour réparation de câble détérioré et essais; titulaire ECOL (attribution initiale 107 300,00 € HT).",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Avenants précédents: n°1 +3 979,00 € HT; n°2 +1 154,00 € HT."
+    },
+    {
+      "id": "Délibération n°20221128-14",
+      "titre": "Rénovation thermique et accessibilité du groupe scolaire – Avenant n°2 au lot 14 Plomberie",
+      "resume": "Avenant n°2 (+1 403,90 € HT) pour installation de 3 WC sur pied et modifications réseaux dans local sanitaire maternelle; titulaire BENETIERE (attribution initiale 43 025,10 € HT).",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Avenant n°1: -44,80 € HT. Echanges en séance: total avenants chantier ≈ +25 467 € HT (~1,3 % du montant de base), mise en place d’une GTC et fin des travaux prévue pour Pâques."
+    }
+  ]
+}

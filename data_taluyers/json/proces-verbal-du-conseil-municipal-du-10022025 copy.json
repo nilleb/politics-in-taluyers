@@ -1,0 +1,324 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2025-02-10",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Sylvain NAVARRO",
+        "PierreLuc GUITTET",
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Audrey MICHALLET",
+        "Giada RAVET",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Séverine SICHÉ-CHOL",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Yves CUBLIER"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20250210-01",
+      "titre": "Election d'un nouvel adjoint au Maire à la suite d'une démission",
+      "resume": "Élection de Mme Giada RAVET au poste de 6ème adjoint au Maire suite à la démission de Mme Séverine SICHE-CHOL.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Le scrutin s'est déroulé à bulletin secret."
+    },
+    {
+      "id": "20250210-02",
+      "titre": "Modification des indemnités de fonction des élus",
+      "resume": "Répartition des indemnités de fonction suite à l'élection d'un nouvel adjoint.",
+      "themes": [
+        "budget",
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250210-03",
+      "titre": "Soutien aux victimes du cyclone Chido à Mayotte",
+      "resume": "Don de 1 000 € à la Protection civile pour les victimes du cyclone à Mayotte.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250210-04",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Modification des effectifs du personnel communal par suppressions et créations de postes.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250210-05",
+      "titre": "Création d'un emploi non-permanent",
+      "resume": "Création d'un emploi non permanent d'adjoint technique pour un contrat de 7 mois.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250210-06",
+      "titre": "Modalités de mise en œuvre du Compte Personnel de Formation (CPF)",
+      "resume": "Établissement des modalités de mise en œuvre du CPF pour les agents de la commune.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250210-07",
+      "titre": "Bilan des acquisitions et cessions portant sur l'année 2024",
+      "resume": "Prise d'acte du bilan 2024 annexé au compte administratif.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Aucun bien cédé."
+    },
+    {
+      "id": "20250210-08",
+      "titre": "Subvention exceptionnelle à l'association « Projet Colibris »",
+      "resume": "Subvention de 1 500 € pour soutenir le reboisement par l'association « Projet Colibris ».",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": "Jean-Louis MONTCEL, trésorier de l'association, ne participe pas au vote."
+    },
+    {
+      "id": "20250210-09",
+      "titre": "Convention d'occupation des locaux municipaux par des associations",
+      "resume": "Approbation des conventions d'occupation pour les associations TALURUN et SPORT and Co.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250210-10",
+      "titre": "Convention d'entretien des espaces verts au lotissement Longe Seigne",
+      "resume": "Convention pour l'entretien des espaces verts au lotissement Longe Seigne.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250210-11",
+      "titre": "Convention avec le Département du Rhône pour la sécurisation et mobilité douce",
+      "resume": "Convention avec le Département pour la sécurisation et développement de la mobilité douce sur la RD 105 et RD 36e.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20250210-12",
+      "titre": "Adressage : nommage et numérotage de voies et lieux-dits de la commune",
+      "resume": "Validation des nouveaux noms attribués aux voies et lieux-dits de la commune.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Liste en annexe de la délibération."
+    }
+  ]
+}

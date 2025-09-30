@@ -1,0 +1,326 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2015-11-02",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Bruno SICARD",
+        "Jean-Pierre MARCONNET",
+        "Martine TREVISANI",
+        "Véronique GOUTTENOIRE",
+        "Dominique FONS",
+        "Marc MIOTTO",
+        "Séverine SICHE-CHOL",
+        "Jean-Jacques COURBON",
+        "Yves CUBLIER",
+        "David SEGURA",
+        "Guy DANIEL",
+        "Sylvie ROMAN CLAVELLOUX"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Loïc TAMISIER",
+          "mandataire": "David SEGURA"
+        },
+        {
+          "mandant": "Isabelle PETIT",
+          "mandataire": "Odile BRACHET"
+        },
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "Audrey MICHALLET",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20151102-01",
+      "titre": "Validation de la demande d’Agenda d’Accessibilité Programmé des Etablissements Recevant du Public",
+      "resume": "Approbation de la demande de la commune de Taluyers relative à l’élaboration d’un Agenda d’Accessibilité Programmée.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-02",
+      "titre": "Retrait de huit communes du Syndicat Départemental d’Energies du Rhône (SYDER)",
+      "resume": "Approbaton du retrait des communes, dont la validité est subordonnée à l’accord des conseils municipaux.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-03",
+      "titre": "Approbation de l’intervention au bénéfice de la commune de Taluyers du service de conseil en énergie partagé du SYDER",
+      "resume": "Approbation de la convention d’intervention au bénéfice de la commune de Taluyers du service de Conseil en Energie Partagé.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-04",
+      "titre": "Municipalisation de la bibliothèque",
+      "resume": "Approbation du principe de la municipalisation de la gestion de la bibliothèque à compter du 1er janvier 2016 et du règlement intérieur applicable.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Véronique GOUTTENOIRE"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-05",
+      "titre": "Convention avec l’association paroissiale dans le cadre de la mise à disposition d’un système de projection à l’église",
+      "resume": "Approbation de la convention pour la location d’un système de projection à l’église.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-06",
+      "titre": "Convention de mutualisation pour la pose et la dépose des illuminations",
+      "resume": "Approbation d'une convention de mutualisation avec plusieurs communes pour optimiser la pose et la dépose des illuminations.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-07",
+      "titre": "Arrêt du projet de zonage « Eaux pluviales » et autorisation de la tenue d’une enquête publique",
+      "resume": "Approbation du projet de zonage pluvial lié à la gestion préventive des eaux pluviales, en collaboration avec le SMAGGA.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-08",
+      "titre": "Transfert d’office dans le domaine public communal de la rue de la Tour et lancement de l’enquête publique",
+      "resume": "Approbation du transfert d'office sans indemnités de la rue de la Tour dans le domaine public communal.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-09",
+      "titre": "Budget communal 2015 – Décision Modificative n°2",
+      "resume": "Approbation de la Décision Modificative n°2 du Budget communal – exercice 2015 pour ajuster les crédits budgétaires.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-10",
+      "titre": "Marché de réaménagement d’un parking enherbé – Avenant n°2",
+      "resume": "Approbation de l’avenant n°2 pour un marché de réaménagement de parking enherbé avec une moins-value.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-11",
+      "titre": "Modification des tarifs d’occupation de la salle d’animation et du règlement afférent",
+      "resume": "Approbation de la modification et la révision des tarifs et du règlement intérieur pour la salle d’animation.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151102-12",
+      "titre": "Modification des tarifs d’occupation de la salle des Barbelous, de la Halle et du règlement afférent",
+      "resume": "Approbation de la modification et la révision des tarifs de la salle les Barbelous et du règlement intérieur.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

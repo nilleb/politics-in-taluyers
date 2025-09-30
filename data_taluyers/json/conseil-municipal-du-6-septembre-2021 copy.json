@@ -1,0 +1,275 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2021-09-06",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Evelyne VIOLLET",
+        "Giada RAVET",
+        "Jean-Jacques COURBON",
+        "Jean-Louis MONTCEL",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Concetta SAYER CORTAZZI",
+        "Audrey MICHALLET",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Mireille BERTHOUD",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Sylvain NAVARRO",
+          "mandataire": "Jean-Jacques COURBON"
+        }
+      ],
+      "ABSENT": [
+        "Marc MIOTTO",
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND",
+        "Annabelle PATRIER",
+        "PierreLuc GUITTET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20210906-01",
+      "titre": "Travaux de rénovation énergétique du groupe scolaire - Demande de subvention",
+      "resume": "Demande de subvention à la Région Auvergne Rhône-Alpes pour la rénovation énergétique et mise en accessibilité du groupe scolaire.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210906-02",
+      "titre": "Modification du RIFSEEP",
+      "resume": "Modification du Régime Indemnitaire tenant compte des Fonctions, des Sujétions, de l'Expertise et de l'Engagement Professionnel.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210906-03",
+      "titre": "Harmonisation du temps de travail",
+      "resume": "Suppression des régimes dérogatoires aux 35 heures pour garantir le respect de la durée légale de 1607 heures.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Séverine SICHÉ-CHOL",
+            "Odile BRACHET-CONVERT",
+            "Laurent NAULIN",
+            "Geneviève CASCHETTA",
+            "Loïc TAMISIER",
+            "Evelyne VIOLLET",
+            "Giada RAVET",
+            "Jean-Jacques COURBON",
+            "Dominique FONS",
+            "Charles JULLIAN",
+            "Christiane ROUAND",
+            "Concetta SAYER CORTAZZI",
+            "Audrey MICHALLET",
+            "Yves CUBLIER"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Pascal OUTREBON",
+            "Jean-Louis MONTCEL"
+          ]
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210906-04",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Suppression et création de postes suite à des changements dans le personnel communal.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210906-05",
+      "titre": "Adhésion aux missions pluriannuelles du CDG69",
+      "resume": "Adhésion à la convention unique pour bénéficier des missions pluriannuelles proposées par le CDG69.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210906-06",
+      "titre": "Travaux de rénovation de la toiture du Cuvier Adam et Eve",
+      "resume": "Modification de contrat en cours d'exécution concernant les travaux de rénovation de la toiture.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210906-07",
+      "titre": "Crise sanitaire du Covid19 - Avenant à la convention avec Léo Lagrange",
+      "resume": "Avenant à la convention avec Léo Lagrange en réponse à la crise sanitaire.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210906-08",
+      "titre": "Alignement route des Fontaines – Acquisition de la parcelle n° A 2107",
+      "resume": "Acquisition de la parcelle A 2107 pour régularisation de l'alignement de la route.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20210906-09",
+      "titre": "Promesse unilatérale d'achat à la SAFER – Parcelles n° ZB 0028 et n° ZB 0029",
+      "resume": "Promesse unilatérale d'achat de parcelles par la SAFER pour des prairies humides.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

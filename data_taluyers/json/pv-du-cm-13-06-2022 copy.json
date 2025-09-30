@@ -1,0 +1,239 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-06-13",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": "img-0.jpeg",
+    "autres_participants": [
+      "Mme Giada RAVET (secrétaire de séance)"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Jean-Jacques COURBON",
+        "Mireille BERTHOUD",
+        "Marc MIOTTO",
+        "Giada RAVET",
+        "Sylvain NAVARRO",
+        "Pierre-Henri JOUFFRE",
+        "Pierre-Luc GUITTET",
+        "Charles JULLIAN",
+        "Jean-Louis MONTCEL",
+        "Yves CUBLIER",
+        "Evelyne VIOLLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Emilie GRAU",
+          "mandataire": "Evelyne VIOLLET"
+        }
+      ],
+      "ABSENT": [
+        "Geneviève CASCHETTA",
+        "Dominique FONS",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20220613-01",
+      "titre": "Création d'un service des objets trouvés",
+      "resume": "Création d'un service pour la gestion des objets trouvés à la mairie de Taluyers.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220613-02",
+      "titre": "Mode de publicité des actes réglementaires",
+      "resume": "Décision d'afficher les actes réglementaires sur le panneau de la mairie.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220613-03",
+      "titre": "Création d'emplois non-permanents – jobs d'été",
+      "resume": "Prolongation de la durée de création d'un emploi non-permanent pour des jobs d'été.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220613-04",
+      "titre": "Subvention 4L Trophy",
+      "resume": "Approbation du versement d'une subvention exceptionnelle pour la participation au 4L Trophy.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220613-05",
+      "titre": "Adhésion de la commune de Valfleury au Syndicat Intercommunal de l'Aqueduc Romain du Gier",
+      "resume": "Approbation de l'adhésion de la commune de Valfleury au Syndicat Intercommunal.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220613-06",
+      "titre": "Convention constitutive de groupement de commande pour les travaux de voirie",
+      "resume": "Approbation de la convention pour mutualiser les travaux de voirie et réseaux divers.",
+      "themes": [
+        "voirie",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220613-07",
+      "titre": "Bail rural à clauses environnementales",
+      "resume": "Approbation d'un bail rural avec clauses environnementales avec un agriculteur biologique.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220613-08",
+      "titre": "SYDER - Groupement de commandes pour l'achat d'électricité",
+      "resume": "Approbation d'un groupement de commandes pour l'achat d'électricité verte.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2019-01-14",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Martine TREVISANI",
+        "Séverine SICHE CHOL",
+        "Véronique GOUTTENOIRE",
+        "Jean-Jacques COURBON",
+        "Bruno SICARD",
+        "Dominique FONS",
+        "Odile BRACHET",
+        "Isabelle PETIT",
+        "Marc MIOTTO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        },
+        {
+          "mandant": "Sylvie ROMAN-CLAVELLOUX",
+          "mandataire": "Marc MIOTTO"
+        }
+      ],
+      "ABSENT": [
+        "David SEGURA",
+        "Nathalie FORISSIER",
+        "Jean-Pierre MARCONNET",
+        "Yves CUBLIER",
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20190114-01",
+      "titre": "Subvention à l’association Cap Séniors",
+      "resume": "Attribution d'une subvention de 500€ à l'association Cap Séniors et inscription des crédits au budget communal 2019.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190114-02",
+      "titre": "Autorisation d’engager, liquider et mandater les dépenses d’investissement de l’exercice 2019",
+      "resume": "Autorisation de dépenses d'investissement de 2019 avant le vote du budget 2019 dans la limite des crédits de 2018.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190114-03",
+      "titre": "Modification contrat Lot 2 maçonnerie pour la bibliothèque",
+      "resume": "Approbation de la modification du lot 2 maçonnerie pour le marché de construction de la bibliothèque (suppression du rang de béton cellulaire).",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190114-04",
+      "titre": "Vente des cartes d’accès aux courts au Tennis Club",
+      "resume": "Cession de 30 cartes d'accès pour les courts de tennis au Tennis Club de Taluyers au prix de 300€.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190114-05",
+      "titre": "Convention pour la pose d’un compteur de télé-relève gaz sur le toit de la mairie",
+      "resume": "Validation de la convention particulière avec GRDF pour la pose d'un équipement de télé-relève sur le toit de la mairie.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

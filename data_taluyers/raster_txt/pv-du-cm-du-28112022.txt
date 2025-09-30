@@ -1,0 +1,461 @@
+![img-0.jpeg](img-0.jpeg)
+
+# PROCES-VERBAL DU CONSEIL MUNICIPAL DE TALUYERS
+
+## Lundi 28 novembre 2022 à 19h00
+
+**Nombre de conseillers :** 23
+**En exercice :** 23
+**Présents :** 16
+**Votants :** 19
+
+L'an Deux-mille-vingt-deux, le 28 novembre, le Conseil Municipal s'est réuni en session ordinaire à la Mairie, sous la présidence de Monsieur Pascal OUTREBON, Maire.
+
+**Date de convocation du Conseil Municipal :** 22 novembre 2022
+
+**Présents :** M. Pascal OUTREBON, Mme Séverine SICHÉ-CHOL, M. Jean-Jacques COURBON, Mme Odile BRACHET, M. Laurent NAULIN, M. Loïc TAMISIER, M. Marc MIOTTO, Mme Mireille BERTHOUD, M. Pierre-Henri JOUFFRE, M. Pierre-Luc GUITTET, Mme Emilie GRAU, Mme Giada RAVET, Mme Audrey MICHALLET, M. Yves CUBLIER, Mme Dominique FONS, Mme Evelyne VIOLLET
+
+**Absents ayant voté par procuration en application de l'article L. 2121-20 du CGCT :**
+- M. Sylvain NAVARRO a donné pouvoir à M. Jean-Jacques COURBON
+- M. Charles JULLIAN a donné pouvoir à Mme Séverine SICHÉ-CHOL
+- Mme Christiane ROUAND a donné pouvoir à Mme Evelyne VIOLLET
+
+**Absents :** M. Sébastien CHAIZE, M. Stéphane LEMARCHAND, M. Jean-Louis MONTCEL, Mme Geneviève CASCHETTA
+
+**Secrétaire de séance :** Mme Emilie GRAU
+
+Le quorum étant atteint, le conseil municipal peut valablement délibérer.
+
+## Approbation du procès-verbal de la séance du Conseil municipal du 3 octobre 2022.
+
+Le PV de la séance du Conseil municipal du 3 octobre 2022 est approuvé à l'unanimité des votes exprimés.
+
+## Délibération n°20221128-01
+
+### Budget principal 2022 - Décision Modificative n°3
+
+De nombreux remplacements au service scolaire ont été nécessaires cette année pour pallier des absences de courte ou de plus longue durée (congés maladie, congé maternité) et des renforts sollicités pour aider les services techniques pour déménager et réaménager les différentes salles de classes. Il est par conséquent nécessaire d'ajuster les crédits au chapitre 012 - Charges de personnel.
+
+L'acquisition des terrains agricoles au lieu-dit La Selle a été réalisée et avec les honoraires à la SAFER, cela impose de relever la ligne de crédits de l'opération 206 - Acquisition diverses terrains.
+
+Enfin, les crédits doivent être augmentés à l'opération 185 - Matériel informatique pour régler une dernière facture en instance.
+---
+
+|  Désignation | Dépenses |  | Recettes |   |
+| --- | --- | --- | --- | --- |
+|   | Diminution de crédits | Augmentation de crédits | Diminution de crédits | Augmentation de crédits  |
+|  FONCTIONNEMENT |  |  |  |   |
+|  D-6413 : Personnel non titulaire | 0,00 € | 5 000,00 € | 0,00 € | 0,00 €  |
+|  D-6453 : Cotisations aux caisses de retraite | 0,00 € | 3 000,00 € | 0,00 € | 0,00 €  |
+|  TOTAL D 012 : Charges de personnel et frais assimilés | 0,00 € | 8 000,00 € | 0,00 € | 0,00 €  |
+|  D-023 : Virement à la section d'investissement | 8 000,00 € | 0,00 € | 0,00 € | 0,00 €  |
+|  TOTAL D 023 : Virement à la section d'investissement | 8 000,00 € | 0,00 € | 0,00 € | 0,00 €  |
+|  Total FONCTIONNEMENT | 8 000,00 € | 8 000,00 € | 0,00 € | 0,00 €  |
+|  INVESTISSEMENT |  |  |  |   |
+|  R-021 : Virement de la section de fonctionnement | 0,00 € | 0,00 € | 8 000,00 € | 0,00 €  |
+|  TOTAL R 021 : Virement de la section de fonctionnement | 0,00 € | 0,00 € | 8 000,00 € | 0,00 €  |
+|  D-2111-206 : ACQUISITIONS DIVERSES TERRAINS | 0,00 € | 16 000,00 € | 0,00 € | 0,00 €  |
+|  D-2128-235 : Aménagements Sécurité | 25 000,00 € | 0,00 € | 0,00 € | 0,00 €  |
+|  D-2183-185 : MATERIEL INFORMATIQUE | 0,00 € | 1 000,00 € | 0,00 € | 0,00 €  |
+|  TOTAL D 21 : Immobilisations corporelles | 25 000,00 € | 17 000,00 € | 0,00 € | 0,00 €  |
+|  Total INVESTISSEMENT | 25 000,00 € | 17 000,00 € | 8 000,00 € | 0,00 €  |
+|  Total Général |  | 8 000,00 € |  | 8 000,00 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **APPROUVE** la Décision Modificative n°3 du budget communal – exercice 2022, tel qu'indiqué ci-dessus.
+
+# Délibération n°20221128-02
+
+## Modification du tableau des effectifs
+
+Vu le Code Général de la Fonction publique et notamment ses articles L313-1 et L332-8
+
+Vu le budget,
+
+Vu le tableau des emplois et des effectifs,
+
+Conformément à l'article L313-1 du Code Général de la Fonction publique, susvisé les emplois de chaque collectivité ou établissement sont créés par l'organe délibérant de la collectivité ou de l'établissement.
+
+Il appartient donc au Conseil Municipal de fixer l'effectif des emplois nécessaires au fonctionnement des services.
+
+Suite à la réussite d'un agent à l'examen professionnel d'accès au grade d'Adjoint du patrimoine principal de 2ème classe, d'une part, et la possibilité d'avancement par ancienneté d'un adjoint administratif principal de 2ème classe au grade d'adjoint administratif principal de 1ère classe d'autre part, il est nécessaire de créer les postes correspondants. La suppression des postes d'adjoint du patrimoine et d'adjoint administratif principal de 2ème classe sera fait ultérieurement après avis du CTP.
+
+|  SUPPRESSION DE POSTE | Quotité hebdomadaire | CRÉATION DE POSTE | Quotité hebdomadaire  |
+| --- | --- | --- | --- |
+|   |  | Adjoint du patrimoine principal de 2ème classe | 35/35ème  |
+|   |  | Adjoint administratif principal de 1ère classe | 35/35ème  |
+
+La demande de mutation de l'agent en charge de la coordination scolaire et périscolaire va rendre vacant l'emploi de Rédacteur principal de 2ème classe puisque sa remplaçante, via une mutation interne et une intégration directe, sera nommée sur le grade d'adjoint administratif (31/35ème).
+---
+
+Celle-ci occupait un double emploi d'adjoint technique, en charge de l'entretien de bâtiments, et d'adjoint d'animation, en qualité d'animatrice périscolaire.
+
+Le Comité Technique Paritaire en date du 28 novembre 2022 a émis un avis favorable à la suppression de ces deux emplois.
+
+|  SUPPRESSION DE POSTE | Quotité hebdomadaire | CREATION DE POSTE | Quotité hebdomadaire  |
+| --- | --- | --- | --- |
+|  Adjoint technique | 15,25/35ème | Adjoint administratif | 31/35ème  |
+|  Adjoint d'animation | 10,25/35ème |  |   |
+
+En 2010, le secrétariat de mairie était composé de 4 agents à temps plein.
+
+Suite au départ d'une secrétaire en 2012, une réorganisation des missions était décidée avec les trois agents en poste, avec un renfort à l'accueil le matin (12/35ème) et l'après-midi (13,25/35ème), soit 3,75 équivalents temps-plein. Cette année, un projet de réorganisation des missions administratives (ressources humaines, urbanisme, comptabilité) a été réalisée en concertation avec les agents. Pour que ces missions soient effectuées avec efficience, et afin de s'adapter à l'évolution de la commune, il est proposé la création d'un poste d'adjoint administratif (22,75/35ème). A l'issue de ce processus, l'effectif administratif de la mairie sera de 4,37 équivalents temps plein.
+
+Le poste de renfort à l'accueil (13,25/35ème) était créé pour compenser les temps partiels des deux secrétaires polyvalentes. Celui-ci ayant démontré toute son utilité, il est proposé de l'inscrire au tableau des effectifs.
+
+Le Comité Technique Paritaire en date du 28 novembre 2022 a émis un avis favorable à la réorganisation du service administratif.
+
+|  SUPPRESSION DE POSTE | Quotité hebdomadaire | CREATION DE POSTE | Quotité hebdomadaire  |
+| --- | --- | --- | --- |
+|   |  | Adjoint administratif | 22,75/35ème  |
+|   |  | Adjoint administratif | 13,25/35ème  |
+
+Lors du conseil municipal du 29 août 2022, les postes d'adjoints d'animation ont été créés pour la rentrée scolaire en remplacement de ceux de l'année scolaire précédente, qu'il convient de supprimer.
+
+Le Comité Technique Paritaire en date du 28 novembre 2022 a émis un avis favorable à la réorganisation du service administratif.
+
+Enfin, un adjoint d'animation (3,00/35ème) réalise en heures complémentaires la surveillance de la pause méridienne et au regard des effectifs de cette année, il est nécessaire d'ajuster son temps de travail en le passant à 9,00/35ème.
+
+|  SUPPRESSION DE POSTE | Quotité hebdomadaire | CREATION DE POSTE | Quotité hebdomadaire  |
+| --- | --- | --- | --- |
+|  Adjoint d'animation | 6,25/35ème |  |   |
+|  Adjoint d'animation | 13,25/35ème |  |   |
+|  Adjoint d'animation | 3,00/35ème | Adjoint d'animation | 9,00/35ème  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **APPROUVE** la modification du tableau des effectifs tel qu'exposé ci-dessus,
+- **DIT** que les crédits nécessaires à l'application de la présente délibération seront inscrits au budget de l'exercice 2023, chapitre 012.
+
+# Délibération n°20221128-03
+
+## Taux de promotion pour les avancements de grade
+
+Il appartient à chaque assemblée délibérante de fixer, après avis du Comité Technique Paritaire, le taux permettant de déterminer, à partir du nombre d'agents remplissant les conditions pour être nommés à un grade d'avancement, le nombre maximum de fonctionnaires pouvant être promus à ce grade.
+
+Le choix des fonctionnaires qui sont promus est ensuite effectué par le Maire, parmi les fonctionnaires qui remplissent les conditions d'ancienneté et dans la limite du nombre de grades d'avancement décidés par le conseil municipal.
+---
+
+Vu l'avis favorable du Comité Technique Paritaire réuni le 28 novembre 2022, Monsieur le Maire propose à l'assemblée de fixer les ratios d'avancement de grade du cadre d'emploi d'adjoint territorial du patrimoine, pour la commune de Taluyers, comme suit :
+
+|  CADRE D'EMPLOIS | GRADE D'ORIGINE | GRADE D'AVANCEMENT | TAUX (\%)  |
+| --- | --- | --- | --- |
+|  Adjoint du patrimoine | Adjoint du patrimoine | Adjoint du patrimoine principal de 2ème classe | 100  |
+
+Le Conseil Municipal, après en avoir délibéré, à, l'unanimité,
+
+- ADOPTE les ratios ainsi proposés
+
+# Délibération n²0221128-04
+
+## - Attribution d'une aide aux travaux d'amélioration de la performance énergétique dans le cadre du Programme d'Intérêt Général du Pays Mornantais - PIG Centres-Villages de la commune de Taluyers à Madame Véronique SEITZ-LEGODEC
+
+Vu le Code Général des Collectivités Territoriales, Vu l'agrément de l'Anah, Vu la délibération $n^{\circ}$ 20220110-07 du Conseil Municipal du 10 janvier 2022 portant approbation de la convention relative au Programme d'Intérêt Général « Centres-Villages » 2019-2021, prorogée jusqu'en 2023, et portant approbation des règlements d'intervention des aides financières du PIG, Vu la demande déposée par Madame Véronique SEITZ-LEGODEC, relative au projet d'amélioration de la performance énergétique de sa résidence principale située 615 rue des Blanchardes à Taluyers, Vu la décision d'attribution de la COPAMO n 315/22, en date du 29 septembre 2022,
+
+Considérant les travaux envisagés :
+
+- Isolation du plancher des Combles Perdus.
+- Installation d'une pompe à chaleur Air/Eau.
+- $\quad$ Pose d'une VMC Double Flux avec échangeur.
+
+Considérant le montant des travaux subventionnables de $25060 €$ HT, Considérant que ces travaux rendent le projet éligible à la prime aux travaux d'amélioration de la performance énergétique prévu par la Commune, Considérant que la commune de Taluyers attribue une aide de $20 \%$ du montant des travaux plafonnée à $1500 € \mathrm{HT}$, Considérant que cette demande répond aux caractéristiques d'éligibilité définies par la commune,
+
+Le Conseil Municipal, après en avoir délibéré, à, l'unanimité,
+
+- DECIDE l'attribution d'une subvention d'un montant de $1500 €$ à Madame Véronique SEITZ-LEGODEC dans le cadre de travaux d'amélioration de la performance énergétique de sa résidence principale située à Taluyers.
+- AUTORISE le Maire à signer tous documents relatifs à l'attribution de cette subvention.
+- DIT que les crédits sont inscrits au Budget 2022, opération 278, compte 20422.
+- DIT que la présente décision peut être déférée devant le Tribunal Administratif de Lyon dans un délai de deux mois à compter de sa notification au bénéficiaire, par lettre recommandée avec accusé de réception, de sa transmission au contrôle de légalité, et de sa publication au recueil des actes administratifs.
+---
+
+# Délibération n°20221128-05
+
+## Révision des tarifs du cimetière
+
+La dernière révision des tarifs du cimetière avait été fixée par le conseil municipal en date du 11 octobre 2010, soit plus de 12 ans sans augmentation.
+
+Il est proposé de réviser les tarifs de concession du cimetière et du colombarium comme suit :
+
+|   | TARIFS 2011 | TARIFS 2023  |
+| --- | --- | --- |
+|  Concessions du cimetière |  |   |
+|  - Le m² - 15 ans | 85,00 € | 100,00 €  |
+|  - Le m² - 30 ans | 145,00 € | 170,00 €  |
+|  Colombarium |  |   |
+|  - Case - 10 ans | 195,00 € | 230,00 €  |
+|  - Case - 20 ans | 340,00 € | 400,00 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DECIDE d'appliquer les tarifs indiqués ci-dessus à compter du 1er janvier 2023.
+
+# Délibération n°20221128-06
+
+## Révision des tarifs de droits de place
+
+La dernière révision des tarifs de droit de place avait été fixée par le conseil municipal en date du 11 octobre 2010, soit plus de 10 ans sans augmentation.
+
+Il est proposé de réviser les tarifs de droits de place comme suit :
+
+|   | TARIFS 2011 | TARIFS 2023  |
+| --- | --- | --- |
+|  Droits de place |  |   |
+|  - Droits au mètre linéaire | 0,50 € | 0,60 €  |
+|  - Forfait commerçants occasionnels hors marché | 20,00 € | 25,00 €  |
+|  - Spectacles ambulants | 20,00 € | 25,00 €  |
+|  - Commerçants habituels – forfait électrique mensuel | 4,00 € | 12,00 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DECIDE d'appliquer les tarifs de droits de place comme indiqués ci-dessus, à compter du 1er janvier 2023.
+
+# Délibération n°20221128-07
+
+## Révision des tarifs d'occupation de la Maison des Associations et de la Salle d'Animation
+
+### A- La Maison des Associations
+
+La dernière révision des tarifs d'occupation des salles de la Maison des Associations avait été fixée par le conseil municipal en date du 2 novembre 2015, soit plus de 7 ans sans augmentation.
+
+Pour rappel, ceux-ci étaient fixés comme ci-après :
+---
+
+|  TYPE DE LOCATION | TARIF ETE (du 01/05 au 15/10) | TARIF HIVER (du 16/10 au 30/04)  |
+| --- | --- | --- |
+|  **Taille les Barbelous** |  |   |
+|  Privée | 200 € | 280 €  |
+|  - Si ménage | 60 € | 60 €  |
+|  - Caution tri sélectif | 500 € | 500 €  |
+|  **Taille les Barbelous** |  |   |
+|  Associations (à but lucratif) |  |   |
+|  - 1 fois | 0 € | 0 €  |
+|  - 2 fois | 50 € | 70 €  |
+|  - 3 fois | 75 € | 105 €  |
+|  - 4 fois | 100 € | 140 €  |
+|  - 5 fois | 150 € | 210 €  |
+|  - Si ménage | 60 € | 60 €  |
+|  - Caution tri sélectif | 500 € | 500 €  |
+
+Il est proposé de réviser les tarifs comme suit :
+
+|  TYPE DE LOCATION | TARIF ETE (du 01/05 au 15/10) | TARIF HIVER (du 16/10 au 30/04)  |
+| --- | --- | --- |
+|  **Taille les Barbelous** |  |   |
+|  Privée | 250 € | 350 €  |
+|  - Caution tri sélectif | 500 € | 500 €  |
+|  Associations (à but lucratif) |  |   |
+|  - 1 fois | 0 € | 0 €  |
+|  - 2 fois | 60 € | 85 €  |
+|  - 3 fois | 90 € | 130 €  |
+|  - 4 fois | 120 € | 160 €  |
+|  - 5 fois | 180 € | 250 €  |
+|  - Caution tri sélectif/ménage | 500 € | 500 €  |
+
+### B- La Salle d’Animation
+
+La dernière révision des tarifs d’occupation de la Salle d’Animation avait été fixée par le conseil municipal en date du 2 novembre 2015, soit plus de 7 ans sans augmentation.
+
+Pour rappel, ceux-ci étaient fixés comme ci-après :
+
+|  TYPE DE LOCATION | TARIF ETE (du 01/05 au 15/10) | TARIF HIVER (du 16/10 au 30/04)  |
+| --- | --- | --- |
+|  Privée | 250 € | 350 €  |
+|  - Si ménage | 60 € | 60 €  |
+|  - Caution tri sélectif | 500 € | 500 €  |
+|  Associations (à but lucratif) |  |   |
+|  - 1 fois | 0 € | 0 €  |
+|  - 2 fois | 50 € | 70 €  |
+|  - 3 fois | 75 € | 105 €  |
+|  - 4 fois | 100 € | 140 €  |
+|  - 5 fois | 150 € | 210 €  |
+|  - Si ménage | 60 € | 60 €  |
+|  - Caution tri sélectif | 500 € | 500 €  |
+---
+
+Il est proposé de réviser les tarifs comme suit :
+
+|  TYPE DE LOCATION | TARIF ETE (du 01/05 au 15/10) | TARIF HIVER (du 16/10 au 30/04)  |
+| --- | --- | --- |
+|  Privée | $300 €$ | $400 €$  |
+|  - Caution tri sélectif/ménage | $500 €$ | $500 €$  |
+|  Associations (à but lucratif) |  |   |
+|  - 1 fois | $0 €$ | $0 €$  |
+|  - 2 fois | $60 €$ | $85 €$  |
+|  - 3 fois | $90 €$ | $130 €$  |
+|  - 4 fois | $120 €$ | $160 €$  |
+|  - 5 fois | $180 €$ | $250 €$  |
+|  - Caution tri sélectif | $500 €$ | $500 €$  |
+
+Le Conseil Municipal, après en avoir délibéré, à, l'unanimité,
+
+- DECIDE d'appliquer les tarifs d'occupation de la Maison des Associations et de la Salle d'Animation comme indiqués ci-dessus, à compter du $1^{\text {er }}$ janvier 2023.
+
+# Délibération n²0221128-08
+
+## - Révision des tarifs de location du parking de la Cordonnerie
+
+La dernière révision des tarifs de location du parking de la Cordonnerie avait été fixée par le conseil municipal en date du 5 juillet 2010.
+
+Ce parking public de 18 places est situé au carrefour rue de la rue de la Cordonnerie et de la rue de la Bezace. Fixés en 2010 à $20 €$ par mois pour une voiture et $25 €$ par mois pour un véhicule encombrant, ces tarifs évoluent en fonction de l'indice du coût de la construction et s'élèvent aujourd'hui respectivement à $26,76 €$ et $32,87 €$.
+
+Il est proposé de réviser les tarifs et de les fixer comme suit :
+
+- $32 € /$ mois pour une voiture
+- $39 € /$ mois pour un grand véhicule
+
+Le Conseil Municipal, après en avoir délibéré, à, l'unanimité,
+
+- DECIDE d'appliquer les tarifs de location du parking de la Cordonnerie comme indiqués ci-dessus, à compter du $1^{\text {er }}$ janvier 2023.
+
+## Délibération n²0221128-09
+
+## - Modification des tarifs des repas du restaurant scolaire et du périscolaire
+
+## A-Repas du restaurant scolaire
+
+La dernière révision des tarifs des repas du restaurant scolaire avait été fixée par le conseil municipal en date du 8 juin 2020, soit plus de 2 ans sans augmentation. La précédente modification remontait au $1^{\text {er }}$ septembre 2017. En juillet 2022, à l'issue de la consultation pour un nouveau prestataire de fourniture et livraison de repas en liaison froide, l'offre du nouveau titulaire, économiquement la plus avantageuse, faisait état d'une augmentation de $0,30 €$ par repas d'élève. Avec une moyenne de 25000 repas achetés par an, cela représente un surcoût de $7500 €$ pour la collectivité.
+
+De plus, l'augmentation des coûts énergétiques supportés cette année et plus encore celle à venir, nécessitent un ajustement des tarifs. En ajoutant la masse salariale des agents de cantine (préparation des repas et service) et des agents en charge de la surveillance de cour, ainsi que les coûts énergétiques actuels, le prix d'un repas revient à $7,8 €$ pour la mairie. Initialement divisés en trois tranches, la grille tarifaire passerait à six tranches de quotient familial.
+---
+
+- Grille tarifaire actuelle du repas scolaire :
+
+|  QF < à 650 € | Entre 650 et $1220 €$ | $>$ à $1220 €$  |
+| --- | --- | --- |
+|  $3,35 €$ | $4,65 €$ | $5,35 €$  |
+
+- Nouvelle grille tarifaire du repas scolaire proposée à compter du $1^{\text {er }}$ février 2023 :
+
+|  QF < 600 € | Entre 601 et $899 €$ | Entre 900 et $1199 €$ | Entre 1200 et $1499 €$ | Entre 1500 et 1799 | $>1800 €$  |
+| --- | --- | --- | --- | --- | --- |
+|  $3,35 €$ | $4,80 €$ | $4,95 €$ | $5,65 €$ | $5,75 €$ | $5,95 €$  |
+
+# B-Tarifs du périscolaire
+
+L'analyse des tarifs appliqués pour le service périscolaire du matin et du soir indique que la collectivité arrive à l'équilibre entre les recettes générées et les dépenses de masse salariale des agents d'animation ajoutés aux coûts des fluides et de l'électricité du bâtiment. Par conséquent, il est proposé de ne pas augmenter les tarifs du service périscolaire. M. le Maire. Depuis le $1^{\text {er }}$ septembre 2022, nous avons un nouveau prestataire et des coûts supplémentaires sont apparus. Avec l'exécutif il a été proposé, dans un premier temps, qu'il y ait plus de plages de quotient familial pour être plus juste et plus fin. Dans un deuxième temps l'analyse du coût des repas fait apparaître un surcoût pour la commune qui augmente: la masse salariale, les fluides et l'achat des repas, qui a augmenté de $+0,30 €$ HT par repas, représente un coût annuel de 200000 €. Les recettes annuelles de vente des repas de cantine aux familles s'élèvent à 128000 €. La différence de 69000 € est supportée par la commune, soit $2,75 €$ HT par repas. Avec les nouveaux tarifs, on obtiendrait une recette complémentaire de 8000 € par an, ce qui permettrait de couvrir soit le surcoût énergétique à venir, soit le surcoût d'achat des repas, mais pas les deux.
+
+Mme Giada RAVET. Le fait d'augmenter le nombre de tranches colle plus à la réalité et il est normal de faire payer plus. M. le Maire. Je rappelle que le prix réel du repas payé par la commune est de 7,80 €, achat du repas, masse salariales et coût des fluides.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité (une abstention de Mme Audrey MICHALLET),
+
+- DECIDE d'appliquer les tarifs des repas du restaurant scolaire selon la nouvelle grille tarifaire comme indiqués ci-dessus, à compter du $1^{\text {er }}$ février 2023.
+
+## Délibération n²0221128-10
+
+## - Avis sur l'extension d'une installation classée - Société ORIGINAL DOG à Mornant
+
+La société ORIGINAL DOG prévoit l'extension de son actuel bâtiment dédié à des activités de logistique, implanté au sein de la ZAE des Platières sur la commune de Mornant (69). Le site pourra accueillir des marchandises de type alimentaires pour animaux de compagnie (croquettes pour canins et félins), suivant l'activité de l'utilisateur final. Au regard du volume du bâtiment ( 61159 m 3 ), de la surface de plancher ( $5018 \mathrm{~m}^{2}$ hors locaux techniques) et de son utilisation, le site sera visé par la réglementation relative aux Installations Classées pour la Protection de l'Environnement (ICPE) pour la rubrique principale 1510 avec un régime d'enregistrement. La commune de Taluyers étant située dans le rayon d'un kilomètre autour du périmètre de l'installation projetée, le dossier présenté par la société ORIGINAL DOG est soumis pour avis au conseil municipal.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- EMET un avis favorable à la demande d'extension de la Société ORIGINAL DOG, à Mornant.
+---
+
+# Délibération n²0221128-11
+
+- Attribution du marché de maîtrise d'œuvre pour les travaux de mobilité douce et de sécurisation de voiries de la commune
+
+A l'issue de l'étude mobilité et modes actifs du bureau d'études CERYX qui a rendu un diagnostic et des propositions d'aménagement, les habitants ont été invités à s'exprimer sur ce sujet via un questionnaire.
+
+Un travail de synthèse sur le terrain a ensuite servi de base à la consultation pour désigner un maître d'œuvre chargé de concevoir et encadrer les travaux.
+
+Trois offres ont été réceptionnées dans les délais impartis et après analyse de celles-ci, au regard des critères d'analyse fixés au cahier des charges (prix 40 %, valeur technique 60%), il a été décidé d'attribuer le marché au candidat suivant :
+
+|  Entreprise | Adresse | Prix de l'offre € HT  |
+| --- | --- | --- |
+|  SEDIC | 145 route de Millery 69700 MONTAGNY | 22 780,00 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **ATTRIBUE** le marché de maîtrise d'œuvre pour les travaux de mobilité douce et sécurisation de voiries à l'entreprise SEDIC – 145 route de Millery 69700 MONTAGNY.
+- **AUTORISE** Monsieur le Maire à signer le marché afférent.
+
+# Délibération n²0221128-12
+
+- Subventions à des associations « 4L Trophy »
+
+La commune a été sollicitée par deux équipages composés de talusiens qui vont réaliser le raid humanitaire « 4L Trophy » en 2023.
+
+Les associations concernées sont « Les Baroudeurs » et « Les canailles en 4L » et il est proposé de leur attribuer une subvention exceptionnelle de 150 € chacune.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **APPROUVE** le versement d'une subvention exceptionnelle de 150 € à l'association « Les Baroudeurs » et 150 € à l'association « Les canailles en 4L ».
+
+# Délibération n²0221128-13
+
+- Marché de rénovation thermique et mise en accessibilité du groupe scolaire – Avenant n°3 au lot 15 – Electricité
+
+Dans le cadre des travaux de rénovation énergétique du groupe scolaire, par délibération en date du 10 janvier 2022, le conseil municipal a approuvé l'attribution du lot 15 – Electricité à l'entreprise ECOL pour un montant de 107 300,00 € HT.
+
+Lors du conseil municipal du 29 août 2022, il a été approuvé l'avenant n°1 du lot 15 – Electricité pour un montant de + 3 979,00 € HT.
+
+Lors du conseil municipal du 3 octobre 2022, il a été approuvé l'avenant n°2 du lot 15- Electricité pour un montant de + 1 154,00 € HT.
+
+Il est nécessaire de réparer le câble détérioré lors des reprises de doublage en soubassement des façades, y compris essais.
+
+L'avenant n°3 du lot 15 – Electricité – s'élève à + 470,90 € HT.
+
+Le Conseil Municipal, après en avoir délibéré à l'unanimité,
+---
+
+# Délibération n²0221128-14
+
+## - Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant $\mathbf{n}^{\circ} 2$ au lot 14 Plomberie
+
+Dans le cadre des travaux de rénovation énergétique du groupe scolaire, par délibération en date du 10 janvier 2022, le conseil municipal a approuvé l'attribution du lot 14 - Plomberie à l'entreprise BENETIERE pour un montant de 43 $025,10 €$ HT.
+
+Lors du conseil municipal du 29 août 2022, il a été approuvé l'avenant $n^{\circ} 1$ du lot 14 - Plomberie pour un montant de $-44,80 €$ HT.
+
+A la demande de la mairie, concernant la réfection du local sanitaire de la classe $n^{\circ} 5$ en maternelle, il a été nécessaire de mettre en place 3 WC sur pied y compris raccordement et modification des adductions et évacuations.
+
+L'avenant $n^{\circ} 2$ du lot 14 - Plomberie s'élève donc à $+1403,90 €$ HT. Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE l'avenant $n^{\circ} 2$ du lot 14 - Plomberie du marché de rénovation thermique et mise en accessibilité du groupe scolaire,
+- AUTORISE Monsieur le Maire à signer l'avenant et tout document y afférent. M. Laurent NAULIN. Au niveau du chantier, depuis le début, on a un total d'avenants de +25467 € HT, soit 1,3 \% du montant de base des travaux, ce qui n'est pas énorme. Il y aura l'aménagement des classes, réalisés en interne, qui ne sont pas comptabilisés mais qui génèrent des dépenses non comprises dans le marché de base M. le Maire. Globalement, on aura fini les travaux pour Pâques avec un pôle scolaire remis à neuf M. Laurent NAULIN. Ce qu'on met en place au niveau du bâtiment c'est une GTC (Gestion Technique du Bâtiment) qui va gérer l'ensemble du bâtiment à distance. L'idée c'est de faire évoluer cela aux autres bâtiments communaux afin d'optimiser les économies d'énergie Mme Mireille BERTHOUD. Et du point de vie phonique? M. Laurent NAULIN. Oui en rabaissant les plafonds au niveau des classes avec plafonds acoustiques.
+
+Mme Mireille BERTHOUD. Et au niveau de la cantine ? M Laurent NAULIN. Il n'est pas prévu de traitement propre à l'acoustique mais le changement au niveau du plafond et à terme un nouveau revêtement de sol permettra d'atténuer le bruit.
+
+## Décisions prises par le Maire sur délégation du conseil municipal
+
+|  Préparation, passation, exécution et règlement des marchés < 20000 € HT |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | Fournisseur/demandeur/intéressé | Montant HT  |
+|  06/10/2022 | Travaux de plomberie aux écoles et Maison des associations | NICO PLOMBERIE - 281 route du Batard - 69440 TALUYERS | $1429,36 €$  |
+|  24/11/2022 | Bacs à BD pour la bibliothèque municipale | BCI - 6 Allée Kepler - 77420 CHAMPS SUR MARNE | $1350,00 €$  |
+|  20/10/2022 | Nettoyage des réfectoires et de la cuisine | ASR NETTOYAGE - | 760,00 €  |
+|  27/10/2022 | Levé topographique pour projet d'aménagement d'un city stade et reprise du parking | ATDEC - 3 rue Georges Brassens - 69780 MIONS | $1880,00 €$  |
+|  27/10/2022 | Système de sécurité incendie et éclairage de sécurité sous le tennis couvert | ECOL - ZA des Lats - 69510 MESSIMY | $1703,30 €$  |
+|  27/10/2022 | Travaux électriques pour alarme anti intrusion à l'agence postale | ECOL - ZA des Lats - 69510 MESSIMY | $3028,50 €$  |
+|  20/10/2022 | Changement de la porte-fenêtre de la salle du conseil municipal | GARDE MENUISERIE - ZI les Platière 69440 MORNANT | 993,00 €  |
+|  Délivrance et reprise des concessions dans les cimetières |  |  |   |
+|  Date | Objet | Fournisseur/demandeur/intéressé | Montant  |
+|  28/10/2022 | Concession AC 361 de 15 ans pour un montant de $170 €$ | François BUISSON | $170 €$  |
+---
+
+|  25/10/2022 | Concession AC 078 de 30 ans pour un montant de 290 € | Chantal THEVENIN | 290 €  |
+| --- | --- | --- | --- |
+|  25/10/2022 | Concession AC 255-256 de 15 ans pour un montant de 340 € | Françoise DUC | 340 €  |
+|  08/10/2022 | Concession AC 359-360 de 15 ans pour un montant de 340 € | Francette FAYOLLE | 340 €  |
+
+# Tour de table
+
+**Mme Odile BRACHET.** *La prochaine fête des écoles aura lieu le 24 juin 2023.*
+
+**M. Loïc TAMISIER.** *La distribution du colis aux anciens est prévue le 10 décembre.*
+
+**M. Jean-Jacques COURBON.** *Quelques projets de voirie sont programmés chemin de Sagris, Allée des Pépinières, rue de la Grange et Chemin du Félin.*
+
+La séance est levée à 21h00.
+
+La secrétaire de séance,
+
+Mme Emilie GRAU
+
+Le Maire,
+
+Pascal OUTREBON
+---
+
+.

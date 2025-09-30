@@ -1,0 +1,305 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2023-01-30",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Mireille BERTHOUD",
+        "Pierre-Henri JOUFFRE",
+        "Giada RAVET",
+        "Yves CUBLIER",
+        "Sylvain NAVARRO",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Dominique FONS",
+        "Marc MIOTTO",
+        "Evelyne VIOLLET",
+        "Pierre-Luc GUITTET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Sylvain NAVARRO"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND",
+        "Pierre-Luc GUITTET",
+        "Jean-Louis MONTCEL"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20230130-01",
+      "titre": "Marché de maintenance des équipements de chauffage et de ventilation des bâtiments communaux",
+      "resume": "Attribution du marché de maintenance des équipements de chauffage et de ventilation des bâtiments communaux à la société ENER 4.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Société ENER 4 attribuée pour un montant de 9990,00€ HT."
+    },
+    {
+      "id": "20230130-02",
+      "titre": "Création d'un emploi non-permanent",
+      "resume": "Création d'un emploi non-permanent pour faire face à un accroissement temporaire d'activité.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Emploi créé pour aider les agents techniques pendant les vacances scolaires."
+    },
+    {
+      "id": "20230130-03",
+      "titre": "Adhésion au dispositif du Centre de Gestion du Rhône pour le signalement des actes de violence, discrimination, harcèlement et agissements sexistes",
+      "resume": "Adhésion au dispositif du CDG du Rhône pour le signalement des actes de violence, discrimination, harcèlement et agissements sexistes.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Dispositif pour la protection et l'accompagnement des victimes."
+    },
+    {
+      "id": "20230130-04",
+      "titre": "Bénévoles assurant la fermeture du Parc Pie X – Repas offert",
+      "resume": "Offrir un repas aux bénévoles assurant la fermeture des portails des Jardins Pie X.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Repas offert dans un restaurant pour un montant maximal de 50 € par bénéficiaire."
+    },
+    {
+      "id": "20230130-05",
+      "titre": "Demande de subvention dans le cadre de la Dotation d'Equipement des Territoires Ruraux (DETR)",
+      "resume": "Demande de subvention pour l'aménagement d'un City-stade, une aire de jeux et une piste d'athlétisme.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Demandé dans le cadre de la DETR pour l'espace de loisirs."
+    },
+    {
+      "id": "20230130-06",
+      "titre": "Demande de subvention dans le cadre de la Dotation de Soutien à l'Investissement public Local (DSIL)",
+      "resume": "Demande de subvention pour une opération de renaturation et création d'îlots de fraîcheur.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Renaturation du centre-bourg et création d'îlots de fraîcheur."
+    },
+    {
+      "id": "20230130-07",
+      "titre": "Demande de subvention dans le cadre du Plan « 5000 terrains de sport» de l'Agence Nationale du Sport",
+      "resume": "Demande de subvention pour la création d'un City stade et d'une mini piste d'athlétisme dans le cadre du Plan « 5000 terrains de sport ».",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Participe au déploiement d'équipements sportifs de proximité."
+    },
+    {
+      "id": "20230130-08",
+      "titre": "Convention de mise à disposition d'un vélo à assistance électrique (VAE) avec la COPAMO",
+      "resume": "Approbation de la convention avec la COPAMO pour la mise à disposition d'un VAE.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Encourage la mobilité douce et participative."
+    },
+    {
+      "id": "20230130-09",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n° 2 au lot 12",
+      "resume": "Approbation de l'avenant n° 2 pour le lot 12 concernant le revêtement de sol dans la rénovation du groupe scolaire.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Concerns a less value related to a project change."
+    },
+    {
+      "id": "20230130-10",
+      "titre": "Mise en place de l'aide aux devoirs",
+      "resume": "Approbation de la mise en place d'un dispositif d'aide aux devoirs pendant le périscolaire soir.",
+      "themes": [
+        "RH",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Dispositif proposé après demandes des parents pour CE2, CM1, CM2."
+    },
+    {
+      "id": "20230130-11",
+      "titre": "Répartition 2022 du produit 2021 des amendes de police relatives à la circulation routière",
+      "resume": "Engagement à réaliser une étude mobilité financée partiellement par des amendes de police.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Subvention de 4500 € acceptée pour Teilhation de 77 % des coûts."
+    }
+  ]
+}

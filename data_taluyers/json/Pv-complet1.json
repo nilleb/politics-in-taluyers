@@ -1,0 +1,248 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2018-01-22",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "M. Jean-Luc FUGIT"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Jean-Jacques COURBON",
+        "Séverine SICHE CHOL",
+        "Bruno SICARD",
+        "Marc MIOTTO",
+        "Odile BRACHET",
+        "Martine TREVISANI",
+        "Véronique GOUTTENOIRE",
+        "Isabelle PETIT",
+        "Charles JULLIAN",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "David SEGURA",
+          "mandataire": "Sylvie ROMAN-CLAVELLOUX"
+        },
+        {
+          "mandant": "Loïc TAMISIER",
+          "mandataire": "Séverine SICHE-CHOL"
+        }
+      ],
+      "ABSENT": [
+        "Jean-Pierre MARCONNET",
+        "Nathalie FORISSIER",
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20180122-01",
+      "titre": "Attribution du marché de maîtrise d’œuvre pour la réhabilitation de l’église",
+      "resume": "Attribution de marché de maîtrise d’œuvre pour la réhabilitation de l'église et demandes de subventions à la DRAC et à la région.",
+      "themes": [
+        "marches",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-02",
+      "titre": "Création d’emplois non-permanents pour des besoins saisonniers",
+      "resume": "Création d'emplois non permanents pour des besoins saisonniers de 2018.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Dominique FONS",
+            "Guy DANIEL",
+            "Séverine SICHE CHOL",
+            "Bruno SICARD",
+            "Marc MIOTTO",
+            "Odile BRACHET",
+            "Martine TREVISANI",
+            "Véronique GOUTTENOIRE",
+            "Isabelle PETIT",
+            "Charles JULLIAN",
+            "Yves CUBLIER"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Sylvie ROMAN-CLAVELLOUX",
+            "Jean-Jacques COURBON"
+          ]
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-03",
+      "titre": "Autorisation d’engager, liquider et mandater les dépenses d’investissement 2018",
+      "resume": "Autorisation d'engager les dépenses d'investissement 2018 dans la limite du quart des crédits ouverts en 2017.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-04",
+      "titre": "Marché de construction d’un bâtiment périscolaire – Modification n°2 d’un contrat",
+      "resume": "Modification n°2 du contrat pour le lot 3 Charpente du bâtiment périscolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-05",
+      "titre": "Marché de construction d’un bâtiment périscolaire – Modification n°2",
+      "resume": "Modification n°2 du contrat pour le lot 4 Etanchéité du bâtiment périscolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Problèmes d'insonorisation constatés dans le nouveau bâtiment."
+    },
+    {
+      "id": "20180122-06",
+      "titre": "Marché de fourniture de repas pour le groupe scolaire et la mairie",
+      "resume": "Modification n°1 du contrat de fourniture de repas pour intégrer un prix adulte au groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-07",
+      "titre": "Convention de groupement de commande pour travaux d’entretien de la voirie",
+      "resume": "Approbation de convention de groupement pour les travaux d’entretien et d’amélioration de la voirie sur le domaine public.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20180122-08",
+      "titre": "Groupement de commande d’électricité 2019",
+      "resume": "Approbation de l'adhésion au groupement de commande d'électricité initié par SYDER pour la période 2019-2020.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2014-02-24",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Gérard CHOLLET",
+        "Charles JULLIAN",
+        "Dominique FONS",
+        "Odile BRACHET",
+        "Marc MIOTTO",
+        "Yves CUBLIER",
+        "Guy DANIEL",
+        "Jean-Jacques COURBON",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Martine TREVISANI"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Véronique MARY",
+          "mandataire": "Dominique FONS"
+        },
+        {
+          "mandant": "Fabienne ROUX LAFORIE",
+          "mandataire": "Sylvie ROMAN-CLAVELLOUX"
+        },
+        {
+          "mandant": "Thierry MICHAUDON",
+          "mandataire": "Guy DANIEL"
+        },
+        {
+          "mandant": "Dominique CHAPUT",
+          "mandataire": "Odile BRACHET"
+        }
+      ],
+      "ABSENT": [
+        "André LAMOUILLE",
+        "Christiane FERRARI",
+        "Guillaume VERPILLIEUX"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": null,
+      "titre": "Approbation du compte administratif 2013 du budget communal M 14",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Approbation du Compte de Gestion 2013 du Budget communal M 14",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Affectation du résultat de l’exercice 2013 du budget communal",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Taux d’imposition 2014 des trois impôts directs locaux",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Subventions 2014 aux associations et au Centre Communal d’Action Social",
+      "resume": null,
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "M. Charles JULLIAN et M. Yves CUBLIER ne prennent pas part au vote."
+    },
+    {
+      "id": null,
+      "titre": "Remboursement anticipé d’un emprunt souscrit auprès du Crédit Agricole",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Budget principal – Adoption du Budget primitif 2014",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Subventions d’équipements versées – conditions d’amortissement de ces subventions",
+      "resume": null,
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Révision du PLU – Débat sur le Projet d’Aménagement et de Développement Durable",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Débat sur le PADD relatif à la révision du PLU"
+    },
+    {
+      "id": null,
+      "titre": "Taxe d’aménagement – exonération des abris de jardin soumis à une Déclaration Préalable",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Municipalisation de la garderie périscolaire",
+      "resume": null,
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Construction d’un local jeunes – Demande d’arrêté attributif",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

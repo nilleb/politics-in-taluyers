@@ -1,0 +1,136 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2017-06-19",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Charles JULLIAN",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Yves CUBLIER",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Jean-Jacques COURBON",
+        "Séverine SICHE CHOL",
+        "Bruno SICARD"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Véronique GOUTTENOIRE",
+          "mandataire": "Séverine SICHE CHOL"
+        },
+        {
+          "mandant": "Marc MIOTTO",
+          "mandataire": "Guy DANIEL"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Dominique FONS"
+        }
+      ],
+      "ABSENT": [
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20170619-01",
+      "titre": "Marché d’aménagement d’espaces publics route de Berthoud – Lot 1 Voirie/maçonnerie Modification",
+      "resume": "Modification du contrat en cours d’exécution pour le lot n°1 Voirie-maçonnerie lié au marché d’aménagement d’espaces publics.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170619-02",
+      "titre": "Marché de maîtrise d’œuvre pour la construction d’un bâtiment pour le service périscolaire – Modification",
+      "resume": "Modification du contrat en cours d’exécution pour prendre en compte les changements de statut du titulaire du contrat.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "INCONNU",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": null
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Budget communal – exercice 2017 – DM n°1",
+      "resume": "Décision modificative du budget pour 2017 après approuvement des dépenses imprévues.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170619-04",
+      "titre": "Demande de subvention – Produit des amendes de police",
+      "resume": "Réalisation d’un projet de cheminement piéton sécurisé pour solliciter une subvention auprès du Département du Rhône.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

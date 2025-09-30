@@ -1,0 +1,238 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2020-08-31",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Pascal OUTREBON"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHE-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Christiane ROUAND",
+        "Evelyne VIOLLET",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Annabelle PATRIER",
+        "Stéphane LEMARCHAND",
+        "Giada RAVET",
+        "Pierre Luc GUITTET",
+        "Sylvain NAVARRO",
+        "Jean-Louis MONTCEL",
+        "Concetta SAYER CORTAZZI"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Mireille BERTHOUD",
+          "mandataire": "Séverine SICHE-CHOL"
+        }
+      ],
+      "ABSENT": [
+        "Jean-Jacques COURBON",
+        "Yves CUBLIER",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20200831-02",
+      "titre": "Budget communal 2020 – Décision Modificative n°1",
+      "resume": "Approbation de la modification du budget communal pour 2020, concernant notamment les ajustements liés à la Taxe d’Aménagement et à la procédure de modification du PLU.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200831-03",
+      "titre": "Désignation des délégués au Syndicat pour l’Aqueduc Romain du Gier- Abrogation de la délibération n°20200706-04",
+      "resume": "Abrogation de la délibération antérieure concernant la désignation de délégués au Syndicat pour l’Aqueduc Romain du Gier et maintien de la désignation de nouveaux délégués conformément à la loi.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200831-04",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Suppression et création de postes après le départ à la retraite de certains agents, et ajustement des fonctions d'un adjoint technique.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200831-05",
+      "titre": "Création d’emploi non-permanents",
+      "resume": "Création d'un emploi non-permanent pour répondre à un besoin temporaire d'accroissement d'activité en contexte de protocole sanitaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200831-06",
+      "titre": "Crise sanitaire - Exonération des droits de place des commerçants du marché pour le deuxième trimestre 2020",
+      "resume": "Exonération des droits de place pour les commerçants du marché en raison des mesures sanitaires liées à la COVID-19.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Séverine SICHE-CHOL",
+            "Odile BRACHET-CONVERT"
+          ]
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200831-07",
+      "titre": "Délaissé de voirie rue de la Bénichonière – Acquisition de la parcelle section A n°3122",
+      "resume": "Acquisition d'une parcelle de voirie à l'euro symbolique pour intégration au Domaine Public Communal.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200831-08",
+      "titre": "Marché de construction d’une bibliothèque et réhabilitation de l’ancienne bibliothèque en salle de restauration scolaire – Lot 12 Electricité – Modification d’un contrat en cours d’exécution n°2",
+      "resume": "Modification du contrat de construction concernant le lot électricité pour des ajustements techniques.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200831-09",
+      "titre": "Convention tripartite (Mairie – SYDER - ORANGE) d’enfouissement des réseaux aériens d’ORANGE rue de la Bénichonière et rue Saint Agathe",
+      "resume": "Approbation de la convention tripartite pour l’enfouissement des réseaux aériens d'Orange sur certaines rues.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+# Lundi 19 mai 2025 à 19 h 00 
+
+Nombre de conseillers : 23
+En exercice : 21
+Présents : 15
+Votants : 18
+L'an Deux-mille-vingt-cinq, le 19 mai, le Conseil Municipal s'est réuni en session ordinaire à la Mairie, sous la présidence de Monsieur Pascal OUTREBON, Maire.
+
+Date de convocation du Conseil Municipal : 12 mai 2025
+Présents : M. Pascal OUTREBON, M. Jean-Jacques COURBON, Mme Odile BRACHET-CONVERT, M. Laurent NAULIN, M. Loïc TAMISIER, M. Charles JULLIAN, M. Marc MIOTTO, Mme Mireille BERTHOUD, M. Sylvain NAVARRO, Mme Evelyne VIOLLET, M. Jean-Louis MONTCEL, Mme Christiane ROUAND, Mme Audrey MICHALLET, Mme Giada RAVET, Mme Emilie GRAU, M. Pierre-Luc GUITTET
+
+Absents excusés : M. Loïc TAMISIER a donné pouvoir à Mme Audrey MICHALLET Mme Geneviève CASCHETTA a donné pouvoir à Mme Odile BRACHET-CONVERT Mme Séverine SICHE-CHOL a donné pouvoir à M. Pierre-Luc GUITTET
+
+Absents : M. Yves CUBLIER, M. Sébastien CHAIZE, M. Stéphane LEMARCHAND
+Secrétaire de séance : Mme Giada RAVET
+
+Le quorum étant atteint, le conseil municipal peut valablement délibérer.
+
+## - Approbation du procès-verbal de la séance du Conseil municipal du 31 mars 2025
+
+Le PV de la séance du Conseil municipal du 31 mars 2025 est approuvé à l'unanimité des votes exprimés.
+
+## Délibération n²0250519-01
+
+## - Approbation de la modification $\mathbf{n}^{\circ} 2$ du Plan Local d'Urbanisme
+
+Par arrêté $n^{\circ} 2023 / A 239$ en date du 14/10/2023, M. le Maire a lancé la prescription de la modification $n^{\circ} 2$ du PLU.
+Les principaux enjeux de cette modification sont :
+
+- D'aller vers moins d'artificialisation des sols pour mieux traiter les eaux de pluie à la parcelle et le ruissellement
+- De sauvegarder des espaces de vie respectueux de la nature et de la biodiversité et mettre en place une stratégie d'adaptation au changement climatique.
+- De privilégier les modes doux tout en adaptant les besoins en stationnement
+- D'instaurer un périmètre patrimonial plus large avec des règles spécifiques
+- D'intégrer les objectifs du PLH 2022/2028
+
+Une enquête publique s'est déroulée du 13 janvier au 12 février 2025, qui a vu 25 personnes rencontrer le commissaire enquêteur. Le registre dématérialisé a eu 205 visiteurs uniques et 153 téléchargements. Il y a eu 13 contributions sur le registre papier et 5 contributions sur le registre numérique. À cela, il faut ajouter 5 contributions de la part des personnes publiques associées
+---
+
+A l'issue de l'enquête, le commissaire enquêteur a émis un avis favorable avec 5 réserves qui ont été prises en compte dans le projet de modification.
+
+# A- Caractéristiques et résumé du projet de modification 
+
+Les modifications à entreprendre sur le règlement graphique et le règlement écrit :
+1- Mise à jour de l'ensemble des références à l'article L123-1-5 III-20
+
+Les modifications à prendre en compte dans le règlement écrit sont les suivantes :
+1- Préciser les références à la date d'approbation du PLU
+2- Préciser et compléter les définitions (emprise au sol, terrain naturel, logement abordable...)
+3- Intégrer les dispositions relatives aux accès le long des routes départementales
+4- Rappeler les dispositions des articles L.151-35 du Code de l'Urbanisme dans les articles consacrés au stationnement de l'ensemble des zones et supprimer les règles portant sur les obligations de stationnement pour le logement social en zones UHp et AUc
+5- Zones UA, UB et UC : modifier les règles de stationnement
+6- Dans les zones $U$ et $A U$ : faire évoluer la règle de stationnement des vélos
+7- Imposer une mutualisation des accès pour la création de logements par divisions parcellaires dans l'ensemble des zones urbaines
+8- Zone UI : limiter l'impact des constructions, et mettre en place des mesures pour un aménagement de qualité
+M. le Maire. Lors de la commission générale où avaient été évoquées les attentes concernant la zone Ui, celles-ci demandaient de préciser la hauteur des déblais/remblais et une limitation des hauteurs de constructions à 8 mètres au lieu de 12 mètres comme actuellement. Or, le commissaire enquêteur s'est opposé dans son rapport à la limitation des hauteurs et à la précision des hauteurs concernant les déblais/remblais dans la zone Ui. Les services de l'Etat sont eux-aussi réservés et ne sont pas favorables à l'abaissement de la hauteur maximale des constructions sur l'ensemble de la zone de la Ronze. Il y a eu des contacts entre le cabinet d'études AUA et le commissaire enquêteur et ils considèrent que cet abaissement de hauteur des bâtiments n'est pas nécessaire car nous sommes sur des espaces déjà construits avec des petites entreprises et il existe un espace vert protégé qui fait tampon entre la zone Ui et la zone $U$.
+
+Mme Mireille BERTHOUD. Y'a-t-il déjà des bâtiments à 12 mètres ?
+M. le Maire. A 12 mètres il n'y en a pas beaucoup, par exemple le grand bâtiment noir est à 9,25 mètres. Les petites entreprises n'ont aucun intérêt à monter à 12 mètres.
+M. Jean-Louis MONTCEL. La Zone d'activités est très proche du village par rapport à d'autres secteurs.
+
+M le Maire. Celui qui l'a créé a dû considérer qu'il n'y avait pas d'autres endroits et que c'était un espace granitique sans véritable intérêt.
+M. Laurent NAULIN. A Taluyers ce sont les maisons qui se sont rapprochées de la zone d'activités, il n'y avait rien au moment de sa création.
+
+Giada RAVET. C'est compliqué d'aller contre l'avis des services de l'Etat et du commissaire enquêteur, n'aurait-on pas alors intérêt à ne limiter la hauteur que sur certaines parcelles ?
+M. Marc MIOTTO. Lors du premier PLU on avait fait une limitation à 9 mètres dans la zone, à l'entrée du village, on aurait peut-être intérêt à faire des hauteurs selon les zones, comme le dit Giada.
+M. le Maire. L'idée qu'on peut avoir c'est, comme le conseille le bureau d'études AUA, limiter la hauteur à 8 mètres sur la parcelle qui est juste à côté du projet de crèche, en zone Ui.
+M. Charles JULLIAN. Ce qui m'inquiète c'est la grande parcelle inoccupée qui monte en hauteur, où on traite du déchet, elle sera encore surélevée. A terme, si on a des bâtiments à 12 mètres, comme cela va-t-il s'insérer dans le paysage ?
+M. le Maire. On risque d'avoir un refus de l'Etat car dans ce cas on n'a pas l'excuse de la proximité des pavillons, l'Etat préfère densifier les zones d'activités plutôt qu'elles s'étalent sur les zones agricoles ou naturelles.
+---
+
+Mme Mireille BERTHOUD. On essaie de végétaliser les villages, de faire quelque chose de cohérent, mais là à l'entrée du village on risque d'avoir des bâtiments à 12 mètres. C'est une incohérence de ce qu'on veut des villages.
+M. Pierre-Luc GUITTET. Il y a 15 ans comme le dit Marc, vous aviez retenu une hauteur des bâtiments à 9 mètres sur l'entrée principale, et la vue depuis Montagny c'est juste massif et on ne voit ni le Prieuré ni la Tour. Il n'y a pas de bâtiments à 12 mètres actuellement.
+M. le Maire. Le bureau d'études a peut-être eu tort de balayer ça d'un revers de la main et penser que cela n'arrivera pas de monter à 12 mètres. L'Etat peut sans doute comprendre que quand on s'approche des pavillons ou de l'entrée du village on limite la hauteur des bâtiments.
+
+Mme Giada RAVET. Les services de l'Etat ont leur mot à dire, on n'est pas obligé de les suivre mais il faudra le justifier et il y a le risque de se retrouver au Tribunal Administratif.
+M. le Maire. Il est vrai que si cela montait à 11 mètres ou 12 mètres ce serait très masquant. Il est bien aussi que les entreprises puissent s'installer dans le pays mornantais, bénéficier du développement économique et limiter les mouvements pendulaires.
+
+Mme Giada RAVET. Pour cette grande parcelle vide dans la zone qui fait l'objet d'une OAP, il faut sans doute écrire quelque chose sur les césures ou écrire quelque chose sur la qualité de l'insertion paysagère.
+M. le Maire. Ce qu'on peut proposer au bureau d'étude c'est de faire un sous-secteur de la zone Ui, le long des pavillons, où la hauteur maximale des bâtiments serait limitée à 8 mètres au lieu de 12 mètres actuellement.
+M. Marc MIOTTO. Je vous rappelle qu'avant 1989, quand la mairie a créé la zone, toute la partie urbaine n'était pas construite et là on doit dire qu'il faut limiter le développement économique pour protéger les riverains. On aurait dû faire l'inverse à l'époque et empêcher les constructions pour protéger la zone d'activités.
+M. le Maire. Ce que je propose c'est que l'ensemble de la zone soit imitée à 10 mètres et qu'un sous-secteur soit limité à 8 mètres de hauteur sur une bande à définir. Sur l'OAP de la grande parcelle, on va demander une réécriture plus contraignante.
+
+9- Dans les zones $U$ et $A U$, prévoir un coefficient de pleine terre et préciser la définition de la pleine terre. 10- Modifier les articles 2 et 8 pour la création de piscines et d'annexes dans les zones agricoles et naturelles 11- Modifier plusieurs points règlementaires de l'article 11
+M. Pierre-Luc GUITTET. Il y a une question de proportion de la quantité de murs autour de la parcelle. Aujourd'hui on a le droit de construire uniquement sur le côté de la rue et pas les trois autres côtés, ça veut dire que demain s'il y a trois maisons côte à côte, en proportion on peut faire $90 \%$ de murs, donc augmenter la proportion de murs, or c'est du stockage de chaleur et certes pas du végétal.
+M. le Maire. Cela n'avait-il pas été abordé en commission urbanisme ?
+
+Mme Giada RAVET. Cela avait été débattu longuement en commission urbanisme et la rédaction avait été proposée par Céline GRIEU d'AUA et nous n'étions pas tous d'accord si vous vous souvenez. Finalement c'est la rédaction proposée, qui est une espèce de compromis.
+M. Charles JULLIAN. C'est comme pour l'article d'après et les clôtures en $A$ et $N$, il faudrait rajouter que ce soit conditionné par une construction existante ou légale.
+M. le Maire. Ce que je vous propose c'est que la commission urbanisme regarde et propose une formulation qui soit un peu plus incontournable.
+
+12- Introduction d'un nuancier de menuiseries et serrureries en annexe du règlement
+13- Suppression des mentions aux secteurs indicées A45 dans le règlement des zones $\mathrm{A}, \mathrm{N}$ et Ui.
+14- Rendre plus explicites les règles relatives aux changements de destinations en zones $U$
+15- Rendre plus explicite la possibilité de créer des bâtiments dédiés à la transformation, au conditionnement et à la vente de produits agricoles en zone A.
+16- Augmenter le coefficient d'emprise au sol en zone UCd1.
+---
+
+Les modifications à entreprendre sur le document graphique :
+2- Créations, ajustements et suppressions d'emplacements réservés
+3- Retrait des secteurs indicés A45
+4- Actualisation des périmètres autour des infrastructures de transports terrestres bruyantes
+5- Passage de la zone AUc en UCd1 et suppression de l'OAP associée
+6- Passage d'un secteur UC en UCd2 en entrée de village
+7- Ajustement des limites des zones UI et US
+8- Mise en place d'un changement de destination
+9- Ajouts de plusieurs espaces verts, parcs, jardins, arbres remarquables et haies bocagères à préserver au titre de l'article L.151-19 du Code de l'Urbanisme.
+10- Ajouts de murs patrimoniaux à préserver au titre de l'article L.151-19 du Code de l'Urbanisme.
+11- Correction d'erreurs matérielles et ajustements de figurés afin d'améliorer la lisibilité
+12- Mise en place d'un secteur UAh patrimonial
+Les modifications à prendre en compte dans le règlement écrit :
+1- Zones UA, UB et UC : modifier les règles de stationnement
+2- Zone Ui : limiter l'impact des constructions, et mettre en place des mesures pour un aménagement de qualité
+
+3- Dans les zones $U$ et $A U$, prévoir un coefficient de pleine terre et préciser la définition de la pleine terre.
+4- Dans les zones $U$ et $A U$ : faire évoluer la règle de stationnement des vélos
+5- Modifier les articles 2 et 8 pour la création de piscines et d'annexes dans les zones agricoles et naturelles
+6- Modifier certains points règlementaires de l'article 11
+7- Préciser des définitions (emprise au sol, terrain naturel...)
+8- Suppression des mentions aux secteurs indicées A45 dans le règlement des zones A, N et Ui.
+9- Apporter des modifications à l'article 11 pour le secteur UAh « patrimonial » mis en place ainsi que pour les éléments repérés au titre de l'article L.151-19 du Code de l'Urbanisme
+10- Zones UA, UB, UC et AUc : modifier les règles concernant la servitude de mixité sociale
+11- Introduction d'un nuancier de menuiseries et serrureries en annexe du règlement
+12- Rendre plus explicites les règles relatives aux changements de destinations en zones $U$ et à la création de bâtiments dédiés à la transformation, au conditionnement et à la vente de produits agricoles en zone A.
+13- Préciser les références à la date d'approbation du PLU
+14- Intégrer les dispositions relatives aux accès le long des routes départementales
+15- Rappeler les dispositions des articles L.151-35 du Code de l'Urbanisme dans les articles consacrés au stationnement de l'ensemble des zones
+16- Augmenter le coefficient d'emprise au sol en zone UCd1
+Les OAP :
+1- Suppression de l'OAP Saint-Marc
+2- Adaptation de l'OAP Sainte-Agathe
+3- La mise en place d'une OAP thématique liée au bioclimatisme
+M. le Maire. Pour conclure, on est d'accord sur l'essentiel mais on ajourne la délibération compte tenu des interrogations soulevées sur la hauteur des bâtiments en zone UI et la proposition d'instauration d'un sous-secteur en limite de l'espace pavillonnaire, d'une part, et la volonté d'être plus directif sur la rédaction d'une OAP dans la Zone d'Activités de la Ronze.
+
+# Délibération n²0250519-02 
+
+## - Modification du tableau des effectifs
+
+Un agent, à la fois adjoint administratif à l'accueil de la mairie et adjoint du patrimoine à la bibliothèque, a fait valoir ses droits à la retraite à compter du $1^{\text {er }}$ mai 2025.
+Le poste d'adjoint du patrimoine, modifié par délibération du 10 février 2025, a été pourvu et celui d'adjoint administratif sera supprimé car c'est un agent, adjoint administratif déjà en poste à $16,75 / 35^{\text {ème }}$, qui récupèrera ses missions et verra son temps de travail augmenté en conséquence.
+---
+
+|  SUPPRESSION DE POSTE | Quotité hebdomadaire | CREATION DE POSTE | Quotité hebdomadaire  |
+| --- | --- | --- | --- |
+|   |  | Adjoint administratif | 28,00/35ème  |
+
+Vu le Code général des collectivités territoriales,
+
+Vu le Code de la fonction publique
+
+Vu la loi n°84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **DECIDE** de créer le poste tel qu'indiqués ci-dessus ;
+- **MODIFIE** le tableau des effectifs en conséquence ;
+
+# Délibération n°20250519-03
+
+## Sollicitation d'une subvention dans le cadre du Fonds d'Aide à l'Investissement et à la Réalisation des Equipements de la COPAMO
+
+Afin de permettre aux communes d'investir et de renforcer la solidarité entre la COPAMO et les 11 communes du territoire, un Fonds d'Aide à l'Investissement et à la Réalisation des Equipements (FAIRE) des communes a été créé lors du conseil communautaire du 4 juillet 2023.
+
+Ce fonds d'aide est doté d'un montant de 1 million d'euros répartis pour les années 2023 (300 000 €), 2024 (350 000 €) et 2025 (350 000 €).
+
+Pour l'année 2025, la commune de Taluyers a été identifiée pour son projet de déploiement de la vidéoprotection.
+
+La phase 2 devrait s'étaler sur deux exercices (2025-2026) et concerne l'environnement du groupe scolaire et de la Maison des Associations, ainsi que les entrées et sorties de la commune.
+
+L'estimation des travaux est fixée, pour l'ensemble de la phase 2, à 133 000 € HT.
+
+Il est par conséquent proposé de solliciter le fonds FAIRE de la COPAMO sur la base de ce montant estimatif.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **APPROUVE** la demande de financement auprès du fonds FAIRE de la COPAMO pour la réalisation de la phase 2 de déploiement de la vidéoprotection.
+- **AUTORISE** M. le Maire à signer tout document afférent à ce dossier ;
+
+# Délibération n°20250519-04
+
+## Sollicitation d'une subvention dans le cadre du Partenariat territorial avec le Département du Rhône
+
+Dans le cadre de l'appel à projet du Département du Rhône, la commune de Taluyers va solliciter un financement pour l'opération d'installation de panneaux photovoltaïques sur des toitures de bâtiments communaux et une ombrière avec autoconsommation et revente du surplus aux entreprises locales et particuliers.
+
+Ce projet s'inscrit dans les priorités fixées par le Département en matière de transition énergétique et de développement durable, notamment le critère n°7, qui vise à garantir l'accès de tous à des services énergétiques fiables, durables et modernes à un coût abordable.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+---
+
+- APPROUVE la demande de subvention auprès du Département du Rhône dans le cadre d'appel à projet des collectivités pour 2025, pour l'opération « Panneaux photovoltaïques pour autoconsommation et revente aux entreprises et particuliers » ;
+
+- AUTORISE Monsieur le Maire à signer tous les documents afférents à ce dossier
+
+# Délibération n²0250519-05
+
+## - Rectification d'erreur matérielle dans la délibération n²0250331-04 « subventions aux associations et au CCAS » et approbation de subventions
+
+Par délibération n²0250331-04 en date du 31 mars 2025, le conseil municipal a approuvé le montant des subventions versées aux associations et au CCAS.
+
+Une discordance est apparue sur certaines redevances d'occupation des locaux contenues dans les conventions d'occupation et le tableau des subventions, ce qui a engendré une erreur matérielle qu'il convient de rectifier :
+
+- La subvention à l'association « Prieurités talusiennes » n'est pas de 1600 € mais 1500 € ;
+- La subvention à l'association « Triangle des sapeurs-pompiers » n'est pas de 2000 € mais 1000 € ;
+
+Les autres éléments de la délibération initiale restent inchangés.
+
+En outre, trois autres demandes de subventions sont soumises à l'approbation de l'assemblée délibérante :
+
+|  ASSOCIATIONS | Subvention 2025  |
+| --- | --- |
+|  IMPRO LES PRIMEVERTS | 260 €  |
+|  LES VOIES DU BIEN ETRE | 100 €  |
+|  L'ARAIRE | 200 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité :
+
+- APPROUVE la rectification de la délibération n²0250331-04 relative au montant de la subvention aux associations « Prieurités Talusiennes » et « Triangle des Sapeurs-pompiers » tel qu'indiqué ci-dessus ;
+- APPROUVE les demandes de subventions des associations «IMPRO LES PRIMEVERTS», «Les voies du Bien-être » et «L'Araire » ;
+- DIT que les crédits sont inscrits au budget communal 2025.
+
+## Délibération n²0250519-06
+
+## - Modification du règlement d'utilisation de la Salle d'Animation et de la salle des Barbelous
+
+Instauré en 2013 puis modifié en 2016, le règlement intérieur d'utilisation de la Salle d'Animation et celui de la salle des Barbelous nécessitent d'être modifiés pour tenir compte des points suivants :
+
+- Jusqu'à lors, un seul règlement existait pour chaque salle, à la fois pour les associations et les particuliers. Il a été jugé préférable de disposer de deux règlements distincts pour tenir compte des spécificités de chacun (fin de manifestations à 20 h pour les particuliers et 22 h 30 pour les associations, demande d'assurance et chèque de location pour les particuliers).
+- A la demande du Trésor Public, il n'est plus possible d'avoir des chèques de caution, désormais en cas de manquement constaté lors de l'état des lieux sortant sur la propreté des lieux ou le tri des déchets, un titre de recettes pourra être émis par la mairie, jusqu'à 1000 € pour la propreté/dégâts des lieux et 500 € pour le respect du tri.
+- Les consignes incendie sont rajoutées en annexe.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité :
+
+- APPROUVE les deux règlements intérieurs à destination des particuliers et les deux règlements intérieurs à destination des associations pour la Salle d'Animation et la salle des Barbelous ;
+---
+
+- AUTORISE Monsieur le Maire signer tout document afférent à ce dossier
+
+# Délibération n°20250519-07
+
+## Attribution du marché de travaux d'aménagement d'un espace de loisirs multisports
+
+Par délibération n°20250331-20 en date du 31 mars 2025, le conseil municipal a approuvé la phase PRO du marché de maîtrise d'œuvre des travaux d'aménagement d'une plaine ludique et sportive route de Grand Bois.
+
+Le projet consiste à réaliser :
+
+- Un cheminement en dur permettant aux usagers du parking de Grand Bois d'accéder dans de meilleures conditions aux passerelles desservant la maison des Associations et le groupe scolaire
+- Un espace multisports intégré au site (foot, hand et basket-ball)
+- Un réagencement du parcours santé en un seul espace plus resserré
+- Un aménagement paysager avec plantation d'arbres et d'arbustes.
+
+L'estimation du coût des travaux était évaluée à 240 000 € HT.
+
+Un avis d'appel public à la concurrence a été publié au Bulletin Officiel des Annonces des Marchés Publics le 16 avril 2025. Une seule entreprise a remis une offre pendant le délai imparti, fixé au 13 mai 2025.
+
+|  Entreprise | Prix des prestations € HT  |
+| --- | --- |
+|  Green-Style - 19 chemin de la Lône - 69310 OULLINS PIERRE-BENITE | 217 886,98 €  |
+
+La candidature et l'offre sont conformes aux exigences du marché ; il est donc proposé d'attribuer le marché de travaux d'aménagement d'un espace de loisirs multisports à l'entreprise Green-Style tel qu'indiqué ci-dessus.
+
+Pour rappel, la commune a obtenu 152 000 € de subventions auprès de l'Etat et du Département.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité :
+
+- **ATTRIBUE** le marché de travaux d'aménagement d'un espace de loisirs multisports à l'entreprise Green-Style - 19 chemin de la Lône - 69310 OULLINS PIERRE-BENITE pour un montant de 217 886,98 € HT ;
+- **AUTORISE** Monsieur le Maire à signer le marché afférent.
+
+# Délibération n°20250519-08
+
+## Attribution d'une subvention à M. et Mme PERNOD dans le cadre de travaux d'amélioration de la performance énergétique de leur résidence principale
+
+Vu le Code Général des Collectivités Territoriales,
+
+Vu la délibération du Conseil communautaire de la Communauté de communes du Pays mornantais n°2023-011 du 24 janvier 2023 portant approbation du Programme Local de l'Habitat 2022-2028 du Pays mornantais,
+
+Vu la délibération n° 20250331-16 du Conseil Municipal du 31 mars 2025 portant approbation des règlements d'aides à l'amélioration de l'habitat privé dans le cadre du 3ème Programme Local de l'Habitat (PLH) du Pays Mornantais,
+
+Vu la demande déposée par Madame et Monsieur Evelyne et Georges PERNOD, relative au projet d'amélioration de la performance énergétique de leur résidence principale située 2 place de la Bascule à Taluyers,
+
+Vu la décision d'attribution de la COPAMO n° 048/25, en date du 17 avril 2025,
+
+Considérant les travaux envisagés :
+
+- Isolation de la toiture en combles perdus.
+- Isolation Thermique par l'Intérieur.
+- Changement des menuiseries.
+- Installation d'un poêle à bois.
+---
+
+Considérant le montant des travaux subventionnables de 42 197 € HT,
+
+Considérant que ces travaux rendent le projet éligible à la prime de performance énergétique prévu par la Commune,
+
+Considérant que la commune de Taluyers attribue une aide de 20% du montant des travaux avec une aide plafonnée à 1 500 €,
+
+Considérant que cette demande répond aux caractéristiques d'éligibilité définies par la commune,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité :
+
+- **DECIDE** l'attribution d'une subvention d'un montant de 1 500 € à Monsieur Evelyne et Georges PERNOD dans le cadre de travaux d'amélioration de la performance énergétique de leur résidence principale située à Taluyers.
+
+- **AUTORISE** M. le Maire à signer tous documents relatifs à l'attribution de cette subvention.
+
+## Délibération n°20250519-09
+
+### Attribution d'une subvention à M. SIOUANE dans le cadre de travaux d'amélioration de la performance énergétique de sa résidence principale
+
+Vu le Code Général des Collectivités Territoriales,
+
+Vu la délibération du Conseil communautaire de la Communauté de communes du Pays mornantais n°2023-011 du 24 janvier 2023 portant approbation du Programme Local de l'Habitat 2022-2028 du Pays mornantais,
+
+Vu la délibération n° 20230626-09 du Conseil Municipal du 26 juin 2023 portant approbation des règlements d'aides à l'amélioration de l'habitat privé dans le cadre du 3ème Programme Local de l'Habitat (PLH) du Pays Mornantais,
+
+Vu la demande déposée par Monsieur Mohamed SIOUANE, relative au projet d'amélioration de la performance énergétique de sa résidence principale située 895 chemin de la Rosette à Taluyers,
+
+Vu la décision d'attribution de la COPAMO n° 038/25, en date du 28 mars 2025,
+
+Considérant les travaux envisagés :
+
+- Isolation de la toiture en combles perdus.
+- Isolation du plancher bas.
+- Isolation Thermique Intérieur.
+- Installation d'une pompe à chaleur air/eau.
+- Changement des menuiseries.
+
+Considérant le montant des travaux subventionnables de 69 575 € HT,
+
+Considérant que ces travaux rendent le projet éligible à la prime de performance énergétique prévu par la Commune,
+
+Considérant que la commune de Taluyers attribue une aide de 20% du montant des travaux avec une aide plafonnée à 1 500 €,
+
+Considérant que cette demande répond aux caractéristiques d'éligibilité définies par la commune,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité :
+
+- **DECIDE** l'attribution d'une subvention d'un montant de 1 500 € à Monsieur Mohamed SIOUANE dans le cadre de travaux d'amélioration de la performance énergétique de sa résidence principale située à Taluyers.
+
+- **AUTORISE** M. le Maire à signer tous documents relatifs à l'attribution de cette subvention.
+---
+
+# Délibération n²0250519-10 
+
+## - Attribution d'une subvention à M. et Mme PIEGAY dans le cadre de travaux d'adaptation de leur résidence principale
+
+Vu le Code Général des Collectivités Territoriales,
+Vu la délibération du Conseil communautaire de la Communauté de communes du Pays mornantais n²023-011 du 24 janvier 2023 portant approbation du Programme Local de l'Habitat 2022-2028 du Pays mornantais,
+Vu la délibération $n^{\circ} 26$ juin 2023 du Conseil Municipal du 20230626-09 portant approbation des règlements d'aides à l'amélioration de l'habitat privé,
+Vu la demande déposée par Madame et Monsieur Marie-Pierre et Georges PIEGAY, relative au projet d'adaptation de leur résidence principale située 230 rue de la Gaillardière à Taluyers,
+Vu la décision d'attribution de la COPAMO n 046/25, en date du 17 avril 2025,
+Considérant les travaux envisagés :
+
+- Aménagement de la salle de bains.
+
+Considérant le montant des travaux subventionnables de $11245 €$ HT,
+Considérant que ces travaux rendent le projet éligible à la prime aux travaux d'adaptation prévu par la Commune, Considérant que la commune de Taluyers attribue une aide de $20 \%$ du montant des travaux avec une aide plafonnée à $1500 €$,
+Considérant que cette demande répond aux caractéristiques d'éligibilité définies par la commune,
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité :
+
+- DECIDE l'attribution d'une subvention d'un montant de $1500 €$ à Madame et Monsieur Marie-Pierre et Georges PIEGAY dans le cadre de travaux d'adaptation de leur résidence principale située à Taluyers.
+- AUTORISE M. le Maire à signer tous documents relatifs à l'attribution de cette subvention.
+
+
+## Délibération n²0250519-11
+
+## - Sollicitation d'une subvention dans le cadre du dispositif du produit des amendes de police
+
+Le Conseil départemental du Rhône a en charge la répartition du produit des amendes de police selon les articles R 2334-10 à R 2334-12 du code général des collectivités territoriales.
+
+Parmi les opérations de circulation routière éligibles, figurent les travaux commandés par les exigences de la sécurité routière.
+
+La commune met en place une zone 30 sur diverses voies de l'agglomération, nécessitant un investissement en marquage au sol et signalisation verticale.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DECIDE la réalisation des travaux décrits ci-dessus ;
+- SOLLICITE de la part du Département du Rhône, dans le cadre de la répartition des amendes de police, la subvention maximale pour le projet exposé ci-dessus ;
+- AUTORISE Monsieur le Maire à présenter le dossier correspondant.
+
+
+## Délibération n²0250519-12
+
+- Adressage : nommage et numérotage de voies et lieux-dits de la commune
+---
+
+Il appartient au Conseil municipal de choisir, par délibération, le nom à donner aux rues, voies, places et lieux-dits de la commune.
+
+La dénomination des voies communales et privées ouvertes à la circulation est laissée au libre choix du Conseil municipal dont la délibération est exécutoire par elle-même.
+
+Il convient, pour faciliter la fourniture de services publics, tel que les secours et la connexion aux réseaux, et d'autres services commerciaux comme la délivrance du courrier et des livraisons, d'identifier clairement les adresses des immeubles.
+
+Vu l'article L2121-29 du code général des collectivités territoriales ;
+Vu l'article L2121-30 du code général des collectivités territoriales modifié par l'article 169 de la loi 3DS du 22 février 2022 qui dispose que « le conseil municipal procède à la dénomination des voies et lieux-dits, y compris les voies privées ouvertes à la circulation » et « les communes mettent à disposition les données relatives à la dénomination des voies et la numérotation des maisons et autres constructions dans le cadre de la mise à disposition des données de référence prévue à l'article I. 321-4 du code des relations entre le public et l'administration » ;
+
+Considérant la nécessité de dénommer des voies de la commune pour faciliter l'adressage ;
+Considérant que toute adresse doit être composée d'une localisation GPS, d'un numéro, d'un type et d'un nom de voie ou d'un nom de lieu-dit ;
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- VALIDE les noms attribués à l'ensemble des voies communales et privées ouvertes à la circulation et des lieux-dits (liste en annexe de la présente délibération),
+- AUTORISE Monsieur le Maire à signer toutes les pièces nécessaires à l'exécution de la présente délibération,
+- d'ADOPTER les dénominations telles qu'indiquées dans le tableau annexé à la délibération
+
+ANNEXE A LA DELIBERATION n²0250519-12
+
+|  Ancienne adresse |  | Nouvelle dénomination  |
+| --- | --- | --- |
+|  199 | Rue de la Grange | Impasse de la Flache  |
+|  250 | Rue de la Bénichonnière | Impasse de Mercoeur  |
+|  156 | Rue des Pépinières | Impasse du Maraichage  |
+|  320 | Rue sainte Agathe | Impasse des Abeilles  |
+|  82 | Chemin des Perrières | Impasse des Sources  |
+|  49 | Route du Bâtard | Impasse des Tilleuls  |
+|  140 | Route du Bâtard | Impasse des Châtaigniers  |
+|  135 | Route du Bâtard | Impasse du Bessace  |
+|  635 | Route du Bâtard | Impasse des Pommiers  |
+|   | Route du Bâtard | Impasse des Framboisiers  |
+|  126 | Rue des Blanchardes | Impasse des Tilleuls  |
+|  210 | Rue des Blanchardes | Impasse du Sentier  |
+|  128 | Rue Saint Marc | Impasse du Domaine  |
+|  175 | Rue Saint Marc | Impasse des Vergers  |
+|  180 | Rue Saint Marc | Impasse de la Bise  |
+|  298 | Rue Saint Marc | Impasse de la Belle Vue  |
+|  410 | Rue Saint Marc | Impasse de l'Horizon  |
+|  125 | Rue de la Tour | Impasse de la Bergerie  |
+|  99 | Rue du Prieuré | Impasse du Pré Vert  |
+|  99 | Rue du Prieuré | Impasse des Trois Cèdres  |
+|  345 | Rue du Prieuré | Impasse du Grand vent  |
+|  145 | Chemin du Bois Manié | Impasse de Longe Seigne  |
+---
+
+49 route du Bâtard et 126 rue des Blanchardes ont un chemin d'accès en commun qui sera dénommé impasse des Tilleuls
+
+# Délibération n²0250519-13 
+
+## - Convention de mise en valeur d'un poste de distribution publique d'électricité avec ENEDIS
+
+L'espace Jeunes de Taluyers a réalisé un projet d'embellissement d'un poste électrique à l'intersection de la route de Saint Laurent d'Agny et la rue de la Grange.
+
+Dans le cadre de sa politique de Responsabilité Sociale de l'Entreprise (RSE), ENEDIS accompagne activement les actions ayant pour but de valoriser un poste de distribution publique d'électricité.
+
+ENEDIS Direction Territoriale Rhône participe, à travers une convention, au financement de ce projet et s'engage à financer $50 \%$ du coût global de l'opération qui s'élève à $600 €$ HT.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE la convention de mise en valeur d'un poste de distribution publique d'électricité avec ENEDIS ;
+- AUTORISE Monsieur le Maire à signer toutes les pièces nécessaires à l'exécution de la présente délibération,
+
+
+## Délibération n²0250519-14
+
+## - Approbation du marché de rénovation de la cuisine de la salle d'animation
+
+La cuisine de la salle d'animation, obsolète et en mauvais état, n'est quasiment plus utilisée par les utilisateurs des lieux.
+
+Il est convenu d'engager les travaux suivants :
+
+- Dépose des éléments existants, rénovation des murs et plafond avec pose d'une toile de verre et peinture, pose de plinthes PVC.
+- Création de lignes pour électrique pour chaque élément de cuisine, goulottes, boîtes de dérivation, etc...
+- Fourniture et installation de tous les éléments de cuisine (tables inox, cuisinière professionnelle, hotte, four électrique, lave-vaisselle).
+
+Le lot rénovation des murs et des plinthes est attribué à l'entreprise Nicolas Le Duault - 2 impasse Bellevue 69530 ORLIENAS, pour un montant de $11100,00 €$ HT.
+
+Le lot électricité est attribué à l'entreprise SLE.INDUS - 153 rue du Chater 69440 TALUYERS, pour un montant de 5 $818,00 €$ HT.
+
+Le lot fourniture et installation des éléments de cuisine est attribué à l'entreprise GC EQUIPEMENT - 8 impasse du 24 août 194469960 CORBAS, pour un montant de $17469,40 €$ HT.
+
+L'ensemble du marché s'élève à $34387,40 €$ HT.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE l'attribution des lots des travaux de rénovation de la cuisine de la salle d'animation tel qu'indiqué cidessus
+- AUTORISE Monsieur le Maire à signer les marchés afférents,
+---
+
+# Décisions prises par le Maire sur délégation du conseil municipal
+
+|  Préparation, passation, exécution et règlement des marchés < 20 000 € HT |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | Fournisseur/demandeur/intéressé | Montant HT  |
+|  09/04/2025 | 2 ordinateur portable pour école élémentaire | FLEXINFO - 33 rue de Belissen 69340 Francheville | 1 502,00 €  |
+|  11/04/2025 | Remplacement du VPI du directeur de l'école élémentaire | DOM - ZAC des Andrés - 69126 Brindas | 1 470,00 €  |
+|  17/04/2025 | Groupe de musique pour la Fête de la musique au Parc Pie X | Association Style connection - 30 rue Emile Zola - 69700 Givors | 1 250,00 €  |
+|  02/05/2025 | Réfection de 2 tranchées en béton désactivé Place de la Bascule | SOLS CONFLUENCE - 26 chemin des Ronzières - 69390 VOURLES | 2 303,00 €  |
+|  05/05/2025 | Marquage de signalisation et sécurité des voiries de la commune | AZ MARQUAGE - 10 Avenue Chantelot - 69520 GRIGNY | 2 859,73 €  |
+|  12/05/2025 | Travaux sur la toiture de l'église | TOITURE DES GONES - 6 rue des mûriers - 69390 VOURLES | 2 042,52 €  |
+|  14/05/2025 | 3 PC informatiques, préparation et installation pour le secrétariat | FLEXINFO - 33 rue de Belissen 69340 Francheville | 2 856,00 €  |
+
+## Décision d'aliéner de gré à gré des biens mobiliers jusqu'à 4 600 euros
+
+|  Date | Objet | demandeur/intéressé | Montant  |
+| --- | --- | --- | --- |
+|  05/04/2025 | Délivrance et reprise des concessions dans les cimetières | Durée |   |
+|   |  | 15 ans | Montant  |
+|   |  |  | 200 €  |
+
+## Exercice du droit de préemption
+
+|  Date | Désignation du bien | Adresse du bien | Décision  |
+| --- | --- | --- | --- |
+|  15/05/2025 | Bâti sur terrain propre - Parcelle A 1494 | 99 rue du Prieuré | Pas de préemption  |
+|  22/04/2025 | Non bâti - Parcelle B 1683 | 95 route de Grand Bois | Pas de préemption  |
+|  10/04/2025 | Non-bâti - Parcelle B 1682 | 95 route de Grand Bois | Pas de préemption  |
+
+## Conclusion et révision du louage de choses
+
+|  Date | Objet | demandeur/intéressé | Montant  |
+| --- | --- | --- | --- |
+|  05/04/2025 | Accepter les indemnités de sinistres |  |   |
+|   |  | demandeur/intéressé | Montant  |
+|  05/04/2025 | Décision d'intenter au nom de la commune des actions en justice |  |   |
+|   |  | demandeur/intéressé |   |
+|  05/04/2025 | Décision de créer, modifier ou supprimer les régies comptables |  |   |
+|   |  | demandeur/intéressé |   |
+
+# Tirage au sort des Jury d'Assises
+
+La séance est levée à 21h50
+
+Le secrétaire de séance,
+
+Mme Giada RAVEE
+
+![img-0.jpeg](img-0.jpeg)
+
+![img-1.jpeg](img-1.jpeg)

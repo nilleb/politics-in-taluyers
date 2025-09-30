@@ -1,0 +1,182 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-07-08",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Jean-Louis MONTCEL",
+        "Giada RAVET",
+        "Geneviève CASCHETTA",
+        "Audrey MICHALLET",
+        "Sylvain NAVARRO",
+        "Marc MIOTTO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Mireille BERTHOUD",
+          "mandataire": "Marc MIOTTO"
+        }
+      ],
+      "ABSENT": [
+        "Pascal OUTREBON",
+        "Yves CUBLIER",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE",
+        "Evelyne VIOLLET",
+        "Pierre-Luc GUITTET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20240708-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Modification des quotités horaires de certains postes, création de nouveaux postes, et mise à jour du tableau des effectifs.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240708-02",
+      "titre": "Création d'emplois non-permanents - Jobs d'été",
+      "resume": "Création d'un emploi non permanent pour un besoin saisonnier au service technique durant l'été.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240708-03",
+      "titre": "Recrutement de vacataires au service périscolaire pour l'année scolaire 2024-2025",
+      "resume": "Autorisation de recruter des vacataires pour le service périscolaire, rémunération basée sur le SMIC horaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240708-04",
+      "titre": "Budget Principal 2024 - Décision Modificative n°1",
+      "resume": "Approbation de la décision modificative n°1 pour ajuster les crédits au budget principal 2024.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240708-05",
+      "titre": "Modification des statuts de la COPAMO - Prise de la compétence « Santé/Bien-être »",
+      "resume": "Approbation de la modification des statuts de la COPAMO pour intégrer la compétence « Santé/Bien-être ».",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240708-06",
+      "titre": "Approbation du marché de fourniture et livraison de repas au restaurant scolaire et personnel municipal",
+      "resume": "Renouvellement du marché pour la fourniture et livraison de repas au restaurant scolaire et pour le personnel municipal.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

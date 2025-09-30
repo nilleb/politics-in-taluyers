@@ -1,0 +1,175 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-07-04",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "M. Pascal OUTREBON",
+        "Mme Séverine SICHÉ-CHOL",
+        "M. Laurent NAULIN",
+        "M. Loïc TAMISIER",
+        "Mme Mireille BERTHOUD",
+        "M. Marc MIOTTO",
+        "Mme Giada RAVET",
+        "M. Sylvain NAVARRO",
+        "M. Pierre-Henri JOUFFRE",
+        "M. Pierre-Luc GUITTET",
+        "M. Charles JULLIAN",
+        "M. Jean-Louis MONTCEL",
+        "Mme Evelyne VIOLLET",
+        "Mme Christiane ROUAND",
+        "Mme Emilie GRAU"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "M. Jean-Jacques COURBON",
+          "mandataire": "M. Loïc TAMISIER"
+        },
+        {
+          "mandant": "Mme Audrey MICHALLET",
+          "mandataire": "Mme Mireille BERTHOUD"
+        },
+        {
+          "mandant": "M. Yves CUBLIER",
+          "mandataire": "M. Charles JULLIAN"
+        },
+        {
+          "mandant": "Mme Geneviève CASCHETTA",
+          "mandataire": "M. Sylvain NAVARRO"
+        },
+        {
+          "mandant": "Mme Dominique FONS",
+          "mandataire": "Mme Giada RAVET"
+        }
+      ],
+      "ABSENT": [
+        "Mme Odile BRACHET-CONVERT",
+        "M. Stéphane LEMARCHAND",
+        "M. Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "APPROBATION_PV_20220613",
+      "titre": "Approbation du procès-verbal de la séance du Conseil municipal du 13 juin 2022",
+      "resume": "Le conseil approuve le PV du 13 juin 2022.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Approuvé à l’unanimité des votes exprimés."
+    },
+    {
+      "id": "20220704-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création de deux emplois d’adjoint d’animation (19,25/35 et 30/35) et pérennisation d’heures pour un adjoint technique (passage de 15/35 à 16,25/35) à compter du 1er septembre 2022, avec possibilité de recrutement contractuel en cas de besoin.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Crédits inscrits au budget 2022, chapitre 012."
+    },
+    {
+      "id": "20220704-02",
+      "titre": "Modification et création d'un emploi non permanent",
+      "resume": "Avancement au 4 juillet 2022 du début d’un emploi saisonnier initialement prévu du 18 juillet au 31 août 2022 et création d’un emploi non permanent (accroissement temporaire d’activité) du 4 au 15 juillet 2022, grade adjoint technique, 35 h hebdomadaires.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Fondement légal : article L332-23-1 du Code Général de la Fonction Publique."
+    },
+    {
+      "id": "20220704-03",
+      "titre": "Approbation du marché de fourniture et livraison de repas au restaurant scolaire et personnel municipal",
+      "resume": "Attribution du marché à la SAS LATURINOISE EN K2 PAUSE (Taluyers) pour la fourniture et la livraison de repas en liaison froide, à compter du 1er septembre 2022 pour un an, renouvelable une fois. Prix unitaires HT : enfant 2,80 €, adulte/agent 3,00 €. Estimation annuelle maximale : 75 400 € HT.",
+      "themes": [
+        "marches",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "MAPA publié au BOAMP le 8 juin 2022. Offres reçues : SHCB, RPC, API Restauration, EN K2 PAUSE."
+    },
+    {
+      "id": "20220704-04",
+      "titre": "Modalités de la participation financière communale dans le cadre du passeport ETAPE",
+      "resume": "Augmentation de 5 € de l’aide par enfant et élargissement aux associations sportives et artistiques non domiciliées à Taluyers. Nouveaux montants selon quotient familial : ≤650 : 75 € ; 650–1220 : 60 € ; >1220 : 45 €. Application au 1er septembre 2022.",
+      "themes": [
+        "subventions",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Dispositif visant à soutenir l’accès des enfants aux activités et la dynamique associative."
+    }
+  ]
+}

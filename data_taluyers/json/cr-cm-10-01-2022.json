@@ -1,0 +1,288 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-01-10",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Evelyne VIOLLET",
+        "Jean-Jacques COURBON",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Yves CUBLIER",
+        "Mireille BERTHOUD",
+        "Marc MIOTTO",
+        "PierreLuc GUITTET",
+        "Jean-Louis MONTCEL",
+        "Audrey MICHALLET",
+        "Sylvain NAVARRO",
+        "Sébastien CHAIZE"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Emilie GRAU",
+          "mandataire": "Evelyne VIOLLET"
+        },
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Séverine SICHÉ-CHOL"
+        },
+        {
+          "mandant": "Laurent NAULIN",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Concetta SAYER CORTAZZI",
+        "Stéphane LEMARCHAND"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20220110-01",
+      "titre": "Autorisation d'engager, liquider et mandater les dépenses d'investissement de l'exercice 2022",
+      "resume": "L'exécutif de la collectivité territoriale peut engager, liquider et mandater les dépenses d'investissement, dans la limite du quart des crédits ouverts au budget de l'exercice précédent.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220110-02",
+      "titre": "Débat sur les garanties de Protection Sociale Complémentaire des agents",
+      "resume": "Le Conseil Municipal prend acte des nouvelles dispositions en matière de protection sociale complémentaire des agents territoriaux.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220110-03",
+      "titre": "Création de deux emplois non-permanents",
+      "resume": "Création de deux emplois non-permanents pour faire face à un accroissement temporaire d'activité.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Concerne les services de cantine et entretien des locaux."
+    },
+    {
+      "id": "20220110-04",
+      "titre": "Marché de travaux de rénovation énergétique et de mise en accessibilité du groupe scolaire Approbation des lots",
+      "resume": "Attribution des lots du marché de rénovation énergétique et de mise en accessibilité du groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220110-05",
+      "titre": "Avis de la commune de Taluyers sur le Programme Local de l'Habitat (PLH) du Pays Mornantais",
+      "resume": "Avis favorable sur le projet de PLH 3 du Pays Mornantais.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Evelyne VIOLLET"
+          ]
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220110-07",
+      "titre": "Participation de la commune de Taluyers au Programme d'Intérêt Général (PIG) « centres-villages »",
+      "resume": "La commune s'engage à délivrer une participation financière pour divers thèmes liés au logement.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220110-08",
+      "titre": "Répartition 2021 du produit 2020 des amendes de police",
+      "resume": "Engagement à la réalisation des travaux de sécurisation routière et acceptation de la subvention de 9000 €.",
+      "themes": [
+        "subventions",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220110-09",
+      "titre": "Subvention à l'association « Prieurités talusiennes »",
+      "resume": "Attribution d'une subvention de 500 €",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220110-09",
+      "titre": "Convention avec le SITOM pour l'installation d'un container enterré sur le Parking du Prieuré",
+      "resume": "Convention pour la fourniture et la pose d'un silo enterré pour les emballages.",
+      "themes": [
+        "autre",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220110-10",
+      "titre": "Mise en place du tri à la source du restaurant scolaire et collecte des biodéchets",
+      "resume": "Installation d'un point d'apport volontaire de biodéchets au groupe scolaire.",
+      "themes": [
+        "autre",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Soutien à la transition énergétique et écologique."
+    }
+  ]
+}

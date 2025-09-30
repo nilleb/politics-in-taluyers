@@ -1,0 +1,222 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2018-11-26",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Martine TREVISANI",
+        "Séverine SICHE CHOL",
+        "Véronique GOUTTENOIRE",
+        "Jean-Jacques COURBON",
+        "Bruno SICARD",
+        "Charles JULLIAN",
+        "Dominique FONS",
+        "Odile BRACHET",
+        "Isabelle PETIT",
+        "David SEGURA"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": [
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Nathalie FORISSIER",
+        "Jean-Pierre MARCONNET",
+        "Yves CUBLIER",
+        "Marc MIOTTO",
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20181126-01",
+      "titre": "Marché de restauration de l'église – approbation des lots",
+      "resume": "Attribution des lots de travaux pour la restauration de l'église avec les entreprises assignées.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 2,
+      "notes": null
+    },
+    {
+      "id": "20181126-02",
+      "titre": "Marché de prestations d'assurances – approbation des lots",
+      "resume": "Approbation des lots pour le marché de prestations d'assurances de la commune.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 3,
+      "notes": null
+    },
+    {
+      "id": "20181126-03",
+      "titre": "Groupement de commandes pour les travaux d'entretien et d'amélioration de la voirie - Avenant n°1 à la convention",
+      "resume": "Approbation de l'avenant n°1 à la convention de groupement pour les travaux de voirie.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 4,
+      "notes": null
+    },
+    {
+      "id": "20181126-04",
+      "titre": "Convention de partenariat entre le Conseil départemental du Rhône et l’Union des Groupements d’Achat Public (UGAP) – Adhésion de la commune de Taluyers",
+      "resume": "Adhésion de Taluyers à la convention UGAP pour bénéficier des conditions tarifaires privilégiées.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 5,
+      "notes": null
+    },
+    {
+      "id": "20181126-05",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Recrutement d'une ATSEM supplémentaire et modification du tableau des effectifs.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 6,
+      "notes": null
+    },
+    {
+      "id": "20181126-06",
+      "titre": "Service de conseil en droit des collectivités – avenant à la convention avec le Centre de Gestion du Rhône",
+      "resume": "Adoption de l'avenant à la convention pour le service de conseil en droit des collectivités.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 7,
+      "notes": null
+    },
+    {
+      "id": "20181126-07",
+      "titre": "Budget communal – exercice 2018 – Décision Modificative n°3",
+      "resume": "Ajustements budgétaires pour couvrir des dépenses imprévues de voirie et gaz.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 8,
+      "notes": null
+    },
+    {
+      "id": "20181126-08",
+      "titre": "Subvention au Tennis Club de Taluyers",
+      "resume": "Attribution d'un complément de subvention de 410 € au Tennis Club de Taluyers.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 9,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2014-09-08",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Marc MIOTTO",
+        "Odile BRACHET",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Bruno SICARD",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Loïc TAMISIER",
+        "Séverine SICHE-CHOL",
+        "Martine TREVISANI",
+        "Charles JULLIAN",
+        "Jean-Jacques COURBON",
+        "Guy DANIEL",
+        "Véronique GOUTTENOIRE",
+        "Yves CUBLIER",
+        "Nathalie FORISSIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Dominique FONS",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Sylvie ROMAN CLAVELLOUX"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20140908-01",
+      "titre": "Agencement intérieur des locaux commerciaux",
+      "resume": "Attribution du marché d'agencement intérieur des locaux commerciaux au rez-de-chaussée Place de la Bascule.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-02",
+      "titre": "Marché d’extension du restaurant scolaire – Lot 1 gros-œuvre – Avenant n°2",
+      "resume": "Approbation de l’avenant n°2 du lot 1 – Gros œuvre.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-03",
+      "titre": "Marché d’extension du restaurant scolaire – Lot 3 Menuiseries intérieures et extérieures – Avenant n°1",
+      "resume": "Approbation de l’avenant n°1 du lot 3 – Menuiseries intérieures et extérieures.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-04",
+      "titre": "Marché d’extension du restaurant scolaire – Lot 4 Plâtrerie peinture – Avenant n°2",
+      "resume": "Approbation de l’avenant n°2 du lot 4 – Plâtrerie peinture.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-05",
+      "titre": "Marché d’extension du restaurant scolaire – Lot 5 Electricité – Avenant n°2",
+      "resume": "Approbation de l’avenant n°2 du lot 5 – Electricité.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-06",
+      "titre": "Marché d’extension du restaurant scolaire – Lot 7 Chape ; sols souples ; carrelage – Avenant n°1",
+      "resume": "Approbation de l’avenant n°1 du lot 7 – Chape ; sols souples ; carrelage.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-07",
+      "titre": "Mise à jour du règlement intérieur du service périscolaire",
+      "resume": "Approbation de la mise à jour du règlement intérieur du service de garderie périscolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-08",
+      "titre": "Convention de partenariat pour la mise en réseau des bibliothèques du Pays Mornantais",
+      "resume": "Approbation de la convention de partenariat avec la Communauté de Communes pour la mise en réseau informatique des bibliothèques.",
+      "themes": [
+        "marches",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-09",
+      "titre": "Subventions aux associations",
+      "resume": "Attribution de subventions exceptionnelles au Comité des Fêtes et à l’Association pour la gestion de la bibliothèque de Taluyers.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-10",
+      "titre": "Désignation du représentant au comité de rivière du Garon",
+      "resume": "Désignation de M. Charles JULLIAN comme représentant de la commune au Comité de rivière du Garon.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20140908-11",
+      "titre": "Avis sur le Plan de Prévention des Risques Naturels d’Inondation du Garon",
+      "resume": "Émission d’un avis favorable au PPRNI du Garon.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

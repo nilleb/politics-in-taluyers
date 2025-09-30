@@ -1,0 +1,321 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2016-03-21",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Bruno SICARD",
+        "Jean-Pierre MARCONNET",
+        "Martine TREVISANI",
+        "Dominique FONS",
+        "Marc MIOTTO",
+        "Yves CUBLIER",
+        "Guy DANIEL",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Loïc TAMISIER",
+        "Jean-Jacques COURBON",
+        "Charles JULLIAN",
+        "Véronique GOUTTENOIRE",
+        "Isabelle PETIT",
+        "David SEGURA"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Nathalie FORISSIER",
+          "mandataire": "Guy DANIEL"
+        },
+        {
+          "mandant": "Séverine SICHE CHOL",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20160321-01",
+      "titre": "Budget principal – Approbation du compte administratif 2015",
+      "resume": "Approbation du compte administratif 2015 du budget principal M 14.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-02",
+      "titre": "Budget principal – Approbation du compte de gestion 2015",
+      "resume": "Déclaration que le compte de gestion dressé pour l'exercice 2015 par le Receveur est conforme.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-03",
+      "titre": "Budget principal – Affectation du résultat 2015",
+      "resume": "Affectation des résultats excédentaires du budget 2015 en fonctionnement et investissement.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-04",
+      "titre": "Budget principal – Vote des taux d’imposition 2016",
+      "resume": "Vote des taux de trois impôts directs locaux sans augmentation pour 2016.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-05",
+      "titre": "Subventions aux associations",
+      "resume": "Attribution des subventions aux associations pour 2016.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-06",
+      "titre": "Budget principal – Adoption du Budget primitif 2016",
+      "resume": "Approbation du Budget Primitif 2016.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-07",
+      "titre": "Autorisation de programme et crédits de paiement – Construction d’un local périscolaire",
+      "resume": "Création d'autorisations de programme et crédits de paiement pour la construction d’un local périscolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-08",
+      "titre": "Budget Locaux commerciaux – Approbation du compte administratif 2015",
+      "resume": "Approbation du compte administratif 2015 du budget 'Locaux commerciaux'.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-09",
+      "titre": "Budget Locaux commerciaux – Affectation du résultat",
+      "resume": "Affectation du résultat du budget 'Locaux commerciaux' pour 2015.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-10",
+      "titre": "Budget Locaux commerciaux – Adoption du Budget primitif 2016",
+      "resume": "Approbation du Budget Primitif 2016 du budget 'Locaux commerciaux'.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-11",
+      "titre": "Commerce ambulant dans la Zone de la Ronze – tarif des droits de place",
+      "resume": "Fixation du tarif des droits de place pour le commerce ambulant à la Zone de la Ronze.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160321-12",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Modification des temps de travail de deux emplois d’adjoint d’animation et création du poste de rédacteur.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

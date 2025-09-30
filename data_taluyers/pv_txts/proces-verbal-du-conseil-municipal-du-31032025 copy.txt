@@ -1,0 +1,977 @@
+# Lundi 31 mars 2025 à 19 h 00 
+
+Nombre de conseillers : 23
+En exercice : 21
+Présents : 14
+Votants : 17
+L'an Deux-mille-vingt-cinq, le 31 mars, le Conseil Municipal s'est réuni en session ordinaire à la Mairie, sous la présidence de Monsieur Pascal OUTREBON, Maire.
+
+Date de convocation du Conseil Municipal : 24 mars 2025
+Présents : M. Pascal OUTREBON, M. Jean-Jacques COURBON, Mme Odile BRACHET-CONVERT, M. Laurent NAULIN, M. Loïc TAMISIER, M. Charles JULLIAN, M. Marc MIOTTO, Mme Mireille BERTHOUD, M. Sylvain NAVARRO, Mme Evelyne VIOLLET, M. Jean-Louis MONTCEL, Mme Christiane ROUAND, Mme Audrey MICHALLET, Mme Giada RAVET, M. Yves CUBLIER,
+
+Absents excusés : Mme Emilie GRAU a donné pouvoir à Mme Giada RAVET Mme Geneviève CASCHETTA a donné pouvoir à M. Loïc TAMISIER M. Pierre-Luc GUITTET a donné pouvoir à M. Marc MIOTTO
+
+Absents : Mme Séverine SICHÉ-CHOL, M. Sébastien CHAIZE, M. Stéphane LEMARCHAND
+Secrétaire de séance : Mme Odile BRACHET-CONVERT
+
+Le quorum étant atteint, le conseil municipal peut valablement délibérer.
+
+## * Approbation du procès-verbal de la séance du Conseil municipal du 10 février 2025
+
+Le PV de la séance du Conseil municipal du 10 février 2025 est approuvé à l'unanimité des votes exprimés.
+
+## Délibération n²0250331-01
+
+## * Approbation du Compte Financier Unique (CFU) 2024 - Budget principal
+
+Le Compte Financier Unique (CFU) est un document unique, fusion entre le compte administratif produit par l'ordonnateur et le compte de gestion produit par le comptable public.
+Il constitue une mesure de simplification qui permet de favoriser la transparence et la lisibilité de l'information financière, d'améliorer la qualité des comptes et de simplifier les processus administratifs entre l'ordonnateur et le comptable, sans remettre en cause leurs prérogatives respectives, au travers de l'unification du compte administratif et du compte de gestion.
+Jusqu'alors en phase d'expérimentation, le CFU deviendra obligatoire pour toutes les communes à compter du ler janvier 2026.
+La commune de Taluyers a souhaité anticiper cette obligation et a ainsi adopté le CFU pour l'ensemble de ses budgets à compter du ler janvier 2025.
+Le CFU de l'exercice 2024 du Budget principal fait ressortir les résultats suivants :
+---
+
+# I - INFORMATIONS GENERALES ET SYNTHÉTIQUES
+
+## PRÉSENTATION GÉNÉRALE DU COMPTE FINANCIER - VUE D'ENSEMBLE
+
+|  Détermination du résultat cumulé à la fin de l'exercice N |  |  |  |   |
+| --- | --- | --- | --- | --- |
+|   |  |  | Investissement | Fonctionnement  |
+|  Recettes | Prévision budgétaire totale | A | 2 011 210,90 | 2 176 749,00  |
+|   | Recettes réalisées (1) | B | 1 203 549,01 | 2 362 303,08  |
+|   | Restes à réaliser | C | 69 500,00 | 0,00  |
+|  Dépenses | Autorisation budgétaire totale | D | 2 281 630,03 | 2 176 879,10  |
+|   | Dépenses réalisées (1) | E | 1 227 871,94 | 1 905 336,56  |
+|   | Restes à réaliser | F | 411 018,36 | 0,00  |
+|  Différences entre les titres et les mandats | Solde des réalisations de l'exercice (+/-) | G = B - E | -24 322,93 | 456 966,52  |
+|  Résultats antérieurs reportés | Résultats antérieurs reportés (+/-) | H | 270 419,13 | 130,10  |
+|  Solde (investissement) ou résultat de | Excédent /déficit | G + H | 246 096,20 | 457 096,62  |
+|  clôture (fonctionnement) |  |  |  |   |
+|  Différence entre les restes à réaliser | Restes à réaliser (+/-) | I = C - F | -341 518,36 | 0,00  |
+|  Résultat cumulé | Excédent /déficit | G + H + I | -95 422,16 | 457 096,62  |
+
+Après avoir désigné Monsieur Marc MIOTTO comme Président de séance et constaté le retrait de M. le Maire au moment du vote conformément à l'article L.2121-14 du CGCT.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DONNE acte de la présentation faite du compte financier unique 2024 du Budget principal lequel peut se résumer comme indiqué ci-dessus,
+- APPROUVE les résultats du Compte Financier Unique 2024 pour le Budget principal.
+
+## Délibération n°20250331-02
+
+### Budget principal - Affectation des résultats de l'exercice 2024
+
+Le Conseil Municipal,
+
+Après avoir adopté le Compte Financier Unique (CFU) de l'exercice 2024 ;
+
+Constatant que le document ci-dessus présente :
+
+- un résultat cumulé de la section de fonctionnement excédentaire de + 457 096,62 € ;
+- un résultat de la section d'investissement de - 24 322,93 € et un résultat antérieur reporté de + 270 419,13 €, soit un solde d'exécution cumulé de + 246 096,20 €.
+
+À l'unanimité :
+
+- **DECIDE** d'affecter le résultat de fonctionnement au compte 1068 Excédents de fonctionnement capitalisés : 457 096,62 €.
+- **DECIDE** d'affecter le résultat d'investissement au compte R001 Solde d'exécution reporté en section d'investissement : 246 096,20 €.
+
+## Délibération n°20250331-03
+
+### Budget principal - Vote des taux d'imposition 2025
+
+Vu le code général des collectivités territoriales, et notamment son article L.2121-29,
+
+Vu l'article 16 de la loi n° 2019-1479 de finances pour 2020 lequel prévoit la suppression progressive de la taxe d'habitation sur les résidences principales,
+---
+
+Vu le code général des impôts, et notamment l'article 1636 B sexies,
+
+Pour la $21^{\text {ème }}$ année consécutive, M. le Maire propose de ne pas augmenter les taux d'imposition pour l'année 2025.
+
+Monsieur le Maire. La dernière modification des taux date de 2004, cela concernait le financement de la viabilisation de la Zone d'Activités de la Ronze. Depuis 21 ans, les taux n'ont pas été augmentés et on vous propose de les maintenir pour 2025.
+
+Mme Mireille BERTHOUD. Si on augmente de $1 \%$ les taux, quelle est la recette supplémentaire ? Après tout on a besoin de recettes complémentaires aussi. M. le Maire. On a encore des recettes car notre assiette reste dynamique et l'Etat augmente déjà la valeur locative de $1,7 \%$ en 2025, ce qui engendre mécaniquement des recettes complémentaires. Les gens sont assez pressurisés par l'impôt pour que nous augmentions les taux de fiscalité communale. M. Marc MIOTTO. Est-ce qu'on peut se servir de l'indicateur de l'épargne brute par exemple pour décider ou pas d'augmenter les taux ? Si, par exemple, on continue de générer de l'épargne de fonctionnement? M. le Maire. En effet, depuis 2015, l'épargne brute est stable à $450000 €$ à peu près, ça ne justifie pas d'augmenter les taux d'imposition. Si on passait à $200000 €$ il faudrait agir car il faut continuer à rembourser la dette et investir.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- VOTE les taux d'imposition des taxes directes locales pour l'année 2025 comme suit :
+
+|  TAXE | TAUX  |
+| --- | --- |
+|  Taxe d'habitation sur les
+résidences secondaires et autres
+locaux meublés non affectés à
+l'habitation principale | $\mathbf{1 4 , 5 5 \%}$  |
+|  Taxe foncière (bâti) | $\mathbf{2 7 , 9 9 \%}$  |
+|  Taxe foncière (non bâti) | $\mathbf{5 3 , 9 9 \%}$  |
+
+- DONNE tout pouvoir au Maire pour la mise en œuvre de la présente délibération.
+
+# Délibération n²0250331-04
+
+## - Budget principal - Vote des subventions aux associations et au CCAS
+
+Au regard des demandes formulées pour l'année 2024 et compte tenu des conventions passées avec les associations prévoyant le versement à la commune d'une redevance pour l'occupation des locaux municipaux, Monsieur le Maire propose l'attribution des subventions suivantes :
+
+|  ASSOCIATIONS | Subvention 2024  |
+| --- | --- |
+|  ALEGRIA CHORALE | $1000 €$  |
+|  AMICALE BOULES | $2500 €$  |
+|  ASSOCIATION MUSICALE | $9400 €$  |
+|  ATELIER PASSION | $200 €$  |
+|  BASKET CLUB Coteaux Lyonnais | $500 €$  |
+|  COMITE DES FETES | $3000 €$  |
+|  ECOLE DE JUDO | $1400 €$  |
+|  FSCO69 | $4000 €$  |
+---
+
+|  PRIEURITES TALUSIENNES | $1600 €$  |
+| --- | --- |
+|  SIXTINE OBJECTIF | $100 €$  |
+|  SOU DES ECOLES DE TALUYERS | $2000 €$  |
+|  TAL LA FORME | $1500 €$  |
+|  TALURUN | $400 €$  |
+|  TALUS'ARTS | $2350 €$  |
+|  TALUYERS CAP SENIORS | $1750 €$  |
+|  TENNIS CLUB | $3500 €$  |
+|  TRIANGLE DES SAPEURS POMPIERS | $2000 €$  |
+|  YATAGARASU | $100 €$  |
+|  OCCE (Classe verte école élémentaire) | $3000 €$  |
+|  FNACA | $200 €$  |
+|  CENTRE SOINS OISEAUX | $260 €$  |
+|  4L TROPHY | $200 €$  |
+|  SPORT \& CO | $150 €$  |
+
+En outre, il est proposé le vote d'une subvention d'équilibre de $8000,00 €$ pour le CCAS. M. le Maire. Cette année on propose au vote une augmentation de l'enveloppe de subventions aux associations de 6700 € de subventions en plus, pour un total de 42610 €. Les associations jouent un rôle important dans l'animation de la commune. Je vous rappelle que celles qui utilisent des locaux payent une redevance d'occupation dont le coût est couvert a minima par la subvention.
+
+Mme Christiane ROUAND, présidente de l'association musicale, ne prend pas part au vote. M. Jean-Louis MONTCEL, trésorier de l'association TALURUN, ne prend pas part au vote
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité :
+
+- ATTRIBUE aux associations et au CCAS les subventions comme précédemment indiqué ;
+- DIT que les crédits seront inscrits au budget communal 2025.
+
+# Délibération n²0250331-05
+
+## - Révision n² de l'Autorisation de Programme et Crédits de Paiement - Fonds de concours avec la COPAMO pour les travaux de voirie rue du Prieuré, rue Saint-Marc et rue des Blanchardes
+
+Conformément aux articles L2311-3 et R 2311-9 du Code Général des Collectivités Territoriales, les dépenses d'investissement peuvent comprendre des Autorisations de Programme (AP) et des Crédits de Paiement (CP).
+
+Cette procédure permet à la commune de ne pas faire supporter au budget annuel l'intégralité d'une dépense pluriannuelle, mais seules les dépenses à régler au cours de l'exercice.
+
+Elle favorise la gestion pluriannuelle des investissements et permet d'améliorer la lisibilité des engagements financiers de la collectivité à moyen terme.
+
+Les autorisations de programme constituent la limite supérieure des dépenses qui peuvent être engagées pour le financement des investissements. Elles demeurent valables sans limitation de durée jusqu'à ce qu'il soit procédé à leur annulation. Elles peuvent être révisées.
+
+Les crédits de paiement constituent la limite supérieure des dépenses pouvant être mandatées durant l'exercice, pour la couverture des engagements contractés dans le cadre des autorisations de programme correspondantes.
+
+Par délibération du 3 octobre 2022, le conseil municipal a approuvé la convention avec la COPAMO pour le versement d'un fonds de concours pour les travaux de voirie de la rue du Prieuré, rue Saint-Marc et rue des Blanchardes.
+---
+
+Par délibération du 27 mars 2023, le conseil municipal a approuvé la création de l'Autorisation de programme et crédits de paiement « Fonds de concours avec la COPAMO pour les travaux de voirie rue du Prieuré, rue Saint-Marc et rue des Blanchardes ».
+
+Par délibération du 25 mars 2024, le conseil municipal a approuvé la révision n°1 de l'AP/CP tel que suit :
+
+|   | Autorisation de programme (AP) | Crédits de paiement (CP) € TTC  |
+| --- | --- | --- |
+|   |  | 2022 (réalisé)  |
+|  Révision n°1 |  |   |
+|  Fonds de concours voirie rue du Prieuré, Saint-Marc et Blanchardes | 543 076,00 € | 19 572,00 €  |
+
+Compte tenu de la planification des travaux par la COPAMO et des demandes de paiement des tranches du fonds de concours, il est nécessaire de procéder à une révision n°2 de l'AP/CP « Fonds de concours voirie rue du Prieuré, Saint Marc et Blanchardes » :
+
+|   | Autorisation de programme (AP) | Crédits de paiement (CP) € TTC  |
+| --- | --- | --- |
+|   |  | 2022 (réalisé)  |
+|  Révision n°2 |  |   |
+|  Fonds de concours voirie rue du Prieuré, Saint-Marc et Blanchardes | 543 076,00 € | 19 572,00 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DECIDE la révision n°2 de l'AP/CP relative aux travaux de voirie rue du Prieuré, Saint-Marc et Blanchardes comme indiqué ci-dessus
+
+# Délibération n°20250331-06
+
+## *Révision n°2 de l'Autorisation de Programme et Crédits de Paiement - Travaux de mobilité douce
+
+Conformément aux articles L2311-3 et R 2311-9 du Code Général des Collectivités Territoriales, les dépenses d'investissement peuvent comprendre des Autorisations de Programme (AP) et des Crédits de Paiement (CP).
+
+Cette procédure permet à la commune de ne pas faire supporter au budget annuel l'intégralité d'une dépense pluriannuelle, mais seules les dépenses à régler au cours de l'exercice.
+
+Elle favorise la gestion pluriannuelle des investissements et permet d'améliorer la lisibilité des engagements financiers de la collectivité à moyen terme.
+
+Les autorisations de programme constituent la limite supérieure des dépenses qui peuvent être engagées pour le financement des investissements. Elles demeurent valables sans limitation de durée jusqu'à ce qu'il soit procédé à leur annulation. Elles peuvent être révisées.
+
+Les crédits de paiement constituent la limite supérieure des dépenses pouvant être mandatées durant l'exercice, pour la couverture des engagements contractés dans le cadre des autorisations de programme correspondantes.
+---
+
+Par délibération du 27 mars 2023, le conseil municipal a approuvé la création de l'Autorisation de programme et crédits de paiement « Travaux de mobilité douce ».
+
+Par délibération en date du 25 mars 2024, le conseil municipal a approuvé la révision n°1 de l'Autorisation de programme et crédits de paiement « Travaux de mobilité douce » :
+
+|  Autorisation de programme (AP) | Crédits de paiement (CP) € TTC  |
+| --- | --- |
+|   | 2023 (réalisé)  |
+|  377 500,00 € | 2024  |
+|  4 100,40 € | 2025  |
+|  377 500,00 € | 2024  |
+
+Compte tenu du décalage de planification et de nouveaux chiffrages, il est nécessaire de procéder à une révision n°2 de cet AP/CP :
+
+|  Révision n°2 Travaux de mobilité douce | Autorisation de programme (AP) | 2023 (réalisé) | 2024 (réalisé) | 2025  |
+| --- | --- | --- | --- | --- |
+|   | 466 571,79 € | 206 249,81 € | 256 221,58 € |   |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **DECIDE** la révision n°2 de l'AP/CP relative aux travaux de mobilité douce comme indiqué ci-dessus.
+
+# Délibération n°20250331-07
+
+## Création de l'Autorisation de Programme et Crédits de Paiement – Centrales photovoltaïques d'autoconsommation collective
+
+Conformément aux articles L2311-3 et R 2311-9 du Code Général des Collectivités Territoriales, les dépenses d'investissement peuvent comprendre des Autorisations de Programme (AP) et des Crédits de Paiement (CP).
+
+Cette procédure permet à la commune de ne pas faire supporter au budget annuel l'intégralité d'une dépense pluriannuelle, mais seules les dépenses à régler au cours de l'exercice.
+
+Elle favorise la gestion pluriannuelle des investissements et permet d'améliorer la lisibilité des engagements financiers de la collectivité à moyen terme.
+
+Les autorisations de programme constituent la limite supérieure des dépenses qui peuvent être engagées pour le financement des investissements. Elles demeurent valables sans limitation de durée jusqu'à ce qu'il soit procédé à leur annulation. Elles peuvent être révisées.
+
+Les crédits de paiement constituent la limite supérieure des dépenses pouvant être mandatées durant l'exercice, pour la couverture des engagements contractés dans le cadre des autorisations de programme correspondantes.
+
+En collaboration avec la COPAMO, la commune de Taluyers ale projet d'installer des panneaux photovoltaïques sur les toitures des bâtiments municipaux et des ombrières photovoltaïques sur le terrain de boules à côté des tennis. L'objectif est de faire bénéficier chaque bâtiment communal d'une autoconsommation permettant de faire baisser les coûts d'énergie, de vendre le surplus à des professionnels et s'il reste un surplus ultime, le vendre au réseau.
+---
+
+|  |   |   |   |
+| --- | --- | --- | --- |
+|   | Autorisation
+de
+programme
+(AP) | Crédits de paiement (CP) € TTC |   |
+|   |  | 2025 | 2026  |
+|  Centrales photovoltaïques
+d'autoconsommation collective |  |  |   |
+|   | 834 000 € | 470 000,00 € | 364 000,00 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **DECIDE** la création de l'AP/CP relative aux centrales photovoltaïques d'autoconsommation collective comme indiqué ci-dessus.
+
+# Délibération n°20250331-08
+
+## Création de l'Autorisation de Programme et Crédits de Paiement – Végétalisation de cours d'école
+
+Conformément aux articles L2311-3 et R 2311-9 du Code Général des Collectivités Territoriales, les dépenses d'investissement peuvent comprendre des Autorisations de Programme (AP) et des Crédits de Paiement (CP).
+
+Cette procédure permet à la commune de ne pas faire supporter au budget annuel l'intégralité d'une dépense pluriannuelle, mais seules les dépenses à régler au cours de l'exercice.
+
+Elle favorise la gestion pluriannuelle des investissements et permet d'améliorer la lisibilité des engagements financiers de la collectivité à moyen terme.
+
+Les autorisations de programme constituent la limite supérieure des dépenses qui peuvent être engagées pour le financement des investissements. Elles demeurent valables sans limitation de durée jusqu'à ce qu'il soit procédé à leur annulation. Elles peuvent être révisées.
+
+Les crédits de paiement constituent la limite supérieure des dépenses pouvant être mandatées durant l'exercice, pour la couverture des engagements contractés dans le cadre des autorisations de programme correspondantes.
+
+Initialement prévu en même temps, il a été décidé de scinder en deux temps la réalisation de la végétalisation de la cour d'école élémentaire, réalisée en 2025 et la cour du périscolaire, réalisée en 2026.
+
+|   | Autorisation
+de
+programme
+(AP) | Crédits de paiement (CP) € TTC |   |
+| --- | --- | --- | --- |
+|   |  | 2025 | 2026  |
+|  Végétalisation de cours
+d'école | 140 000,00 € | 50 000,00 € | 90 000,00 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **DECIDE** la création de l'AP/CP relative à la végétalisation de cours d'école comme indiqué ci-dessus.
+
+# Délibération n°20250331-09
+
+## Mise en place de la fongibilité des crédits en section de fonctionnement et d'investissement
+
+Consécutivement au passage à la nomenclature M57 depuis le 01/01/2024, il est nécessaire de définir une politique de fongibilité des crédits pour les sections de fonctionnement et d'investissement.
+---
+
+L'instruction M57 donne la possibilité à l'exécutif, sur autorisation de l'assemblée territoriale, de procéder à des virements de crédits de chapitre à chapitre au sein de la même section, dans la limite de 7,5 % des dépenses réelles de chaque section, à l'exclusion des crédits relatifs aux dépenses de personnel.
+
+Cette fongibilité permet d'ajuster, dès que le besoin apparaît, la répartition des crédits sans modifier le montant global des sections. Elle permet aussi de réaliser sans attendre des opérations purement techniques. Ces dispositions contribuent à améliorer l'efficacité de l'exécution budgétaire et la réactivité opérationnelle.
+
+L'assemblée délibérante est informée des virements de crédits opérés lors de sa plus proche séance, dans les mêmes conditions que la revue des décisions prises dans le cadre de l'article L2122-22 du Code général des collectivités territoriales.
+
+Ainsi, il est proposé au Conseil Municipal d'autoriser le Maire à procéder à des virements de crédits de chapitre à chapitre au sein de la même section, dans la limite de 7,5 % des dépenses réelles de chaque section et à signer tout document s'y rapportant.
+
+Vu l'article L2121-29 du Code général des collectivités territoriales,
+
+Vu l'arrêté interministériel du ministre de la Cohésion des territoires et des relations avec les collectivités territoriales et du ministre de l'Action des comptes publics du 20 décembre 2018 relatif à l'instruction budgétaire et comptable M57 applicable aux collectivités territoriales,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **AUTORISE** M. le Maire à procéder à des mouvements de crédits de chapitre à chapitre, à l'exclusion des crédits relatifs aux dépenses de personnel, dans la limite de 7,5 % du montant des dépenses réelles de chacune des sections (fonctionnement et investissement) déterminées à l'occasion du budget,
+- **AUTORISE** M. le Maire à signer tout document s'y rapportant.
+
+## Délibération n°20250331-10
+
+### Budget principal - Adoption du budget primitif 2025
+
+Monsieur le Maire présente à l'assemblée le Budget 2025 du budget communal en fonctionnement :
+
+#### DEPENSES DE FONCTIONNEMENT
+
+|  Chap. | Libellé | Pour mémoire,
+budget
+précédent (1) | Restes à réaliser
+N-1 | Propositions
+nouvelles (2) | Vote de
+l'assemblée | TOTAL
+(= RAR + vote)  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  011 | Charges à caractère général (3) | 547 900,00 | 0,00 | 546 116,00 | 546 116,00 | 546 116,00  |
+|  012 | Charges de personnel et frais
+assimilés (3) | 1 056 100,00 | 0,00 | 1 113 395,00 | 1 113 395,00 | 1 113 395,00  |
+|  014 | Atténuations de produits | 21 129,00 | 0,00 | 25 000,00 | 25 000,00 | 25 000,00  |
+|  016 | APA | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  017 | RSA / Régularisations de RMI | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  65 | Autres charges de gestion
+courante (sauf 6586) (3) | 241 018,00 | 0,00 | 240 652,00 | 240 652,00 | 240 652,00  |
+|  6586 | Frais fonctionnement des groupes
+d'élus | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses de gestion courante |  | 1 866 147,00 | 0,00 | 1 925 163,00 | 1 925 163,00 | 1 925 163,00  |
+|  66 | Charges financières | 29 000,00 | 0,00 | 25 000,00 | 25 000,00 | 25 000,00  |
+|  67 | Charges spécifiques (3) | 3 181,25 | 0,00 | 3 000,00 | 3 000,00 | 3 000,00  |
+|  68 | Dotations aux provisions,
+dépréciations (semi-budgétaires) (3) | 7 500,00 | 0,00 | 3 000,00 | 3 000,00 | 3 000,00  |
+|  Total des dépenses réelles de
+fonctionnement |  | 1 905 828,25 | 0,00 | 1 956 163,00 | 1 956 163,00 | 1 956 163,00  |
+---
+
+|  023 | Virement à la section d'investissement (4) | 255 650,05 |  | 331 967,00 | 331 967,00 | 331 967,00  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  042 | Opérations ordre transfert entre sections (4) (5) | 15 400,00 |  | 27 000,00 | 27 000,00 | 27 000,00  |
+|  043 | Opérations ordre intérieur de la section (4) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses d'ordre de fonctionnement |  | 271 050,05 |  | 358 967,00 | 358 967,00 | 358 967,00  |
+
+|  TOTAL | 2 176 878,10 | 0,00 | 2 315 130,00 | 2 315 130,00 | 2 315 130,00  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  |  | +  |
+|   |  |  | D 002 RESULTAT REPORTE OU ANTICIPE |  | 0,00  |
+|   |  |  |  |  | =  |
+|   |  |  | TOTAL DES DEPENSES DE FONCTIONNEMENT CUMULEES |  | 2 315 130,00  |
+
+## RECETTES DE FONCTIONNEMENT
+
+|  Chap. | Libellé | Pour mémoire, budget précédent (1) | Restes à réaliser N-1 | Propositions nouvelles (2) | Vote de l'assemblée | TOTAL (= RAR + vote)  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  013 | Atténuations de charges (3) | 5 600,00 | 0,00 | 22 000,00 | 22 000,00 | 22 000,00  |
+|  016 | APA | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  017 | RSA / Régularisations de RMI | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  70 | Prod. services, domaine, ventes diverses | 243 700,00 | 0,00 | 253 800,00 | 253 800,00 | 253 800,00  |
+|  73 | Impôts et taxes (sauf le 731) | 193 752,00 | 0,00 | 192 790,00 | 192 790,00 | 192 790,00  |
+|  731 | Fiscalité locale | 1 465 697,00 | 0,00 | 1 582 100,00 | 1 582 100,00 | 1 582 100,00  |
+|  74 | Dotations et participations (3) | 227 800,00 | 0,00 | 222 440,00 | 222 440,00 | 222 440,00  |
+|  75 | Autres produits de gestion courante (3) | 39 700,00 | 0,00 | 42 000,00 | 42 000,00 | 42 000,00  |
+|  Total des recettes de gestion courante |  | 2 176 249,00 | 0,00 | 2 315 130,00 | 2 315 130,00 | 2 315 130,00  |
+|  76 | Produits financiers | 500,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  77 | Produits spécifiques (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  78 | Reprises amort., dépréciations, prov. (semi-budgétaires) (3) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  Total des recettes réelles de fonctionnement |  | 2 176 749,00 | 0,00 | 2 315 130,00 | 2 315 130,00 | 2 315 130,00  |
+
+|  042 | Opérations ordre transfert entre sections (4) (5) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  043 | Opérations ordre intérieur de la section (4) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  Total des recettes d'ordre de fonctionnement |  | 0,00 |  | 0,00 | 0,00 | 0,00  |
+
+|  TOTAL | 2 176 749,00 | 0,00 | 2 315 130,00 | 2 315 130,00 | 2 315 130,00  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  |  | +  |
+|   |  |  | R 002 RESULTAT REPORTE OU ANTICIPE |  | 0,00  |
+|   |  |  |  |  | =  |
+|   |  |  | TOTAL DES RECETTES DE FONCTIONNEMENT CUMULEES |  | 2 315 130,00  |
+
+Le Budget Primitif 2025 du budget communal se présente comme suit en investissement :
+---
+
+# DEPENSES D'INVESTISSEMENT
+
+|  Chap. | Libellé | Pour mémoire, budget précédent (1) | Restes à réaliser N-1 | Propositions nouvelles (2) | Vote de l'assemblée | TOTAL (= RAR + vote)  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  018 | RSA | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  20 | Immobilisations incorporelles (sauf le 204) (y compris opérations) (3) | 14 656,76 | 12 172,00 | 12 500,00 | 12 500,00 | 24 672,00  |
+|  204 | Subventions d'équipement versées (y compris opérations) (3) (8) | 300 000,00 | 0,00 | 132 560,00 | 132 560,00 | 132 560,00  |
+|  21 | Immobilisations corporelles (y compris opérations) (3) | 1 705 954,84 | 398 846,36 | 1 770 010,00 | 1 770 010,00 | 2 168 856,36  |
+|  22 | Immobilisations reçues en affectation (y compris opérations) (3) (4) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  23 | Immobilisations en cours (sauf 2324) (y compris opérations) (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|   | **Total des dépenses d'équipement** | **2 020 611,60** | **411 018,36** | **1 915 070,00** | **1 915 070,00** | **2 326 088,36**  |
+|  10 | Dotations, fonds divers et réserves | 40 000,00 | 0,00 | 20 000,00 | 20 000,00 | 20 000,00  |
+|  13 | Subventions d'investissement (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  16 | Emprunts et dettes assimilées | 200 912,48 | 0,00 | 200 544,42 | 200 544,42 | 200 544,42  |
+|  18 | Cpte de liaison : affectation (BA, régie) (5) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  26 | Participations et créances rattachées | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  27 | Autres immobilisations financières (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|   | **Total des dépenses financières** | **240 912,48** | **0,00** | **220 544,42** | **220 544,42** | **220 544,42**  |
+|  45 | Chapitres d'opérations pour compte de tiers (6) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|   | **Total des dépenses réelles d'investissement** | **2 261 524,08** | **411 018,36** | **2 135 614,42** | **2 135 614,42** | **2 546 632,78**  |
+|  040 | Opérations ordre transfert entre sections (7) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  041 | Opérations patrimoniales (7) | 20 105,95 | 0,00 | 0,00 | 0,00 | 0,00  |
+|   | **Total des dépenses d'ordre d'investissement** | **20 105,95** | **0,00** | **0,00** | **0,00** | **0,00**  |
+|   | **TOTAL** | **2 281 630,03** | **411 018,36** | **2 135 614,42** | **2 135 614,42** | **2 546 632,78**  |
+
+D 001 SOLDE D'EXECUTION NEGATIF REPORTE OU ANTICIPE
+
+0,00
+
+TOTAL DES DEPENSES D'INVESTISSEMENT CUMULEES
+
+2 546 632,78
+---
+
+# RECETTES D'INVESTISSEMENT
+
+|  Chap. | Libellé | Pour mémoire, budget précédent (1) | Restes à réaliser N-1 | Propositions nouvelles (2) | Vote de l'assemblée | TOTAL (= RAR + vote)  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  018 | RSA | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  13 | Subventions d'investissement (reçues) (sauf le 138) (3) | 389 384,00 | 69 500,00 | 285 419,36 | 285 419,36 | 354 919,36  |
+|  16 | Emprunts et dettes assimilées (4) | 0,00 | 0,00 | 376 593,60 | 376 593,60 | 376 593,60  |
+|  20 | Immobilisations incorporelles (sauf le 204) (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  204 | Subventions d'équipement versées (3) (13) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  21 | Immobilisations corporelles (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  22 | Immobilisations reçues en affectation (3) (5) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  23 | Immobilisations en cours (sauf 2324) (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|   | **Total des recettes d'équipement** | **389 384,00** | **69 500,00** | **662 012,96** | **662 012,96** | **731 512,96**  |
+|  10 | Dotations, fonds divers et réserves (sauf 1068) | 243 000,00 | 0,00 | 200 000,00 | 200 000,00 | 200 000,00  |
+|  1068 | Excédents de fonctionnement capitalisés (6) | 534 710,10 | 0,00 | 457 096,62 | 457 096,62 | 457 096,62  |
+|  138 | Autres subventions invest. non transf. (3) (7) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  16 | Emprunts et dettes assimilées | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  18 | Cpte de liaison : affectation (BA, régie) (8) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  26 | Participations et créances rattachées | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  27 | Autres immobilisations financières (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  024 | Produits des cessions d'immobilisations | 552 960,00 | 0,00 | 552 960,00 | 552 960,00 | 552 960,00  |
+|   | **Total des recettes financières** | **1 330 670,10** | **0,00** | **1 210 056,62** | **1 210 056,62** | **1 210 056,62**  |
+|  45 | Chapitres d'opérations pour le compte de tiers (9) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|   | **Total des recettes réelles d'investissement** | **1 720 054,10** | **69 500,00** | **1 872 069,58** | **1 872 069,58** | **1 941 569,58**  |
+
+|  021 | Virement de la section de fonctionnement (10) | 255 650,85 |  | 331 967,00 | 331 967,00 | 331 967,00  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  040 | Opérations ordre transf. entre sections (10) (11) | 15 400,00 |  | 27 000,00 | 27 000,00 | 27 000,00  |
+|  041 | Opérations patrimoniales (10) | 20 105,95 |  | 0,00 | 0,00 | 0,00  |
+|   | **Total des recettes d'ordre d'investissement** | **291 156,80** |  | **358 967,00** | **358 967,00** | **358 967,00**  |
+
+|  TOTAL | 2 011 210,90 | 69 500,00 | 2 231 036,58 | 2 231 036,58 | 2 300 536,58  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  |  | +  |
+|   |  | R 001 SOLDE D'EXECUTION POSITIF REPORTE OU ANTICIPE |  |  | 246 096,20  |
+|   |  |  |  |  | =  |
+|   |  |  |  |  | TOTAL DES RECETTES D'INVESTISSEMENT CUMULEES  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **APPROUVE** le Budget Primitif principal 2025 et précise qu'il a été voté par chapitres en section de fonctionnement et par opération en section d'investissement
+
+# Délibération n°20250331-11
+
+## Budget Locaux commerciaux - Approbation du Compte Financier Unique 2024
+
+Le Compte Financier Unique (CFU) est un document unique, fusion entre le compte administratif produit par l'ordonnateur et le compte de gestion produit par le comptable public.
+
+Il constitue une mesure de simplification qui permet de favoriser la transparence et la lisibilité de l'information financière, d'améliorer la qualité des comptes et de simplifier les processus administratifs entre l'ordonnateur et le comptable, sans remettre en cause leurs prérogatives respectives, au travers de l'unification du compte administratif et du compte de gestion.
+---
+
+Jusqu'alors en phase d'expérimentation, le CFU deviendra obligatoire pour toutes les communes à compter du 1er janvier 2026.
+
+La commune de Taluyers a souhaité anticiper cette obligation et a ainsi adopté le CFU pour l'ensemble de ses budgets à compter du 1er janvier 2025.
+
+Le CFU de l'exercice 2024 du Budget Locaux commerciaux fait ressortir les résultats suivants :
+
+Commune de TALUYERS - LOCAUX COMMERCIAUX - CFU - 2024
+
+I - INFORMATIONS GENERALES ET SYNTHÉTIQUES PRESENTATION GENERALE DU COMPTE FINANCIER - VUE D'ENSEMBLE
+
+|  Détermination du résultat cumulé à la fin de l'exercice N |  |  |  |   |
+| --- | --- | --- | --- | --- |
+|   |  |  | Investissement | Fonctionnement  |
+|  Recettes | Prévision budgétaire totale | A | 5 197,75 | 5 300,00  |
+|   | Recettes réalisées (1) | B | 11 216,99 | 5 697,04  |
+|   | Restes à réaliser | C | 0,00 | 0,00  |
+|  Dépenses | Autorisation budgétaire totale | D | 13 159,04 | 5 300,00  |
+|   | Dépenses réalisées (1) | E | 6 019,24 | 1 153,84  |
+|   | Restes à réaliser | F | 0,00 | 0,00  |
+|  Différences entre les titres et les mandats | Solde des réalisations de l'exercice (+/-) | G = B - E | 5 197,75 | 4 533,20  |
+|  Résultats antérieurs reportés | Résultats antérieurs reportés (+/-) | H | 7 961,29 | 0,00  |
+|  Solde (investissement) ou résultat de
+débute (fonctionnement) | Excédent idélicat | G + H | 13 159,04 | 4 533,20  |
+|  Différence entre les restes à réaliser | Restes à réaliser (+/-) | I = C - F | 0,00 | 0,00  |
+|  Résultat cumulé | Excédent idélicat | G + H + I | 13 159,04 | 4 533,20  |
+
+Après avoir désigné Monsieur Marc MIOTTO comme Président de séance et constaté le retrait de M. le Maire au moment du vote conformément à l'article L.2121-14 du CGCT,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DONNE acte de la présentation faite du compte financier unique 2024 du Budget Locaux commerciaux lequel peut se résumer comme indiqué ci-dessus,
+
+- APPROUVE les résultats du Compte Financier Unique 2024 pour le Budget Locaux commerciaux.
+
+Délibération nº20250331-12
+
+- Budget Locaux commerciaux – Affectation du résultat
+
+Le Conseil Municipal,
+
+Après avoir adopté le Compte Financier Unique (CFU) du Budget Locaux commerciaux de l'exercice 2024 ;
+
+Constatant que le document ci-dessus présente :
+
+- un résultat cumulé de la section de fonctionnement excédentaire de + 4 533,20 € ;
+- un résultat de la section d'investissement de + 5 197,75 € et un résultat antérieur reporté de + 7 961,29 €, soit un solde d'exécution cumulé de + 13 159,04 €.
+
+A l'unanimité :
+
+- DECIDE d'affecter le résultat de fonctionnement au compte 1068 Excédents de fonctionnement capitalisés : 4 533,20 €.
+- DECIDE d'affecter le résultat d'investissement au compte R001 Solde d'exécution reporté en section d'investissement : 13 159,04 €.
+---
+
+# Délibération n²0250331-13
+
+- Budget Locaux commerciaux - Adoption du Budget primitif 2025
+
+DEPENSES DE FONCTIONNEMENT
+
+|  Chap. | Libellé | Pour mémoire, budget précédent (1) | Restes à réaliser N-1 | Propositions nouvelles (2) | Vote de l'assemblée | TOTAL (= RAR + vote)  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  011 | Charges à caractère général (3) | 4500,00 | 0,00 | 4515,00 | 4515,00 | 4515,00  |
+|  012 | Charges de personnel et frais assimilés (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  014 | Atténuations de produits | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  016 | APA | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  017 | RSA / Régularisations de RMI | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  65 | Autres charges de gestion courante (sauf 6586) (3) | 800,00 | 0,00 | 700,00 | 700,00 | 700,00  |
+|  6586 | Frais fonctionnement des groupes d'élus | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses de gestion courante |  | 5300,00 | 0,00 | 5215,00 | 5215,00 | 5215,00  |
+|  66 | Charges financières | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  67 | Charges spécifiques (3) | 0,00 | 0,00 | 500,00 | 500,00 | 500,00  |
+|  68 | Dotations aux provisions, dépréciations (semi-budgétaires) (3) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses réelles de fonctionnement |  | 5300,00 | 0,00 | 5715,00 | 5715,00 | 5715,00  |
+|  023 | Virement à la section d'investissement (4) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  042 | Opérations ordre transf. entre sections (4) (5) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  043 | Opérations ordre intérieur de la section (4) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses d'ordre de fonctionnement |  | 0,00 |  | 0,00 | 0,00 | 0,00  |
+
+|  TOTAL | 5300,00 | 0,00 | 5715,00 | 5715,00 | 5715,00  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  |  | $+$  |
+|   |  | D 002 RESULTAT REPORTE OU ANTICIPE |  |  | 0,00  |
+|   |  |  |  |  | $=$  |
+|   | TOTAL DES DEPENSES DE FONCTIONNEMENT CUMULEES |  |  |  | 5715,00  |
+---
+
+RECETTES DE FONCTIONNEMENT
+
+|  Chap. | Libellé | Pour mémoire, budget précédent (1) | Restes à réaliser N-1 | Propositions nouvelles (2) | Vote de l'assemblée | TOTAL (= RAR + vote)  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  013 | Atténuations de charges (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  016 | APA | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  017 | RSA / Régularisations de RMI | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  70 | Prod. services, domaine, ventes diverses | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  73 | Impôts et taxes (sauf le 731) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  731 | Fiscalité locale | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  74 | Dotations et participations (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  75 | Autres produits de gestion courante (3) | 5300,00 | 0,00 | 5715,00 | 5715,00 | 5715,00  |
+|  Total des recettes de gestion courante |  | 5300,00 | 0,00 | 5715,00 | 5715,00 | 5715,00  |
+|  76 | Produits financiers | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  77 | Produits spécifiques (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  78 | Reprises amort., dépréciations, prov. (semi-budgétaires) (3) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  Total des recettes réelles de fonctionnement |  | 5300,00 | 0,00 | 5715,00 | 5715,00 | 5715,00  |
+
+|  042 | Opérations ordre transf. entre sections (4) (5) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  043 | Opérations ordre intérieur de la section (4) | 0,00 |  | 0,00 | 0,00 | 0,00  |
+|  Total des recettes d'ordre de fonctionnement |  | 0,00 |  | 0,00 | 0,00 | 0,00  |
+
+|  TOTAL | 5300,00 | 0,00 | 5715,00 | 5715,00 | 5715,00  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  |  | $+$  |
+|   |  | R 002 RESULTAT REPORTE OU ANTICIPE |  |  | 0,00  |
+|   |  |  |  |  | $=$  |
+|   |  | TOTAL DES RECETTES DE FONCTIONNEMENT CUMULEES |  |  | 5715,00  |
+---
+
+# DEPENSES D'INVESTISSEMENT
+
+|  Chap. | Libellé | Pour mémoire, budget précédent (1) | Restes à réaliser N-1 | Propositions nouvelles (2) | Vote de l'assemblée | TOTAL (= RAR + vote)  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  018 | RSA | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  20 | Immobilisations incorporelles (sauf le 204) (y compris opérations) (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  204 | Subventions d'équipement versées (y compris opérations) (3) (8) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  21 | Immobilisations corporelles (y compris opérations) (3) | 13 159,04 | 0,00 | 17 692,24 | 17 692,24 | 17 692,24  |
+|  22 | Immobilisations reçues en affectation (y compris opérations) (3) (4) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  23 | Immobilisations en cours (sauf 2324) (y compris opérations) (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses d'équipement |  | 13 159,04 | 0,00 | 17 692,24 | 17 692,24 | 17 692,24  |
+|  10 | Dotations, fonds divers et réserves | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  13 | Subventions d'investissement (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  16 | Emprunts et dettes assimilées | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  18 | Cpte de liaison : affectation (BA, régie) (5) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  26 | Participations et créances rattachées | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  27 | Autres immobilisations financières (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses financières |  | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  45 | Chapitres d'opérations pour compte de tiers (6) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses réelles d'investissement |  | 13 159,04 | 0,00 | 17 692,24 | 17 692,24 | 17 692,24  |
+
+|  040 | Opérations entre transf. entre sections (7) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  041 | Opérations patrimoniales (7) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+|  Total des dépenses d'ordre d'investissement |  | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  |
+
+|  TOTAL | 13 159,04 | 0,00 | 17 692,24 | 17 692,24 | 17 692,24  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  |  | 0,00  |
+|   |  |  | D 001 SOLDE D'EXECUTION NEGATIF REPORTE OU ANTICIPE |  | 0,00  |
+|   |  |  |  |  | 17 692,24  |
+|   |  |  | TOTAL DES DEPENSES D'INVESTISSEMENT CUMULEES |  | 17 692,24  |
+---
+
+RECETTES D'INVESTISSEMENT
+
+| Chap. | Libellé | Pour mémoire, budget précédent (1) | Restes à réaliser N-1 | Propositions nouvelles (2) | Vote de l'assemblée | TOTAL (= RAR + vote) |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 018 | RSA | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 13 | Subventions d'investissement (reçues) (sauf le 138) (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 16 | Emprunts et dettes assimilées (4) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 20 | Immobilisations incorporelles (sauf le 204) (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 204 | Subventions d'équipement versées (3) (13) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 21 | Immobilisations corporelles (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 22 | Immobilisations reçues en affectation (3) (5) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 23 | Immobilisations en cours (sauf 2324) (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| Total des recettes d'équipement |  | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 10 | Dotations, fonds divers et réserves (sauf 1068) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 1068 | Excédents de fonctionnement capitalisés (6) | 5 197,75 | 0,00 | 4 533,20 | 4 533,20 | 4 533,20 |
+| 138 | Autres subventions invest. non transf. (3) (7) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 16 | Emprunts et dettes assimilées | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 18 | Cpte de liaison : affectation (BA,régie) (8) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 26 | Participations et créances rattachées | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 27 | Autres immobilisations financières (3) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| 024 | Produits des cessions d'immobilisations | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| Total des recettes financières |  | 5 197,75 | 0,00 | 4 533,20 | 4 533,20 | 4 533,20 |
+| 45... | Chapitres d'opérations pour le compte de tiers (9) | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+| Total des recettes réelles d'investissement |  | 5 197,75 | 0,00 | 4 533,20 | 4 533,20 | 4 533,20 |
+
+![img-0.jpeg](img-0.jpeg)
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE le Budget Primitif « Locaux commerciaux » 2025.
+---
+
+# Délibération n²0250331-14 
+
+## « Choix d'une convention de participation pour le risque « santé » et pour le risque « prévoyance » et mandat au cdg69 pour mener la procédure
+
+Les employeurs publics territoriaux doivent contribuer au financement des garanties d'assurance de protection sociale complémentaire auxquelles les agents qu'ils emploient souscrivent pour couvrir :
+
+- Les risques santé : frais occasionnés par une maternité, une maladie ou un accident,
+- Les risques prévoyance : incapacité de travail, invalidité, inaptitude ou décès.
+
+Cette participation devient obligatoire pour :
+
+- Les risques prévoyance à effet du 1er janvier 2025 (montant minimal de $7 €$ brut mensuel par agent, selon l'article 2 du décret $n^{\circ} 2022-581$ ). Les garanties minimales éligibles à la participation de l'employeur sont l'incapacité de travail et l'invalidité pour $90 \%$ du salaire net,
+- Les risques santé à effet du 1er janvier 2026 (montant minimal de $15 €$ brut mensuel selon l'article 6 du décret $n^{\circ} 2022-581$ ). Les garanties minimales sont celles du « contrat responsable », complétées du « panier de soins $»$.
+
+Cette participation peut être accordée soit au titre de contrats et règlements auxquels un label a été délivré, soit au titre d'une convention de participation. Cette convention est conclue, à l'issue d'une procédure d'appel à concurrence, avec un organisme d'assurance soit par l'employeur, soit par le centre de gestion du ressort de l'employeur.
+
+Les choix opérés par la commune de TALUYERS doivent intervenir après avis du comité technique paritaire ;
+L'article L827-1 du code général de la fonction publique donne compétence aux centres de gestion pour conclure, pour le compte des collectivités territoriales et de leurs établissements publics et afin de couvrir leurs agents au titre des risques relevant de la protection sociale complémentaire, ces conventions de participation.
+La conclusion d'une telle convention de participation doit intervenir à l'issue d'une procédure de mise en concurrence transparente et non discriminatoire prévue par le décret $n^{\circ}$ 2011-1474 du 8 novembre 2011 ;
+Les conventions actuelles de participation en santé et en prévoyance proposées par le cdg69 arrivent à échéance le 31 décembre 2025.
+Le cdg69 mène de nouveau, pour le compte des collectivités qui le demandent, une telle procédure de mise en concurrence afin de choisir un ou des organisme(s) compétent(s) et conclure avec celui-ci (ou ceux-ci) une convention de participation sur le risque santé et une convention de participation sur le risque prévoyance à compter du 1er janvier 2026 ;
+A l'issue de cette procédure de consultation, la commune de TALUYERS conserve l'entière liberté d'adhérer à ces conventions de participation, en fonction des tarifs et garanties proposées et en fonction des risques couverts. L'adhésion à de tels contrats se fera par délibération et après signature d'une convention avec le cdg69.
+
+Après en avoir délibéré,
+Vu les articles L 827-1 et suivants du code général de la fonction publique relatifs à la protection sociale complémentaire,
+Vu le décret $n^{\circ}$ 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents et les quatre arrêtés d'application du 8 novembre 2011,
+Vu le décret $n^{\circ}$ 2022-581 du 20 avril 2022 relatif aux garanties de protection sociale complémentaire et à la participation obligatoire des collectivités territoriales et de leurs établissements publics à leur financement,
+Vu l'avis du comité social territorial du 17/02/2025, pris sur la base de l'article 4 du décret $n^{\circ} 2011-1474$ précité,
+Considérant l'intérêt pour les employeurs de choisir la convention de participation pour participer à la protection sociale complémentaire de leurs agents,
+Considérant l'intérêt de confier la procédure de mise en concurrence et la conclusion de telles conventions au cdg69 afin de bénéficier notamment de l'effet de la mutualisation,
+---
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- SOUHAITE s'engager dans une démarche visant à faire bénéficier ses agents d'une participation financière à leur protection sociale complémentaire :
+- dans le cadre d'une convention de participation pour le risque « santé »
+et
+- dans le cadre d'une convention de participation pour le risque « prévoyance »
+- MANDATE le cdg69 afin de mener pour son compte la procédure de mise en concurrence nécessaire à la conclusion d'une convention de participation pour les risques choisis.
+- S'ENGAGE à communiquer au cdg69 les caractéristiques quantitatives et qualitatives de la population active concernée et autorise le cdg69 à collecter directement auprès des caisses de retraite, pour son compte, les caractéristiques relatives à la population retraitée.
+- PREND ACTE que son adhésion à cette convention de participation n'interviendra qu'à l'issue de la procédure menée par le cdg69, par délibération et après conclusion d'une convention d'adhésion avec le cdg69 et prend acte que la participation brute mensuelle par agent sera due à la date d'effet des conventions en respectant les minimums fixés par décret. La participation sera confirmée par délibération prise en application de l'article 18 du décret $n^{\circ} 2011$ 1474, soit au titre de la sélection de l'offre de l'organisme d'assurance.
+
+
+# Délibération n²0250331-15 
+
+- Approbation d'une convention de mise à disposition d'un outil informatique d'observatoire fiscal avec la Communauté de Communes du Pays Mornantais
+
+La COPAMO s'est dotée d'un logiciel d'observatoire fiscal dénommé « ATELIER FISCAL » avec pour principaux objectifs de :
+
+- Connaître la composition de ses bases fiscales
+- Renforcer le suivi et l'analyse du tissu fiscal
+- Mener un travail conjoint avec l'administration fiscale dans le but d'améliorer l'équité fiscale entre les redevables.
+
+La COPAMO propose de délivrer aux communes du Pays Mornantais intéressées un accès gratuit à l'« ATELIER FISCAL » afin de les aider dans le suivi et l'analyse de leur propre fiscalité et de faciliter leurs prises de décision.
+La convention ci-annexée définit les modalités de mise à disposition par la COPAMO du logiciel de gestion, d'expertise et d'analyse de la fiscalité locale «ATELIER FISCAL».
+
+Vu l'article L. 5214-16-1 du Code Général des Collectivités Territoriales,
+Vu la délibération $n^{\circ}$ CC-2025-001 du Conseil Communautaire de la Communauté de communes du Pays Mornantais du 28 janvier 2025 approuvant la convention de mise à disposition d'un outil informatique d'observatoire fiscal aux communes du Pays Mornantais,
+Vu le projet de convention joint à la présente délibération,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE la convention de mise à disposition de l'outil informatique d'observatoire fiscal "ATELIER FISCAL",
+- AUTORISE Monsieur le Maire ou son délégataire à signer la convention et toutes pièces nécessaires à l'exécution de la présente délibération.
+---
+
+# Délibération n²0250331-16 
+
+## - Mise à jour des règlements d'aides communales en matière d'habitat
+
+La Communauté de Communes du Pays Mornantais (COPAMO) s'est engagée depuis 2008 à apporter aux habitants des solutions de logements diversifiées et financièrement accessibles pour permettre un parcours résidentiel complet. Cet engagement est notamment porté par l'approbation de trois Programmes Locaux de l'Habitat (PLH) successifs.
+Ces PLH ont donnés le jour à différents programmes d'amélioration de l'Habitat privé développant des actions incitatives à destination des propriétaires bailleurs et occupants du territoire.
+La commune de Taluyers s'est engagée, avec la COPAMO à soutenir l'amélioration de l'Habitat privé sur son territoire.
+Aujourd'hui l'Agence Nationale de l'Habitat (Anah) ainsi que la COPAMO et la commune de Taluyers continuent de se mobiliser, en faveur des habitants les plus modestes, afin de :
+
+- favoriser la production de logements à loyers conventionnés avec l'Anah dans le parc privé, tout en privilégiant les logements actuellement vacants et l'amélioration énergétique,
+- permettre l'adaptation les logements des propriétaires occupants en perte de mobilité,
+- soutenir la rénovation énergétique des logements des propriétaires occupants à revenus modestes,
+
+Pour donner suite aux évolutions des aides nationales, la COPAMO a fait évoluer ses aides financières liées à l'habitat (rénovation énergétique, adaptation, conventionnement...)
+Les nouveaux règlements sont désormais votés et entreront en application prochainement.
+
+Il est par conséquent nécessaire de remettre à jour les aides de la commune puisqu'elles étaient rédigées en adéquation avec les aides nationales précédentes.
+
+* Aide à l'adaptation des logements à la perte de mobilité (ADAPT)
+
+La mise à jour concerne les conditions d'octroi : les dossiers éligibles aux aides de la commune doivent répondre aux mêmes conditions minimums que celles exigées par l'Anah dans le cadre de « Maprimadapt».
+Avoir un logement de plus de 15 ans à la date où est acceptée la demande d'aide n'est plus une condition, comme celle de ne pas avoir bénéficié d'un PTZ (Prêt à taux zéro pour l'accession à la propriété) dans les cinq dernières années.
+Une nouvelle condition apparait : ne pas dépasser un niveau de ressources des catégories modestes et très modestes, fixé nationalement par l'ANAH.
+Dans le dossier de demande de subvention, il sera par conséquent demandé l'avis ou les avis d'imposition du foyer n1.
+
+## * Aide à la rénovation énergétique des logements
+
+La mise à jour concerne les bénéficiaires, qui désormais pourront être propriétaire occupant, propriétaire bailleur, usufruitiers, titulaires d'un droit réel conférant l'usage du bien, preneurs d'un bail emphytéotique, preneurs d'un bail à construction ou propriétaires en indivision.
+Les conditions d'octroi sont également modifiées en indiquant qu'il est nécessaire de ne pas dépasser un niveau de ressources fixé nationalement pour les catégories modestes, très modestes.
+La condition de ne pas avoir bénéficié d'un PTZ (Prêt à taux zéro pour l'accession à la propriété) dans les cinq dernières années est supprimée.
+Le montant minimum des travaux est de $5000 €$, les travaux envisagés doivent répondre à une rénovation globale permettant de sauter au moins deux classes au diagnostic de performance énergétique et bénéficier d'une aide de l'Anah dans le cadre de «MaprimRenov Parcours Accompagné».
+
+## * Aide à la production de logements conventionnés
+
+Le règlement s'applique sur l'intégralité du territoire communal et non plus le seul périmètre du centre-bourg.
+Le propriétaire bailleur d'une maison, d'un immeuble ou copropriétaire dans un immeuble collectif peut désormais bénéficier du dispositif.
+Les conditions d'octroi sont modifiées pour la prime de réduction de loyers pour la production de logements à loyers conventionnés avec travaux subventionnés par l'Anah : les propriétaires doivent signer une convention d'engagement
+---
+
+avec l'ANAH, s'engager à pratiquer un loyer intermédiaire, social ou très social pendant une durée minimum de 6 ans et les travaux doivent être réalisés par des professionnels du bâtiment.
+Ces critères ci-dessus sont repris pour la prime de réduction de loyers pour la production de logements à loyers conventionnés sans travaux subventionnés par l'Anah avec la nécessité que le bien doit respecter un niveau de performance énergétique correspondant à la classe $E$
+Enfin, pour la prime à la réalisation de travaux d'amélioration énergétique du logement, Les travaux de rénovation thermique doivent désormais répondre aux critères permettant d'effectuer au moins deux sauts de classe au DPE.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE la mise à jour des règlements d'aides communales en matière d'habitat, tel qu'indiqué ci-dessus,
+- AUTORISE Monsieur le Maire à signer tout document afférent à ce dossier.
+
+
+# Délibération n²0250331-17 
+
+## - Attribution d'une aide aux travaux d'amélioration de la performance énergétique dans le cadre du 3ème PLH à Madame Marie-Anne HARGUINDEGUY
+
+Dans le cadre du 3ème Programme Local de l'Habitat et du programme de transition écologique, la Communauté de Communes du Pays Mornantais a décidé de poursuivre son action relative à l'amélioration du parc privé avec la collaboration des communes du territoire.
+
+Il s'agit notamment d'inciter, grâce à une aide technique et financière, les propriétaires occupants à revenu modeste ou très modeste à entreprendre des travaux de rénovation énergétique de leur logement.
+
+La Commune a approuvé un règlement d'attribution des aides financières lors du conseil municipal du 26 juin 2023.
+Dans ce cadre, il est aujourd'hui proposé au Conseil Municipal d'attribuer une subvention de 20\% du montant des travaux avec une aide plafonnée à $1500 €$, soit $1500 €$ à Madame Marie-Anne HARGUINDEGUY, propriétaire occupante de sa résidence principale située 133 H rue de la Grange à Taluyers, pour des travaux d'amélioration de la performance énergétique.
+
+Les travaux envisagés sont les suivants :
+
+- Isolation Thermique par l'Extérieur.
+- Remplacement des menuiseries.
+- Installation d'un Chauffe-eau Thermodynamique individuel.
+
+Ces travaux répondent aux caractéristiques d'éligibilité définies par la commune et permettent un gain énergétique de $46 \%$.
+
+Les subventions pour le projet se décomposent comme suit :
+
+- $23600 €$ de l'Anah.
+- $1500 €$ de la commune de Taluyers
+- $3800 €$ de la COPAMO.
+- $500 €$ du Conseil Départemental.
+
+Vu la délibération du Conseil communautaire de la Communauté de communes du Pays mornantais n²023-011 du 24 janvier 2023 portant approbation du Programme Local de l'Habitat 2022-2028 du Pays mornantais,
+
+Vu la délibération $n^{\circ}$ 20230626-09 du Conseil Municipal du 26 juin 2023 portant approbation des règlements d'aides à l'amélioration de l'habitat privé dans le cadre du 3ème Programme Local de l'Habitat (PLH) du Pays Mornantais,
+
+Vu la demande déposée par Madame Marie-Anne HARGUINDEGUY, relative au projet d'amélioration de la performance énergétique de sa résidence principale située 133 H rue de la Grange à Taluyers,
+
+Vu la décision d'attribution de la COPAMO n 034/25, en date du 18 février 2025,
+Considérant les travaux envisagés :
+---
+
+Considérant le montant des travaux subventionnables de $40000 €$ HT,
+Considérant que ces travaux rendent le projet éligible à la prime de performance énergétique prévu par la Commune,
+Considérant que la commune de Taluyers attribue une aide de $20 \%$ du montant des travaux avec une aide plafonnée à $1500 €$,
+
+Considérant que cette demande répond aux caractéristiques d'éligibilité définies par la commune,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DECIDE l'attribution d'une subvention d'un montant de $1500 € €$ à Madame Marie-Anne HARGUINDEGUY dans le cadre de travaux d'amélioration de la performance énergétique de sa résidence principale située à Taluyers.
+- AUTORISE Monsieur le Maire à signer tous documents relatifs à l'attribution de cette subvention.
+- DIT que les crédits seront inscrits au Budget principal - exercice 2025
+
+
+# Délibération n²20250331-18 
+
+## - Attribution d'une aide aux travaux d'adaptation dans le cadre du 3ème Programme Local de l'Habitat de la commune de Taluyers à Monsieur Mohamed SIOUANE
+
+Dans le cadre du 3ème Programme Local de l'Habitat et du programme de transition écologique, la Communauté de Communes du Pays Mornantais a décidé de poursuivre son action relative à l'amélioration du parc privé avec la collaboration des communes du territoire.
+
+Il s'agit notamment d'inciter, grâce à une aide technique et financière, les propriétaires occupants à revenu modeste ou très modeste à entreprendre des travaux de rénovation énergétique de leur logement.
+
+La Commune a approuvé un règlement d'attribution des aides financières lors du conseil municipal du 26 juin 2023.
+
+Dans ce cadre, il est aujourd'hui proposé au Conseil Municipal d'attribuer une subvention de 20\% du montant des travaux avec une aide plafonnée à $1500 €$, soit $1113 €$ à Monsieur Mohamed SIOUANE, propriétaire occupant de sa résidence principale située 895 chemin de la rosette à Taluyers, pour des travaux d'adaptation d'un montant subventionnable de $5563 €$ HT.
+
+Les travaux envisagés sont les suivants :
+
+- Aménagement de la salle de bains.
+
+Ces travaux répondent aux caractéristiques d'éligibilité définies par la commune dans le cadre de l'aide à l'adaptation des logements à la perte de mobilité.
+
+Les subventions pour le projet se décomposent comme suit :
+
+- 3222 € de l'Anah.
+- 1113 € de la commune de Taluyers.
+- 1113 € de la COPAMO.
+
+Vu le Code Général des Collectivités Territoriales,
+Vu la délibération du Conseil communautaire de la Communauté de communes du Pays mornantais n²023-011 du 24 janvier 2023 portant approbation du Programme Local de l'Habitat 2022-2028 du Pays mornantais,
+Vu la délibération $n^{\circ}$ 20230626-09 du Conseil Municipal du 26 juin 2023 portant approbation des règlements d'aides à l'amélioration de l'habitat privé,
+Vu la demande déposée par Monsieur Mohamed SIOUANE, relative au projet d'adaptation de sa résidence principale située 895 chemin de la rosette à Taluyers,
+---
+
+Vu la décision d'attribution de la COPAMO n 030/25, en date du 7 février 2025,
+Considérant les travaux envisagés :
+
+- Aménagement de la salle de bains.
+
+Considérant le montant des travaux subventionnables de $5563 €$ HT,
+Considérant que ces travaux rendent le projet éligible à la prime aux travaux d'adaptation prévu par la Commune,
+Considérant que la commune de Taluyers attribue une aide de $20 \%$ du montant des travaux avec une aide plafonnée à $1500 €$,
+Considérant que cette demande répond aux caractéristiques d'éligibilité définies par la commune,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DECIDE l'attribution d'une subvention d'un montant de $1113 €$ à Monsieur Mohamed SIOUANE dans le cadre de travaux d'adaptation de sa résidence principale située à Taluyers.
+- AUTORISE le Maire à signer tous documents relatifs à l'attribution de cette subvention.
+- DIT que les crédits seront inscrits au Budget principal - exercice 2025
+- DIT que la présente décision peut être déférée devant le Tribunal Administratif de Lyon dans un délai de deux mois à compter de sa notification au bénéficiaire et de sa transmission au contrôle de légalité.
+
+
+# Délibération n²0250331-19 
+
+## - Création d'un emploi non-permanent pour accroissement temporaire d'activité
+
+Il est rappelé que l'article L. 332-23 $1^{\circ}$ du code général de la fonction publique autorise le recrutement, sur des emplois non permanents, d'agents contractuels pour un accroissement temporaire d'activité pour une durée maximale de douze mois sur une période consécutive de dix-huit mois, renouvellement compris.
+En raison de l'augmentation des effectifs d'élèves de maternelle au restaurant scolaire (entre 68 et 74 inscrits), la gestion est de plus en plus difficile pour les ATSEM : une attente importante, trop de bruit et le service qui dure trop longtemps.
+La solution envisagée est de passer à 2 services : les petits/moyens en premier et les grands en deuxième. Cette hypothèse nécessite une personne supplémentaire qui serait dans le réfectoire mais également dans la cour si besoin. Or, ces tâches ne peuvent être réalisées par les seuls agents permanents de la collectivité.
+Ainsi, en raison des tâches à effectuer, il est proposé de créer, à compter du 7 avril 2025, un emploi non permanent sur le grade d'adjoint technique dont la durée hebdomadaire de service est de $8 / 35^{\text {ème }}$ et d'autoriser M. le Maire à recruter un agent contractuel pour une durée de 3 mois suite à un accroissement temporaire d'activité au restaurant scolaire des maternelles.
+La rémunération sera fixée par référence au $1^{\text {er }}$ échelon du grade d'adjoint technique auxquelles s'ajoutent les suppléments et indemnités en vigueur.
+M. le Maire. Dans les semaines qui viennent il faudrait calculer le coût global d'entretien des locaux, chauffage, le coût du repas, le coût du personnel. Sur le prix d'un ticket de cantine, la commune participe à hauteur de 2,20€. Il faut rester sur ce montant et voir s'il n'y a pas eu des augmentations qu'il faudrait répercuter potentiellement sur le coût du ticket.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DECIDE de créer un emploi non permanent, tel qu'indiqué ci-dessus, relevant du grade d'adjoint technique pour effectuer les missions de service et surveillance au restaurant scolaire maternelle pour l'accroissement temporaire d'activité d'une durée hebdomadaire de travail égale à $8 / 35^{\text {ème }}$, à compter du 7 avril 2025 pour une durée maximale de 3 mois.
+- DIT que la dépense correspondante sera inscrite au chapitre 012 du budget primitif 2025.
+---
+
+# Délibération n²0250331-20 
+
+## - Approbation de la phase PRO - Maîtrise d'œuvre des travaux d'aménagement d'une plaine ludique et sportive route de Grand Bois
+
+Le cabinet ReGénération - 62 Cours Emile Zola 69100 VILLEURBANNE a été désigné titulaire du marché de maitrise d'œuvre des travaux d'aménagement d'un espace de loisirs route de Grand Bois pour un montant de $17000 €$ HT. Ce montant correspond à un taux d'honoraires de $10 \%$ sur la base d'un montant de travaux qui était estimé en phase programmation à $170000 €$ HT.
+
+La phase PRO a été présentée le 31 mars 2025.
+Cette mission de maîtrise d'œuvre permet :
+
+- de préciser par des plans, coupes et élévations, les formes des différents éléments de la construction, la nature et les caractéristiques des matériaux et les conditions de leur mise en œuvre ;
+- De déterminer l'implantation, et l'encombrement de tous les éléments de structure et de tous les équipements techniques ;
+- D'établir un coût prévisionnel des travaux décomposés par corps d'état, sur la base d'un avant-métré ;
+- De permettre au maître de l'ouvrage, au regard de cette évaluation, d'arrêter le coût prévisionnel de la réalisation de l'ouvrage et, par ailleurs, d'estimer les coûts de son exploitation ;
+- De déterminer le délai global de réalisation de l'ouvrage.
+
+Le projet consiste à réaliser :
+
+- Un cheminement en dur permettant aux usagers du parking de Grand Bois d'accéder dans de meilleures conditions aux passerelles desservant la maison des Associations et le groupe scolaire
+- Un espace multisports intégré au site (foot, hand et basket-ball)
+- Un réagencement du parcours santé en un seul espace plus resserré
+- Un aménagement paysager avec plantation d'arbres et d'arbustes
+
+L'estimation du coût des travaux est fixée, au stade PRO, à $240000,00 €$ HT.
+Conformément au marché de maitrise d'œuvre, la rémunération du maître d'œuvre devient définitive après acceptation par la commune de Taluyers de la phase PRO.
+
+La rémunération définitive du maître d'œuvre sera alors fixée par un avenant portant le montant de ses honoraires, pour cette opération, à $24000,00 €$ HT.
+M. le Maire. Le projet avait été présenté en commission générale et la phase PRO a été présentée aujourd'hui. La commune va pouvoir lancer la consultation pour les travaux afin de réceptionner les travaux avant l'hiver. Je vous rappelle les subventions obtenues : DETR pour $69500 €$ et l'Agence National du Sport pour $40000 €$, soit $45 \%$ des travaux HT.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE la phase PRO du marché de maîtrise d'œuvre des travaux d'aménagement d'une plaine ludique et sportive route de Grand Bois tel qu'indiqué ci-dessus,
+- APPROUVE l'avenant de maîtrise d'œuvre de l'entreprise ReGénération pour un montant de $24000,00 €$ HT,
+- AUTORISE M. le Maire à signer tout document afférent à ce dossier
+---
+
+# Décisions prises par le Maire sur délégation du conseil municipal
+
+|  Préparation, passation, exécution et règlement des marchés < 20 000 € HT |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | Fournisseur/demandeur/intéressé | Montant HT  |
+|  10/02/2025 | Travaux de signalisation et de sécurité des routes - rue de la Bezace | AZ Marquage - ZAC Chantelot - 69520 GRIGNY | $2351,80 €$  |
+|  10/02/2025 | Travaux de signalisation et de sécurité des routes - route de Saint Laurent d'Agny | AZ Marquage - ZAC Chantelot - 69520 GRIGNY | $4888,40 €$  |
+|  21/02/2025 | Suivi et réparation fuite sur toiture de l'église | Toiture des Gones - 6 rue des Muriers 69390 VOURLES | $1822,53 €$  |
+|  27/02/2025 | Diverses fournitures d'espaces verts (Engrais, terreau, paillis, copeaux, etc...) | ECHO-VERT - 7 rue Augustin Fresnel 69680 CHASSIEU | $3607,49 €$  |
+|  28/02/2025 | Travaux pédagogiques de création et restauration de zones humides sur parcelle communale | MFR La petite Gontière - 175 route des Crêtes - 69480 ANSE | $8100,00 €$  |
+|  27/02/2025 | Achat fleurs pour espaces verts | François DESFARGES - 430 chemin de la Gubiannière - 69850 SAINT MARTIN EN HAUT | $1236,30 €$  |
+|  17/03/2025 | Produits d'entretien pour les bâtiments | ORAPI - 42 Avenue de Rome - 13127 VITROLLES | $1556,03 €$  |
+|  13/03/2025 | 11 Corbeilles pour déjections canines | SEPRA - 24 rue des Comtes du Forez 42720 La Bénisson-Dieu | $4418,00 €$  |
+|  17/03/2025 | 4 Corbeilles de ville bi-flux | SEPRA - 24 rue des Comtes du Forez 42720 La Bénisson-Dieu | $3451,00 €$  |
+|  Décision d'aliéner de gré à gré des biens mobiliers jusqu'à 4600 euros ; |  |  |   |
+|  Date | Objet | demandeur/intéressé | Montant  |
+|  Délivrance et reprise des concessions dans les cimetières |  |  |   |
+|  Date | Objet | Durée | Montant  |
+|  26/02/2025 | Concession NC 209 | 30 ans | $340 €$  |
+|  Exercice du droit de préemption |  |  |   |
+|  Date | Désignation du bien | Adresse du bien | Décision  |
+|  21/03/2025 | Immeuble non-bâti | 330 rue de la Mairie | Pas de préemption  |
+|  18/02/2025 | Immeuble non-bâti | 350 rue de la Grange | Pas de réemption  |
+|  06/02/2025 | Bâti sur terrain | 435 rue du Prieuré | Pas de préemption  |
+|  Conclusion et révision du louage de choses |  |  |   |
+|  Date | Objet | demandeur/intéressé | Montant  |
+|  Accepter les indemnités de sinistres |  |  |   |
+|  Date | Objet | demandeur/intéressé | Montant  |
+|  Décision d'intenter au nom de la commune des actions en justice |  |  |   |
+|  Date | Objet | demandeur/intéressé |   |
+|  Décision de créer, modifier ou supprimer les régies comptables |  |  |   |
+|  Date | Objet | demandeur/intéressé |   |
+---
+
+# Tour de table 
+
+Mme Odile BRACHET-CONVERT. Avec Jean-Jacques et Marc on a réuni des forains pour le marché du mercredi matin afin de poser les choses, proposer une installation et communiquer assez rapidement à ce sujet. On aimerait que ça démarre le 9 avril. On aura un poissonnier et un vendeur de vêtements en plus et on va élargir l'espace au niveau de la Place de la Bascule. Ceux qui restent toute la matinée seront prioritaires.
+M. Charles JULLIAN. Remerciements adressés à tous les participants à l'opération Nettoyage de printemps, tout s'est bien passé et cette année on note moins de déchets collectés.
+M. Pierre-Luc GUITTET. J'étais au budget du SYSEG qui a été voté. Les budgets de fonctionnement sont stables et les budgets d'investissement sont en baisse, à la fois sur les eaux pluviales et l'assainissement collectif. Un point a été mis en exergue pour faire évacuer les boues d'assainissement : jusqu'à lors épandu dans des champs vers Genas, les PFAS et une opposition politique font que la mairie de Genas s'y oppose. Depuis deux ans, le SYSEG fait des analyses des PFAS et même si aucune réglementation européenne n'existe, par rapport aux seuils des autres pays qui peuvent servir de référence, on est 4 à 5 points en dessous des seuils.
+M. Loïc TAMISIER. Deux dates à communiquer : le 22 novembre, le CCAS organise une journée sur le handicap et le 13 décembre pour la distribution des colis.
+
+La séance est levée à 21 h 15 .
+Le secrétaire de séance,
+Le Maire,
+Mme Odile BRACHET-CONVERT
+Pascal OUTREBON
+![img-1.jpeg](img-1.jpeg)
+---
+
+.

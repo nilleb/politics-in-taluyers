@@ -1,0 +1,358 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2015-12-14",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "M. Guy DANIEL (Secrétaire de séance)"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Bruno SICARD",
+        "Jean-Pierre MARCONNET",
+        "Martine TREVISANI",
+        "Dominique FONS",
+        "Marc MIOTTO",
+        "Séverine SICHE-CHOL",
+        "Yves CUBLIER",
+        "David SEGURA",
+        "Guy DANIEL",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Loïc TAMISIER",
+        "Isabelle PETIT"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Sylvie ROMAN-CLAVELLOUX"
+        },
+        {
+          "mandant": "Nathalie FORISSIER",
+          "mandataire": "Guy DANIEL"
+        },
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "Audrey MICHALLET",
+        "Véronique GOUTTENOIRE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20151214-01",
+      "titre": "Avenant n°1 à la convention d’archivage avec le Centre de Gestion du Rhône",
+      "resume": "Approbation de l’avenant n°1 à la convention d’archivage avec le Centre de Gestion du Rhône.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-02",
+      "titre": "Assistance juridique avec le Centre de Gestion du Rhône – Participation 2016",
+      "resume": "Approbation de l’avenant à la convention AJ n°94.20 relative à l’assistance juridique du Centre de Gestion du Rhône pour 2016.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-03",
+      "titre": "Convention de fourrière avec la SPA pour l’année 2016",
+      "resume": "Approbation de la convention de fourrière 2016 avec la SPA de LYON et du SUD-EST.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-04",
+      "titre": "Projet de Schéma Départemental de Coopération Intercommunale (SDCI)",
+      "resume": "Avis défavorable sur le projet de regroupement d’EPCI à Fiscalité Propre.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET",
+            "Bruno SICARD",
+            "Martine TREVISANI",
+            "Dominique FONS",
+            "Marc MIOTTO",
+            "Séverine SICHE-CHOL",
+            "Yves CUBLIER",
+            "Guy DANIEL",
+            "Sylvie ROMAN CLAVELLOUX",
+            "Loïc TAMISIER",
+            "Isabelle PETIT"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Pierre MARCONNET",
+            "David SEGURA"
+          ]
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-05",
+      "titre": "Approbation de la charte d’utilisation et des conventions d’échange et de mise à disposition des données géographiques",
+      "resume": "Approbation de la charte d’utilisation du Géoportail intercommunal et l’acte d’engagement l’accompagnant.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-06",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Approbation de la création du poste d’Adjoint administratif de 2ème classe à raison de 28 heures par semaine.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-07",
+      "titre": "Tarifs de la bibliothèque municipale",
+      "resume": "Approbation des nouveaux tarifs d’adhésion à la bibliothèque municipale à compter du 1er janvier 2016.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-08",
+      "titre": "Avis sur le projet de schéma de mutualisation de la COPAMO",
+      "resume": "Approbation de l'avis favorable sur le projet de schéma de mutualisation de la COPAMO.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-09",
+      "titre": "Dénomination du groupe scolaire « Le Courlis Cendré »",
+      "resume": "Approbation de la dénomination du groupe scolaire public de Taluyers « Le Courlis Cendré ».",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-10",
+      "titre": "Mise en place d’études surveillées",
+      "resume": "Décision de faire assurer les missions d’études surveillées par des enseignants contre rémunération.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-11",
+      "titre": "Répartition 2015 du produit 2014 des amendes de police",
+      "resume": "Engagement à réaliser des travaux financés par les amendes de police et acceptation de la subvention.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20151214-12",
+      "titre": "Indemnité de conseil allouée au receveur du Trésor Public",
+      "resume": "Décision d’allouer l’indemnité de conseil au receveur municipal et établissement des montants.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET",
+            "Bruno SICARD",
+            "Martine TREVISANI",
+            "Dominique FONS",
+            "Marc MIOTTO",
+            "Séverine SICHE-CHOL",
+            "Yves CUBLIER",
+            "David SEGURA"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Pierre MARCONNET",
+            "Sylvie ROMAN CLAVELLOUX",
+            "Loïc TAMISIER",
+            "Isabelle PETIT",
+            "Guy DANIEL"
+          ]
+        },
+        "compteur": {
+          "pour": 9,
+          "contre": 0,
+          "abstention": 8
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

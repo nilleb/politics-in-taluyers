@@ -1,0 +1,369 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2015-07-06",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Bruno SICARD",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "Loïc TAMISIER",
+        "Martine TREVISANI",
+        "Véronique GOUTTENOIRE",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Nathalie FORISSIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Séverine SICHE-CHOL",
+          "mandataire": "Jean-Pierre MARCONNET"
+        },
+        {
+          "mandant": "Guy DANIEL",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20150706-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création d'emplois permanents dans le cadre de la municipalisation du service périscolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-02",
+      "titre": "Mise en place de l’entretien professionnel annuel",
+      "resume": "Adoption des critères pour l’entretien professionnel annuel des fonctionnaires.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-03",
+      "titre": "Arrêt du Plan Local d’Urbanisme",
+      "resume": "Arrêt du projet de Plan Local d’Urbanisme pour transmission aux organismes concernés.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-04",
+      "titre": "Convention de groupement de commande pour des travaux de voirie",
+      "resume": "Approbation du projet de convention de groupement de commande pour des travaux de voirie avec la Commune de Mornant.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-05",
+      "titre": "Marché de réaménagement d’un parking enherbé – avenant n°1",
+      "resume": "Approbation de l’avenant n°1 pour le marché de réaménagement du parking enherbé.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-06",
+      "titre": "Demande d’admission en non-valeur",
+      "resume": "Refus de l’admission en non-valeur pour une créance de 1 097,53€ et demande de poursuite du recouvrement.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-07",
+      "titre": "Demande de subvention – Produit des amendes de police",
+      "resume": "Demande de subvention pour des aménagements de sécurité et l’acquisition d’un radar pédagogique.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-08",
+      "titre": "Motion de soutien à l’AMF pour son action sur les conséquences des baisses des dotations de l’Etat au bloc communal",
+      "resume": "Adoption d'une motion de soutien à l’AMF concernant les baisses des dotations de l’Etat.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-09",
+      "titre": "Interventions de bénévoles au service périscolaire – Convention de présence",
+      "resume": "Approbation de la convention de présence pour les bénévoles intervenants dans le service périscolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-10",
+      "titre": "Fixation des tarifs des Temps d’Activités Périscolaires municipaux",
+      "resume": "Approbation des tarifs des activités périscolaires municipales pour la prochaine rentrée scolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-11",
+      "titre": "Convention avec « Orientation vélo » pour l’activité VTT dans le cadre des Temps d’Activités Périscolaire",
+      "resume": "Approbation de la convention avec « Orientation vélo » pour la mise en place d’une activité VTT.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-12",
+      "titre": "Passeport ETAPE – Modification des taux d’aide",
+      "resume": "Modification des taux d’aide financière aux familles dans le cadre du Passeport ETAPE.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-13",
+      "titre": "Souscription du marché de restauration scolaire",
+      "resume": "Approbation du marché de fourniture et livraison de repas pour la restauration scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150706-14",
+      "titre": "Règlement de collecte du SITOM",
+      "resume": "Approbation du nouveau règlement de collecte des déchets du SITOM.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

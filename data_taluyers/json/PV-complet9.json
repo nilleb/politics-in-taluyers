@@ -1,0 +1,230 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2017-07-10",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Charles JULLIAN",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Isabelle PETIT",
+        "Jean-Jacques COURBON",
+        "Séverine SICHE CHOL",
+        "Bruno SICARD",
+        "Marc MIOTTO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Odile BRACHET",
+          "mandataire": "Isabelle PETIT"
+        },
+        {
+          "mandant": "Martine TREVISANI",
+          "mandataire": "Dominique FONS"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Véronique GOUTTENOIRE",
+        "Audrey MICHALLET",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20170710-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création d’un emploi permanent d’adjoint d’animation.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170710-02",
+      "titre": "Convention « bébé lecteur » avec le Département du Rhône",
+      "resume": "Appropriation de la convention Bébé Lecteur pour favoriser la lecture dès le plus jeune âge.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170710-03",
+      "titre": "Souscription du marché de fourniture et livraison de repas",
+      "resume": "Renouvellement du marché de repas pour le restaurant scolaire et la mairie.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170710-04",
+      "titre": "Instauration d’une « cantine familiale »",
+      "resume": "Mise en place d'une solution de restauration chez des assistantes maternelles pour les enfants en maternelle.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170710-05",
+      "titre": "Temps d’Activités Périscolaires : activité d’anglais",
+      "resume": "Mise en place d'une activité d'anglais dans le cadre des TAP.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170710-06",
+      "titre": "Rénovation thermique de la salle d’animation – annulation de l’option",
+      "resume": "Annulation de l'option de récupération des luminaires existants pour le lot électricité.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170710-07",
+      "titre": "Partenariat territorial avec le Département du Rhône",
+      "resume": "Demande de subvention pour les travaux de rénovation thermique de la salle d’animation.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20170710-08",
+      "titre": "Subvention exceptionnelle à l’association « Talus’arts »",
+      "resume": "Octroi d’une subvention à l'association pour l'événement Festiv’arts.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

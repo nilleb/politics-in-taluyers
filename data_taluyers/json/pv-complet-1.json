@@ -1,0 +1,180 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2019-03-25",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Martine TREVISANI",
+        "Séverine SICHE CHOL",
+        "Bruno SICARD",
+        "Dominique FONS",
+        "Odile BRACHET",
+        "Isabelle PETIT",
+        "Marc MIOTTO",
+        "Charles JULLIAN",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Yves CUBLIER",
+        "Audrey MICHALLET",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Jean-Jacques COURBON"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Véronique GOUTTENOIRE",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "David SEGURA",
+        "Jean-Pierre MARCONNET",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": null,
+      "titre": "Approbation du compte de Gestion 2018",
+      "resume": "Le conseil municipal approuve à l'unanimité le compte de gestion 2018 sans observation ni réserve.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Approbation du compte administratif 2018",
+      "resume": "Le conseil municipal approuve à l'unanimité le compte administratif 2018.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Affectation du résultat 2018",
+      "resume": "Le conseil municipal décide à l'unanimité l'affectation des résultats du budget 2018.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Vote des taux d'imposition 2019",
+      "resume": "Le conseil municipal vote à l'unanimité pour ne pas augmenter les taux d'imposition des trois impôts directs locaux pour 2019.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Vote des subventions aux associations et au CCAS",
+      "resume": "Le conseil municipal attribue des subventions aux associations et au CCAS pour l'année 2019 à l'unanimité.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Adoption du budget primitif 2019",
+      "resume": "Le conseil municipal approuve à l'unanimité le budget primitif 2019 pour le budget communal et les locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

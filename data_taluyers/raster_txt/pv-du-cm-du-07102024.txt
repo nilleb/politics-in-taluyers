@@ -1,0 +1,440 @@
+# Lundi 7 octobre 2024 à 19 h 00 
+
+Nombre de conseillers : 23
+En exercice : 21
+Présents : 15
+Votants : 17
+L'an Deux-mille-vingt-quatre, le 7 octobre, le Conseil Municipal s'est réuni en session ordinaire à la Mairie, sous la présidence de Monsieur Pascal OUTREBON, Maire.
+
+Date de convocation du Conseil Municipal : 30 septembre 2024
+Présents : M. Pascal OUTREBON, Mme Séverine SICHÉ-CHOL, M. Jean-Jacques COURBON, Mme Odile BRACHETCONVERT, M. Laurent NAULIN, M. Loïc TAMISIER, M. Charles JULLIAN, Mme Geneviève CASCHETTA, M. Marc MIOTTO, Mme Mireille BERTHOUD, Mme Christiane ROUAND, Mme Emilie GRAU, M. Sylvain NAVARRO, M. Yves CUBLIER, M. Pierre-Luc GUITTET.
+
+Absents excusés : Mme Audrey MICHALLET a donné pouvoir à M. Loïc TAMISIER
+Mme Giada RAVET a donné pouvoir à Mme Odile BRACHET-CONVERT
+Absents : Mme Evelyne VIOLLET, Jean-Louis MONTCEL, M. Stéphane LEMARCHAND, M. Sébastien CHAIZE
+Secrétaire de séance : M. Pierre-Luc GUITTET
+
+Le quorum étant atteint, le conseil municipal peut valablement délibérer.
+
+## - Approbation du procès-verbal de la séance du Conseil municipal du 30 août 2024.
+
+Le PV de la séance du Conseil municipal du 30 août 2024 est approuvé à l'unanimité des votes exprimés.
+
+## Délibération n²0241007-01
+
+## - Modification du tableau des effectifs
+
+Les emplois de chaque collectivité ou établissement sont créés par leur organe délibérant. Il leur appartient donc de fixer l'effectif des emplois à temps complet et non complet nécessaires au fonctionnement des services.
+Également, il est indispensable de mettre à jour ce tableau des effectifs en cas de modification de création, de suppression ou de modification de la durée hebdomadaire d'un poste.
+Compte tenu du délai de saisine du CST du Centre de Gestion, la suppression de poste afférente à la situation cidessous sera approuvée lors d'un prochain conseil municipal.
+
+- Des heures d'entretien des salles de classes du mercredi matin, ainsi que celui du local périscolaire le mardi soir étaient assurées en heures complémentaires, qu'il convient d'intégrer au temps de travail de l'agent les effectuant et qui occupe un emploi d'adjoint d'animation (19,25/35 ${ }^{\text {ème }}$ ).
+Il est proposé la création, au titre des emplois permanents, du poste suivant :
+- 1 poste d'adjoint d'animation (filière animation, catégorie C) à $22 / 35^{\text {ème }}$
+
+En cas de recherche infructueuse de candidats statutaires, cet emploi pourrait être occupé par un agent contractuel recruté pour une durée maximale d'un an sur la base de l'article L.332-14 du Code général de la fonction publique et sa rémunération sera calculée par référence à la grille indiciaire du grade de recrutement.
+---
+
+- L'agent en charge de l'entretien des locaux et du service de restauration du centre de loisirs pour le compte de la SPL voit son temps de travail ajusté du fait des ouvertures connues sur l'année scolaire.
+
+Il est proposé la modification du temps de travail de l'emploi suivant :
+
+- 1 poste d'adjoint d'animation de 31,25/35ème à 32,00/35ème
+
+Vu le Code général des collectivités territoriales,
+Vu le Code de la fonction publique
+Vu la loi $n^{\circ} 84-53$ du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DECIDE de créer le poste tel qu'indiqué ci-dessus ;
+- DECIDE de modifier la quotité horaire du poste d'adjoint d'animation ;
+- MODIFIE le tableau des effectifs en conséquence ;
+
+
+# Délibération n²20241007-02 
+
+## Budget Principal 2024 - Décision Modificative $\mathbf{n}^{\circ} 2$
+
+La Décision Modificative $\mathrm{n}^{\circ} 2$ concerne les points suivants :
+
+## - Fonctionnement
+
+Suite à la dissolution EPARI-SRDC, auquel adhérait la commune de Taluyers, il est prévu que le résultat de la section de fonctionnement du syndicat soit réparti et versé à ses membres adhérents ( $130,10 €$ pour Taluyers) et soit intégré au chapitre 002 .
+
+Compte tenu de l'évolution prévisionnelle des charges à caractère général, notamment liée aux charges d'énergie et au renfort du service technique non budgétisé, il apparaît nécessaire d'anticiper une augmentation de crédits au chapitre 011 .
+
+## - Investissement
+
+Certaines opérations (Matériel écoles, Réfection groupe scolaire, Matériel d'exploitation, Rénovation thermique, Bibliothèque), nécessitent de voir leurs crédits augmentés.
+
+Une subvention de $17384 €$, non prévue au budget et qui concerne les travaux de rénovation énergétique du groupe scolaire, est prise en compte en recette.
+---
+
+|  Désignation | Dépenses |  | Recettes |   |
+| --- | --- | --- | --- | --- |
+|   | Diminution de crédits | Augmentation de crédits | Diminution de crédits | Augmentation de crédits  |
+|  FONCTIONNEMENT |  |  |  |   |
+|  R-002 : Résultat de fonctionnement reporté | 0,00 € | 0,00 € | 0,00 € | 130,10 €  |
+|  TOTAL R 002 : Résultat de fonctionnement reporté | 0,00 € | 0,00 € | 0,00 € | 130,10 €  |
+|  D-60612 : Fournitures non stockables - Energie - Électricité | 0,00 € | 5 000,00 € | 0,00 € | 0,00 €  |
+|  TOTAL D 011 : Charges à caractère général | 0,00 € | 5 000,00 € | 0,00 € | 0,00 €  |
+|  D-7392221 : Fonds de péréquation des ressources communales et intercom | 0,00 € | 21 129,00 € | 0,00 € | 0,00 €  |
+|  TOTAL D 014 : Atténuations de produits | 0,00 € | 21 129,00 € | 0,00 € | 0,00 €  |
+|  D-023 : Virement à la section d'investissement | 25 998,90 € | 0,00 € | 0,00 € | 0,00 €  |
+|  TOTAL D 023 : Virement à la section d'investissement | 25 998,90 € | 0,00 € | 0,00 € | 0,00 €  |
+|  Total FONCTIONNEMENT | 25 998,90 € | 25 129,00 € | 0,00 € | 130,10 €  |
+|  INVESTISSEMENT |  |  |  |   |
+|  R-021 : Virement de la section de fonctionnement | 0,00 € | 0,00 € | 25 998,90 € | 0,00 €  |
+|  TOTAL R 021 : Virement de la section de fonctionnement | 0,00 € | 0,00 € | 25 998,90 € | 0,00 €  |
+|  R-1328-277 : RENOVATION THERMIQUE GROUPE SCOLAIRE | 0,00 € | 0,00 € | 0,00 € | 17 384,00 €  |
+|  TOTAL R 13 : Subventions d'investissement | 0,00 € | 0,00 € | 0,00 € | 17 384,00 €  |
+|  D-21318-273 : BIBLIOTHEQUE | 0,00 € | 2 500,00 € | 0,00 € | 0,00 €  |
+|  D-21318-277 : RENOVATION THERMIQUE GROUPE SCOLAIRE | 0,00 € | 5 800,00 € | 0,00 € | 0,00 €  |
+|  D-2158-225 : AQUISITION MATERIEL EXPLOITATION | 0,00 € | 2 400,00 € | 0,00 € | 0,00 €  |
+|  D-2158-239 : Réfection groupe scolaire | 0,00 € | 2 390,00 € | 0,00 € | 0,00 €  |
+|  D-2158-261 : MATERIEL ECOLES | 0,00 € | 3 930,00 € | 0,00 € | 0,00 €  |
+|  D-2181-253 : AMÉNAGEMENT ESPACES VERTS PUBLIC | 25 634,90 € | 0,00 € | 0,00 € | 0,00 €  |
+|  TOTAL D 21 : Immobilisations corporelles | 25 634,90 € | 17 020,00 € | 0,00 € | 0,00 €  |
+|  Total INVESTISSEMENT | 25 634,90 € | 17 020,00 € | 25 998,90 € | 17 384,00 €  |
+|  Total Général |  | 8 484,80 € |  | 8 484,80 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **APPROUVE** la Décision Modificative n°2 du budget communal – exercice 2024, tel qu'indiqué ci-dessus.
+
+### Délibération n°20241007-03
+
+- Mandat spécial aux élus municipaux pour déplacement à Paris dans le cadre du 106ème Congrès des Maires
+
+Le Congrès des Maires de France est un événement annuel qui rassemble les élus de toute la France pour échanger sur les enjeux et les perspectives des collectivités territoriales.
+
+Le Maire et les adjoints représentent la commune et ont vocation à participer à cet événement dans l'intérêt de la collectivité locale.
+
+La prise en charge des frais de participation est prévue par l'article L 2123-18 du Code Général des Collectivités Territoriales.
+
+À cet effet, il est proposé de donner mandat spécial :
+---
+
+- Au Maire, Monsieur Pascal OUTREBON
+- A Mme Séverine SICHE-CHOL, 1ère adjointe
+- A Mme Odile BRACHET-CONVERT, 3ème adjointe
+- A M. Charles JULLIAN, conseiller délégué
+
+Monsieur Pascal OUTREBON, Mme Séverine SICHE-CHOL, Mme Odile BRACHET-CONVERT et M. Charles JULLIAN ne prennent pas part au vote.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- DONNE mandat spécial au Maire, Pascal OUTREBON, à Mme Séverine SICHE-CHOL, 1ère adjointe, à Mme Odile BRACHET-CONVERT, 3ème adjointe et à M. Charles JULLIAN, conseiller délégué, dans le cadre d'un déplacement à Paris pour le $106^{\text {ème }}$ Congrès des Maires de France qui se déroulera du 19 au 21 novembre 2024,
+- AUTORISE la prise en charge uniquement des frais de nuitées et de transport liés à ce mandat spécial par paiement direct aux fournisseurs ou par remboursement a posteriori des frais avancés aux élus susmentionnés, aux frais réels engagés, sur présentation des justificatifs de dépenses.
+- INDIQUE qu'un compte rendu de la participation au congrès sera présenté lors d'une séance ultérieure du conseil municipal.
+
+
+# Délibération n²0241007-04 
+
+Renouvellement du dispositif de signalement des actes de violence, discrimination, harcèlement et agissements sexistes avec le Centre de Gestion du Rhône
+
+L'article L135-6 du Code général de la fonction publique prévoit l'obligation de mise en place d'un dispositif de signalement des actes de violence, discrimination, harcèlement et agissements sexistes pour les employeurs des 3 versants de la fonction publique.
+Les objectifs majeurs de ce dispositif sont les suivants :
+
+- Effectivité de la lutte contre tout type de violence, discrimination, harcèlement et en particulier les violences sexuelles et sexistes
+- Protection et accompagnement des victimes
+- Sanction des auteurs
+- Exemplarité des employeurs publics
+
+Le Centre de Gestion du Rhône et de la Métropole de Lyon (CDG69) propose depuis 2021 une nouvelle prestation pour la mise en œuvre de ce dispositif obligatoire. Il a choisi de piloter ce dispositif par l'intermédiaire d'un contrat auprès de prestataires externes afin de garantir une totale indépendance entre les conseils dispensés aux employeurs par les services du cdg69 et l'accompagnement et le soutien prévu par le dispositif en direction des agents.
+Depuis 2023, la commune de Taluyers adhère à ce dispositif de signalement pour ses agents dans le cadre de la convention d'adhésion précédente qui arrive à terme.
+Les collectivités qui le demandent peuvent renouveler ou adhérer au dispositif qui comprend a minima les composantes ci-après :
+
+- Une procédure de recueil des signalements effectués par les agents s'estimant victimes ou témoins de tels actes ou agissements,
+- Une procédure d'orientation des agents s'estimant victimes de tels actes ou agissements vers les services et professionnels compétents chargés de leur accompagnement et de leur soutien,
+- Une procédure d'orientation des agents s'estimant victimes ou témoins de tels actes ou agissements vers les autorités compétentes pour prendre toute mesure de protection fonctionnelle appropriée.
+Cette adhésion permet à la collectivité de répondre aux obligations fixées par le décret $n^{\circ} 2020-256$.
+Les collectivités verseront une participation annuelle à la mise en place du dispositif dont le montant est fixé dans la convention d'adhésion. Les collectivités dont un ou plusieurs agents effectuent un signalement via la plateforme devront verser au prestataire en charge de l'orientation et de l'accompagnement des agents et, le cas échéant, du traitement du signalement, une participation correspondant aux prestations délivrées dans ce cadre.
+L'accès à la plateforme et le pilotage du dispositif sont assurés par le cdg69, en lien avec le prestataire.
+---
+
+L'adhésion au dispositif se matérialise par la signature d'une convention d'adhésion avec le cdg69 et d'un certificat d'adhésion tripartite (cdg69, bénéficiaire et prestataire) qui fixe les conditions de mise en œuvre de l'accompagnement des agents et des employeurs le cas échéant.
+Il est à noter que les statistiques fournies par les prestataires font état d'un nombre annuel de signalements correspondant à $1 \%$ de l'effectif.
+La durée de la convention est de quatre ans.
+
+Vu les articles L135-6 et L452-43 du Code général de la fonction publique,
+Vu le décret $n^{\circ} 2020-256$ du 13 mars 2020 relatif au dispositif de signalement des actes de violence, de discrimination, de harcèlement et d'agissements sexistes dans la fonction publique,
+Vu la convention d'adhésion au dispositif de signalement des actes de violence, de discrimination, de harcèlement et d'agissements sexistes dans la fonction publique annexée et le certificat tripartite avec le cdg69 et le cabinet Strada avocats,
+Considérant l'intérêt pour la commune de Taluyers d'adhérer au dispositif précité,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE la convention d'adhésion ci-annexée à intervenir avec le cdg69 et d'autoriser M. le Maire à la signer ainsi que le certificat d'adhésion tripartite pour la période s'étalant du 1er janvier 2025 au 31 décembre 2028, ainsi que leurs éventuels avenants.
+- APPROUVE le paiement annuel au cdg69 d'une somme de 200 euros relative aux frais de gestion et au pilotage du contrat jusqu'au terme de la convention et calculée compte tenu de ses effectifs qui comptent 32 agents.
+- DE PROVISIONNER une somme annuelle correspondant aux signalements potentiels, égale à $1 \%$ de l'effectif $x$ $520 €$ (coût moyen de traitement), soit une enveloppe de $160 €$.
+- DIT que les dépenses inhérentes à la mise en œuvre de la présente délibération seront imputées sur le budget de l'exercice correspondant.
+
+
+# Délibération n²0241007-05 
+
+## Convention tripartite entre le Département du Rhône, la COPAMO et la commune de Taluyers, relative au financement et à la réalisation d'une aire de covoiturage au lieu-dit «Le Bâtard»
+
+Dans le cadre de sa politique « Mobilités », la Communauté de Communes du Pays Mornantais (COPAMO), envisage de réaliser des travaux d'aménagement d'un parking relais et covoiturage sur la RD 105 au lieu-dit le Bâtard, à la hauteur du carrefour avec la RD 342 sur la commune de Taluyers.
+
+Une convention réunissant le Département du Rhône, la COPAMO et la commune de Taluyers a été établie afin de définir les équipements à réaliser, le programme technique des travaux, les engagements financiers ainsi que les modalités d'entretien incombant aux parties ;
+
+La COPAMO est autorisée, pour la durée des travaux visés, à occuper et à intervenir, jusqu'à la réception ou la levée des réserves des ouvrages édifiés, à ses risques et périls et sous sa responsabilité, sur le domaine public du Département.
+
+Les travaux que la COPAMO s'oblige à réaliser consistent à aménager :
+
+- un parking pour 15 vélos (box et arceaux)
+- une aire de covoiturage de 9 places pour véhicules légers à proximité de l'arrêt des cars du Rhône situé sur la RD 342
+- une liaison piétonne entre le parking et les arrêts de cars en bordure de la RD 342.
+
+L'ensemble de la chaussée, les trottoirs et accotements situés sur la RD105 font partie du domaine public du Département.
+
+L'ensemble des équipements situés et créés pour le P+R sera entretenu par la commune de Taluyers.
+
+La COPAMO assure l'intégralité du financement des travaux évalués à $75440,00 €$ HT.
+---
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE la convention tripartite entre le Département du Rhône, la COPAMO et la commune de Taluyers relative au financement et à la réalisation d'une aire de covoiturage au lieu-dit « Le Bâtard », ci-annexée,
+
+- AUTORISE M. le Maire à la signer, ainsi que leurs éventuels avenants.
+
+# Délibération n²0241007-06 
+
+## Approbation de la Convention Territoriale Globale (CTG)
+
+La Convention Territoriale Globale (CTG) est une démarche qui vise à mettre les ressources de la Caisse d'Allocations Familiales (CAF), tant financières que d'ingénierie, au service d'un projet de territoire afin de délivrer une offre de services complète, innovante et de qualité à destination des familles.
+
+La généralisation des CTG met un terme définitif aux Contrats Enfance Jeunesse (CEJ) et permet de mettre en application la nouvelle Convention d'Objectifs et de Gestion qui lie la Caisse Nationale des Allocations Familiales et l'Etat depuis 2023.
+
+Allant au-delà des compétences en matière de Petite enfance, Enfance et Jeunesse transférées à la Copamo, la CTG 2024-2028 à conclure avec la CAF du Rhône doit être approuvée par la Copamo et par toutes ses communes membres.
+
+Les objectifs de la CTG
+
+- Construire un projet social de territoire, global et adapté aux besoins des familles
+- Partager des orientations et leurs modalités de mise en œuvre pour une plus grande lisibilité, efficience et complémentarité des actions menées
+- Renforcer et rationaliser la gouvernance partenariale.
+
+La nouvelle CTG s'appuiera notamment sur l'ensemble des actions déjà réalisées dans la précédente, qui ont une récurrence dans le temps et qui sont considérées comme structurantes sur le territoire. Cette opportunité permet de pérenniser les politiques de la petite enfance, l'enfance, la jeunesse, la parentalité, du logement, de l'accès aux droits et de l'accompagnement social, et d'en développer de nouvelles comme l'Animation de la Vie Sociale. La CTG, grâce à sa diversité des thématiques abordées, permet, en effet, d'avoir une vision globale des politiques du territoire et d'en développer de nouvelles en fonction des besoins et des attentes de la population.
+
+Les principaux domaines de notre dernière CTG
+
+- La petite enfance : Etablissements d'Accueil du Jeune Enfant (EAJE), Relais Petite Enfance (RPE), Passerelle Enfance
+- L'enfance : Accueils Collectifs de Mineurs (ACM)
+- La jeunesse : Structure Locale d'Information Jeunesse, séjours, projets « citoyenneté »
+- La parentalité : Lieu d'Accueil Enfants Parents (LAEP), Médiation Familiale, soutien des familles confrontées à des événements fragilisant
+- L'accès et le maintien dans le logement : Fonds de solidarité, logement, lutte contre l'indécence et les impayés de loyer...
+- L'accès aux droits et aux services : rendez-vous des droits, France Services
+- L'accompagnement social
+
+
+## Les enjeux et objectifs de la nouvelle CTG
+
+- La petite enfance :
+- Veiller à garder un équilibre entre les différents modes de garde
+- Proposer une politique « Petite Enfance » avec des valeurs communes
+- L'enfance :
+- Développer un mode de garde éducatif de qualité pour tous les enfants du territoire, ainsi qu'une cohérence éducative entre les acteurs
+- La jeunesse :
+- Proposer une politique jeunesse globale sur le territoire en concertation avec les communes
+- La parentalité :
+---
+
+- Renforcer l'accompagnement à la parentalité sur le territoire
+- Logement :
+- Proposer une politique de l'habitat et du logement cohérente en adéquation avec les besoins des familles du territoire
+- Accès aux droits :
+- Simplifier les interactions des usagers avec l'administration
+- Réduire la fracture numérique
+- Accompagnement social :
+- Outiller les CCAS pour répondre aux besoins et renforcer l'accompagnement social des usagers
+- Repérer les besoins sociaux sur le territoire et y apporter des réponses adaptées
+- Accueillir puis accompagner les familles déplacées ukrainiennes
+- Animation de la Vie Sociale :
+- Accompagner la démarche de création d'un espace de vie sociale
+- Pilotage et coopération :
+- Demander le financement d'1/2 poste supplémentaire de coopérateur CTG justifié par le nombre constant de dispositifs développés sur le territoire et du maillage partenarial, correspondant à toute la coordination sur le champ du handicap, avec tous les dispositifs déjà existants et à développer.
+
+Un processus, des aides et des ressources nouvelles
+
+- Accompagnement des techniciens par la CAF sur l'élaboration du diagnostic territorial partagé et de l'évaluation présentée le 4 juin 2024 en Commission d'instruction «Solidarités et Vie sociale».
+- Programmation d'un plan d'actions pluriannuel et spécifique au territoire avec des financements associés.
+- Des nouvelles demandes de cofinancement de poste.
+- Mise en œuvre d'un COPIL de gouvernance de la CTG et de sous COPIL thématiques permettant de rendre compte de l'avancée des actions et d'en évaluer l'efficacité et la pertinence.
+
+Vu l'avis favorable du Conseil Communautaire de la Copamo du 24 septembre 2024,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE la Convention Territoriale Globale (CTG) avec la CAF du Rhône, pour la période du 1er janvier 2024 au 31 décembre 2028, telle que jointe à la présente délibération,
+- AUTORISE M. le Maire à signer tout document permettant la mise en place de cette CTG.
+
+
+# Délibération n²0241007-07 
+
+Avenant à la convention relative au versement d'un fonds de concours avec la COPAMO pour les travaux de la rue du Prieuré/rue des Blanchardes/partie de la rue Saint-Marc
+
+Par délibération $n^{\circ} 20221003-08$ en date du 03/10/2022, le conseil municipal a approuvé une convention relative au versement d'un fonds de concours à la COPAMO pour les travaux d'aménagement des rues du Prieuré, des Blanchardes et une partie de la rue Saint-Marc.
+
+Les études d'Avant-Projet et de Projet lancées en janvier 2023, puis la consultation des entreprises de travaux au printemps 2024, ont permis de redéfinir plus précisément le coût prévisionnel et le phasage. De nouvelles recettes ont également été obtenues lors de demandes de subventions.
+
+S'agissant de la planification, la première phase comprendra les travaux de la rue du Prieuré et une partie de ceux de la rue Saint-Marc attenante pour un montant estimé à $625000 €$ HT. Les travaux sont programmés entre fin 2024 et début 2025 .
+
+La deuxième phase comprendra le reste des travaux de la rue Saint-Marc ainsi que ceux de la rue des Blanchardes pour un montant estimé à $575000 €$ HT. Aucune planification n'est retenue à ce stade pour la deuxième phase.
+
+Pour tenir compte du nouveau montant de l'opération, d'une nouvelle répartition géographique et temporelle des travaux, il est décidé de modifier par avenant le montant co-financé par la Commune (participation calculée à partir du montant HT restant à charge de la Copamo, déduction faite des subventions) de la manière suivante :
+
+- Rue St Marc représentant $33 \%$ du total de l'opération : voie hiérarchisée $\mathrm{n}^{\circ} 1$ au Schéma Directeur de la Voirie justifiant un co-financement à hauteur de $42 \%$ par la commune
+---
+
+- Rue du Prieuré et rue des Blanchardes représentant 67% du total de l'opération : voie hiérarchisée n°3 au Schéma Directeur de la Voirie justifiant un co-financement à hauteur de 50% par la commune
+
+Le montant de la participation de la commune est ainsi estimé à 537 891,20 €.
+
+Montant total de l'opération : 1 235 000 € HT
+
+Déduction des subventions : Pacte Rhône 2 : 99 250 €
+
+Reste à charge : 1 135 750 €
+
+O Phase 1 : (660 000 - 99 250) = 560 750 €
+
+O Phase 2 : 575 000 €
+
+PHASE 1
+
+Montant payable pour les études et la phase 1 des travaux : 265 571,20 €
+
+Montant déjà réglé à la date du présent avenant : 2 x 19 572 € = 39 144 €
+
+Reste à payer pour les études et la phase 1 : 265 571,20 € - 39 144 € = 226 427,20 €
+
+PHASE 2
+
+Montant payable pour la phase 2 des travaux : 272 320 €
+
+Le montant dû par la commune pour la phase travaux est recalculé pour chaque tranche engagée.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **APPROUVE** l'avenant ci-annexé de la convention relative au versement d'un fonds de concours avec la COPAMO pour les travaux de la rue du Prieuré/Rue des Blanchardes/partie de la rue Sant-Marc,
+- **AUTORISE** M. le Maire à signer l'avenant correspondant.
+
+Délibération n°20241007-08
+
+- Convention d'occupation des locaux municipaux par les associations – 2025 à 2027
+
+Par délibération en date du 28 mars 2022, le conseil municipal avait approuvé les conventions d'occupation des locaux par les associations talusiennes pour la période 2022-2024.
+
+Chaque convention, d'une durée de 3 ans, décrit les locaux occupés par l'association et mentionne le montant de la redevance versée.
+
+Elle précise aussi que les frais liés au chauffage, la fourniture d'électricité et d'eau sont pris en charge par la commune de Taluyers.
+
+Chaque association aura souscrit une assurance pour la couverture des risques locatifs et sa responsabilité.
+
+Enfin, la commune de Taluyers se réserve le droit de résilier, à tout moment, la convention en cas d'inobservation par l'utilisateur des obligations à sa charge. Elle pourra également le faire si les locaux doivent être affectés à une autre utilisation pour des motifs d'intérêt général.
+
+Les associations concernées sont les suivantes :
+
+|  ASSOCIATION | REDEVANCE
+ANNUELLE  |
+| --- | --- |
+|  CAP SENIORS | 250 €  |
+|  TENNIS CLUB DE TALUYERS | 2 500 €  |
+|  YATAGARASU et KAÏDO | 100 €  |
+---
+
+| PRIEURITES TALUSIENNES | $100 €$ |
+| :-- | --: |
+| TAL'LA FORME | $1500 €$ |
+| TALUS'ARTS | $450 €$ |
+| FCSO 69 | $4000 €$ |
+| IMPRO LES PRIMEVERES | $260 €$ |
+| ECOLE DE JUDO | $400 €$ |
+| LES VOIES DU BIEN ÊTRE | $100 €$ |
+| ECOLE DE MUSIQUE | $5000 €$ |
+| ALEGRIA CHORALE | $100 €$ |
+| ATELIER PASSION | $200 €$ |
+| AMICALE BOULES | $500 €$ |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE les conventions d'occupation des locaux par les associations de Taluyers pour la période 2025 à 2027 ,
+- AUTORISE Monsieur le Maire à signer tout document afférent à ce dossier
+
+
+# Délibération n²20241007-09 
+
+Renouvellement de l'adhésion à un groupement de commandes pour l'achat d'électricité et de services associés et autorisation de signer les marchés et/ou accords-cadres et marchés subséquents.
+Conformément au Code de l'Energie, les tarifs réglementés de vente d'électricité sont supprimés depuis le 1er janvier 2016, pour les sites ex tarifs « Jaunes » et « Verts » dont la puissance souscrite est supérieure à 36 kVA .
+La loi Energie Climat du 8 novembre 2019 a organisé la fin des Tarifs Réglementés de Vente (TRV) d'électricité pour les consommateurs finaux non domestiques, tarifs correspondants aux contrats de fourniture d'électricité d'une puissance souscrite inférieure ou égale à 36 kVA .
+En conséquence, au 1er janvier 2021, seuls les clients domestiques et les clients non domestiques employant moins de 10 personnes et dont le chiffre d'affaires, les recettes ou le total de leur dernier bilan annuel n'excèdent pas 2 millions d'euros, seront encore éligibles aux TRV. Dans ce contexte, le renouvellement d'un groupement de commandes est envisagé pour l'achat d'électricité coordonné par le SYDER. Ce groupement est à même d'apporter aux pouvoirs adjudicateurs et entités adjudicatrices, une réponse à ces nouvelles dispositions réglementaires en leur permettant de se mettre en conformité avec la loi, tout en optimisant leur procédure de mise en concurrence.
+Le groupement sera ouvert aux communes et Etablissement Publics de Coopération Intercommunale (EPCI) du périmètre du SYDER. Le groupement couvre l'ensemble des contrats des établissements publics, y compris ceux qui ne sont pas soumis à une obligation de mise en concurrence dans le cadre des TRV.
+Vu le Code de la Commande Publique et notamment ses articles L2113-6 à L2113-8 ;
+Vu le Code Général des Collectivités Territoriales ;
+Vu la convention constitutive du groupement de commandes pour l'achat d'électricité et de services associés jointe en annexe ;
+Le coordonnateur du groupement sera le Syndicat Départemental d'Energies du Rhône (SYDER). Il sera chargé d'organiser, dans le respect du droit des Marchés Publics, l'ensemble des opérations de sélection d'un ou de plusieurs prestataires afin de répondre aux besoins exprimés par les membres du groupement.
+Le coordonnateur est également chargé de signer et de notifier les accords-cadres ou les marchés qu'il conclut ; chaque membre du groupement, pour ce qui le concerne, s'assurant de leur bonne exécution.
+En outre, le coordonnateur est chargé de conclure les avenants aux accords-cadres et marchés passés dans le cadre du groupement.
+La Commission d'Appel d'Offre du groupement sera celle du coordonnateur du groupement, le SYDER.
+---
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- ACCEPTE les termes du projet de convention constitutive du groupement de commandes pour l'achat d'électricité et de services associés, annexé à la présente délibération,
+- AUTORISE l'adhésion de la commune au groupement de commandes à intervenir ayant pour objet l'achat d'électricité et de services associés,
+- AUTORISE le Maire ou son représentant à signer la convention de groupement, et toutes autres pièces nécessaires,
+- AUTORISE le représentant du coordonnateur à signer les marchés, accords-cadres et marchés subséquents issus du groupement de commandes pour le compte de la commune de Taluyers
+
+Rapport annuel 2023 de la COPAMO - Communauté de communes du Pays Mornantais Le rapport est présenté par M. le Maire, Vice-Président de la COPAMO, le document est disponible à l'accueil de la mairie
+
+Rapport annuel 2023 du SITOM - Syndicat Intercommunal de Traitement des Ordures Ménagères Le rapport est présenté par M. le Maire, Vice-Président du SITOM, le document est disponible à l'accueil de la mairie
+
+Décisions prises par le Maire sur délégation du conseil municipal
+
+|  Préparation, passation, exécution et règlement des marchés < 20 000 € HT |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | Fournisseur/demandeur/intéressé | Montant HT  |
+|  02/09/2024 | Contrôle de la structure d'escalade de la salle d'animation | ALTHUS - 31 rue Laure Diebold - 69009 LYON | $498,00 €$ HT  |
+|  04/09/2024 | Abattage des 4 muriers platanes morts devant la salle d'animation, plantation de 4 nouveaux arbres | MVERT - 256 route du Batard - 69440 TALUYERS | $2730,00 €$ HT  |
+|  12/09/2024 | Ajout de Léon Marchand sur la fresque | ART ET SENS - 32 route de Chaussan 69440 CHABANIERE | $1400,00 €$ HT  |
+|  13/09/2024 | Achat d'une cabane en bois pour la cour de l'école maternelle | LEROY-MERLIN - Les 7 Chemins - 69390 VOURLES | $1991,67 €$ HT  |
+|  16/09/2024 | Modernisation du Wi-fi de l'école élémentaire | FLEXINFO - 33 rue de Belissen - 69340 FRANCHEVILLE | $1238,00 €$ HT  |
+|  17/09/2024 | Travaux de signalisation - Montée de l'église | AZ Marquage - ZAC Chantelot - 69520 GRIGNY | $2029,60 €$ HT  |
+|  17/09/2024 | Travaux de signalisation - Montée du Chauchay | AZ Marquage - ZAC Chantelot - 69520 GRIGNY | $1719,10 €$ HT  |
+|  23/09/2024 | Formation 1ers secours PSC1 | CASC Formation du SDMIS | $559,00 €$ HT  |
+|  30/09/2024 | Rayonnages pour stockage des produits d'entretien | MARTINON - 40 rue Elsa Triolet - 69360 COMMUNAY | $1604,45 €$ HT  |
+|  30/09/2024 | Livraison d'Im3 de gasoil pour véhicules des services techniques | CHARLES COMBUSTIBLES - ZI de Stelytec - 42400 SAINT CHAMOND | $1297,00 €$ HT  |
+|  Décision d'aliéner de gré à gré de biens mobiliers jusqu'à 4600 euros ; |  |  |   |
+|  Date | Objet | demandeur/intéressé | Montant  |
+|  Délivrance et reprise des concessions dans les cimetières |  |  |   |
+|  Date | Objet | Durée | Montant  |
+|  01/10/2024 | Renouvellement de la concession NC 030 | 15 ans | $200 €$  |
+|  Exercice du droit de préemption |  |  |   |
+|  Date | Désignation du bien | Adresse du bien | Décision  |
+|  Conclusion et révision du louage de choses |  |  |   |
+|  Date | Objet | demandeur/intéressé | Montant  |
+|  Accepter les indemnités de sinistres |  |  |   |
+|  Date | Objet | demandeur/intéressé | Montant  |
+---
+
+|  Décision d'intenter au nom de la commune des actions en justice |  |   |
+| --- | --- | --- |
+|  Date | Objet | demandeur/intéressé  |
+|  Décision de créer, modifier ou supprimer les régies comptables |  |   |
+|  Date | Objet | demandeur/intéressé  |
+|  12/09/2024 | Modification d'une régie de recettes | Régie « Action sociale et communication » qui encaisse les recettes issues de la manifestation « Terre de Jeux »  |
+
+# Tour de table
+
+M. Laurent NAULIN. Concernant la vidéoprotection, on a une première réunion vendredi et les premiers relevés sur site. Les devis d'aiguillage sont à venir avec les plans de réalisation. Les travaux pour la baie informatique seront lancés en novembre. Une réunion de travail a eu lieu avec le chargé de mission du développement du photovoltaïque pour un déploiement sur Taluyers. Les sanitaires du Parc Pie X seront installés au $1^{\text {er }}$ trimestre 2025. Mme Odile BRACHET. L'espace jeunes a rouvert tous les samedis matin. La fréquentation est un peu faible pour l'instant avec les jeunes collégiens. Il faut communiquer davantage sur les projets d'animation car les jeunes ne confirment qu'au dernier moment, ce qui est un peu compliqué à gérer. La rentrée scolaire s'est bien passée, on a tout notre personnel. La réserve citoyenne est mise en route avec 8 personnes disponibles auxquelles on a déjà fait appel. Un constat que j'ai pu faire à la pause méridienne : beaucoup de bruit. Un travail est en cours avec Pauline et les enseignants. M. Charles JULLIAN. Une réunion avec les agriculteurs est programmée le 8 novembre en présence de la chargée de mission agriculture de la COPAMO. Des panneaux informant de la présence de pièges photos/surveillance faune sauvage seront installés là où on a constaté des dépôts sauvages. M. Marc MIOTTO. Une rencontre a été organisée avec la société Mvert pour faire un bilan sur les arbres de la Place de la Bascule et ceux situés en face de la salle d'animation. Pour les platanes de la Place de la Bascule, 3 sont en mauvais état et il est préconisé de les abattre. Avant intervention, il faudra bien communiquer pour expliquer cette décision. Cela se déroulera en janvier/février 2025 en même temps qu'un léger élagage des grands arbres à l'arrière de la Maison des Associations qui commencent à toucher les bâtiments. M. Loïc TAMISIER. Samedi l'animation pour octobre rose s'est bien déroulé et $127 €$ de dons ont été récoltés. Pour rappel, le repas des anciens se déroulera ce samedi et le mardi 15 octobre le spectacle «Ô rage de vivre» se déroulera à la salle d'animation.
+
+Mme Séverine SICHE-CHOL. Le marché du jeudi soir a été une belle première avec une belle inauguration.
+
+La séance est levée à 21 h 15 .
+
+Le secrétaire de séance, M. Pierre-Luc GUITTET Le Maire, Pascal OUTREBON M. Pierre-Luc GUITTET
+---
+
+.

@@ -1,0 +1,139 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2015-08-31",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Bruno SICARD",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "Loïc TAMISIER",
+        "Martine TREVISANI",
+        "Véronique GOUTTENOIRE",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Nathalie FORISSIER",
+        "Guy DANIEL",
+        "Séverine SICHE-CHOL",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Isabelle PETIT",
+          "mandataire": "Charles JULLIAN"
+        }
+      ],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Martine TREVISANI"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20150831-01",
+      "titre": "Promesse unilatérale d’achat avec la SAFER – Parcelles section A n°0651 au lieu-dit Pré Chatel",
+      "resume": "Approche de la promesse unilatérale d'achat pour les parcelles concernées, en collaboration avec la SAFER.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "L'acquisition est destinée à des jardins familiaux."
+    },
+    {
+      "id": "20150831-03",
+      "titre": "Budget communal 2015 – Décision Modificative n°1",
+      "resume": "Modification du budget communal pour tenir compte de nouvelles dépenses et de remboursements.",
+      "themes": [
+        "budget",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Adaptations du budget pour les rideaux de l'école et des études géotechniques."
+    },
+    {
+      "id": "20150831-04",
+      "titre": "Détermination de la durée d’amortissement des frais d’études",
+      "resume": "Fixation de la durée d’amortissement des frais d’études conformément aux préconisations comptables.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Introduction d'une durée d'amortissement de 5 ans pour les frais d’études non suivis de projets."
+    },
+    {
+      "id": "20150831-05",
+      "titre": "Règlement intérieur du réseau des bibliothèques du Pays Mornantais",
+      "resume": "Création d'un règlement pour harmoniser le réseau des bibliothèques sur le territoire.",
+      "themes": [
+        "culture"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Approvisionnement des bibliothèques et conditions d'utilisation précisées."
+    }
+  ]
+}

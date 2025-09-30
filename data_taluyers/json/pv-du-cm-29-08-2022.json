@@ -1,0 +1,328 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-08-29",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Sylvain NAVARRO",
+        "Pierre-Henri JOUFFRE",
+        "Pierre-Luc GUITTET",
+        "Charles JULLIAN",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Jean-Jacques COURBON",
+        "Audrey MICHALLET",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [
+        "Geneviève CASCHETTA",
+        "Dominique FONS",
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Mireille BERTHOUD",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHET"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20220829-01",
+      "titre": "Modification du tableau des effectifs et création de deux emplois non permanents",
+      "resume": "Création de postes pour ajustement des besoins périscolaires, avec détails sur les types d'emploi.",
+      "themes": [
+        "RH",
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Les postes créés concernent des emplois non permanents pour le service périscolaire."
+    },
+    {
+      "id": "20220829-02",
+      "titre": "Modification du règlement intérieur d'occupation de la salle « Barbelous » à la Maison des Associations",
+      "resume": "Suppression de l'option ménage dans la salle des Barbelous à la Maison des Associations.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "La caution tri sélectif devient une caution tri sélectif/ménage."
+    },
+    {
+      "id": "20220829-03",
+      "titre": "Budget principal 2022 – Décision Modificative n°1",
+      "resume": "Ajustement des crédits budgétaires suite à la notification du FPIC.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Le FPIC de l'exercice 2022 s'élève à 14 633 €, ajustement des crédits budgétaires."
+    },
+    {
+      "id": "20220829-04",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 3 Charpente/couverture",
+      "resume": "Avenant pour moins-value et plusvalue sur le lot Charpente/couverture pour le groupe scolaire.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Moins-value de 675 € HT pour suppression de l'auvent, plus-value de 2875 € HT pour reprise des pieds de poteaux."
+    },
+    {
+      "id": "20220829-05",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 9 Plâtrerie peinture",
+      "resume": "Avenant pour plâtrerie et peinture dans le cadre de travaux de rénovation.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Plus-value de 8465,87 € HT pour l'équipement en faux plafond de plusieurs salles."
+    },
+    {
+      "id": "20220829-06",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 12 Revêtement de sol / carrelage / faïences",
+      "resume": "Avenant pour le lot revêtement de sol/carrelage/ faïences avec création d'un local technique.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Plus-value de 968 € HT pour la création d'un local technique."
+    },
+    {
+      "id": "20220829-07",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 13 Chauffage ventilation",
+      "resume": "Avenant pour la ventilation et installation de conduits dans les salles.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Plus-value de 5527,40 € HT pour l'installation de conduits de traitement de l'air."
+    },
+    {
+      "id": "20220829-08",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 15 Électricité",
+      "resume": "Avenant sur le lot Électricité pour remplacement et dévoiement de câbles.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Plus-value de 3979,40 € HT après remplacement d'équipements d'éclairage et dévoiement des câbles."
+    },
+    {
+      "id": "20220829-09",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 14 Plomberie",
+      "resume": "Avenant pour ajustement de plomberie et demandes diverses.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Moins-value de 44,80 € HT pour diverses adaptations demandées par les enseignants."
+    },
+    {
+      "id": "20220829-10",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°1 au lot 17 Forages géothermiques",
+      "resume": "Avenant pour localisation de chauffe-eau avec encore de la plus-value.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Plus-value de 1015,00 € HT pour localisation du chauffe-eau."
+    },
+    {
+      "id": "20220829-11",
+      "titre": "Marché de réalisation d'un réseau d'arrosage automatique du stade de football",
+      "resume": "Choix de l'offre de l'entreprise GREEN STYLE pour l'arrosage automatique.",
+      "themes": [
+        "marches",
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Séverine SICHÉ-CHOL",
+            "Odile BRACHET",
+            "Laurent NAULIN",
+            "Loïc TAMISIER",
+            "Marc MIOTTO",
+            "Sylvain NAVARRO",
+            "Pierre-Henri JOUFFRE",
+            "Pierre-Luc GUITTET",
+            "Charles JULLIAN",
+            "Evelyne VIOLLET",
+            "Christiane ROUAND",
+            "Emilie GRAU"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Louis MONTCEL",
+            "Pierre-Luc GUITTET"
+          ]
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": "Investissement pour arrosage automatique discuté en raison de contraintes climatiques et autres utilisations du stade."
+    }
+  ]
+}

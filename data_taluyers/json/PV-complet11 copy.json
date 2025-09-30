@@ -1,0 +1,482 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2017-11-06",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMANCLAVELLOUX",
+        "David SEGURA",
+        "Jean-Jacques COURBON",
+        "Séverine SICHE CHOL",
+        "Bruno SICARD",
+        "Marc MIOTTO",
+        "Odile BRACHET",
+        "Martine TREVISANI",
+        "Véronique GOUTTENOIRE",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Isabelle PETIT",
+          "mandataire": "Odile BRACHET"
+        },
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Pascal OUTREBON"
+        }
+      ],
+      "ABSENT": [
+        "Jean-Pierre MARCONNET",
+        "Yves CUBLIER",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20171106-01",
+      "titre": "Assistance juridique du Centre de Gestion du Rhône - participation 2018",
+      "resume": "Approbation de l'avenant à la convention n°94.20 pour l'assistance juridique du Centre de Gestion du Rhône en 2018.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-02",
+      "titre": "Adhésion au service de médecine préventive du Centre de Gestion du Rhône et de la Métropole de Lyon",
+      "resume": "Approbation de la convention d'adhésion au service de médecine préventive à compter du 01/01/2018.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-03",
+      "titre": "Convention de fourrière avec la SPA - Année 2018",
+      "resume": "Renouvellement de la convention de fourrière avec les services de la SPA pour 2018.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-04",
+      "titre": "Recensement de la population - Désignation du coordonnateur communal",
+      "resume": "Désignation de Céline MICHEL comme coordonnateur communal pour le recensement de la population de 2018.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-05",
+      "titre": "Modification des statuts du SMAGGA",
+      "resume": "Approbation des nouveaux statuts du SMAGGA concernant la gestion des milieux aquatiques et des inondations.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-06",
+      "titre": "Retrait de la commune de Sainte-Catherine",
+      "resume": "Vote en faveur du retrait de la commune de Sainte-Catherine de la COPAMO.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-07",
+      "titre": "Approbation des études préalables de rénovation de l'église et sollicitation de la DRAC Auvergne - Rhône-Alpes",
+      "resume": "Approbation du programme de travaux de rénovation de l'église et demande de soutien à la DRAC.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-08",
+      "titre": "Budget communal - exercice 2017 - DM n°2",
+      "resume": "Approbation de la Décision Modificative n°2 du budget communal pour 2017.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-09",
+      "titre": "Budget locaux commerciaux - exercice 2017 - DM n°1",
+      "resume": "Approbation de la Décision Modificative n°1 du budget des locaux commerciaux pour 2017.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-10",
+      "titre": "Marché de construction d'un bâtiment périscolaire - Modification de contrat en cours d'exécution n°1 - Lot 10 Electricité",
+      "resume": "Approbation de la modification de contrat pour le lot électricité incluant installation d'alarme et serrures électroniques.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-11",
+      "titre": "Marché de rénovation thermique de la Salle d'Animation - Modification de contrat en cours d'exécution n°1 - Lot 1 Couverture",
+      "resume": "Approbation de la modification de contrat avec la CHARROIN TOITURE incluant ajustement des matériaux de couverture.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-12",
+      "titre": "Marché de rénovation thermique de la Salle d'Animation - Modification de contrat en cours d'exécution n°1 - Lot 2 Chauffage-Plomberie",
+      "resume": "Modification de contrat en cours d'exécution avec l'entreprise PLOMBERIE FRANCK ROVEYAZ pour des ajustements mineurs.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-13",
+      "titre": "Marché de rénovation thermique de la Salle d'Animation - Modification de contrat en cours d'exécution n°1 - Lot 4 Gros oeuvre",
+      "resume": "Approbation de la modification de contrat avec PAILLASSEUR pour ajustements liés à l'accessibilité.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-14",
+      "titre": "Marché de rénovation thermique de la Salle d'Animation - Modification de contrat en cours d'exécution n°2 - Lot 5 Menuiserie extérieure et intérieure",
+      "resume": "Approbation de la modification de contrat avec INEXTERIO pour travaux de rabotage des portes.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-15",
+      "titre": "Marché de rénovation thermique de la Salle d'Animation - Modification de contrat en cours d'exécution n°2 - Lot 6 Plâtrerie-peinture-carrelage",
+      "resume": "Approbation de modification mineure avec LARDY pour des travaux supplémentaires et ajustements.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-16",
+      "titre": "Subvention exceptionnelle au Comité des Fêtes",
+      "resume": "Approbation du versement d'une subvention de 50€ au Comité des Fêtes.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-17",
+      "titre": "Transfert des ZAE à la COPAMO : approbation du rapport de la Commission Locale d'Evaluation des Charges Transférées",
+      "resume": "Approbation du transfert des Zones d'Activités Economiques à la COPAMO sans transfert de charges supplémentaires.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-18",
+      "titre": "Subvention au Tennis-Club de Taluyers - annulation partielle de la délibération n°20170320-05",
+      "resume": "Annulation partielle de délibération pour subvention au Tennis Club, en faveur d'un futur ajustement.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20171106-19",
+      "titre": "Modification du règlement du service périscolaire",
+      "resume": "Réduction du montant de la pénalité de retard pour récupérer les enfants en périscolaire de 20 € à 10 €.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2017-05-15",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Charles JULLIAN",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Yves CUBLIER",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Jean-Jacques COURBON",
+        "Séverine SICHE-CHOL",
+        "Véronique GOUTTENOIRE"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Bruno SICARD",
+          "mandataire": "Yves CUBLIER"
+        }
+      ],
+      "ABSENT": [
+        "Marc MIOTTO",
+        "Nathalie FORISSIER",
+        "Audrey MICHALLET"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20170515-01",
+      "titre": "Mise en place du RIFSEEP pour les filières technique et patrimoine",
+      "resume": "Extension du RIFSEEP pour les adjoints techniques et du patrimoine, détails sur l'IFSE et CIA.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Adoptée avec l'entrée en vigueur le 1er juillet 2017."
+    },
+    {
+      "id": "20170515-02",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Suppression d'un poste à temps non complet suite à une démission et création d'un nouveau poste d'adjoint administratif.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Modifications de postes approuvées."
+    },
+    {
+      "id": "20170515-03",
+      "titre": "Détermination des taux de promotion pour l’avancement de grade",
+      "resume": "Fixation des ratios d’avancement de grade pour la commune.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Ratios adoptés pour les promotions de grade."
+    },
+    {
+      "id": "20170515-04",
+      "titre": "Montant des indemnités de fonction des élus",
+      "resume": "Révision des indemnités des élus locaux suite à l’évolution de l’indice brut terminal.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Indemnités maintenues selon les nouveaux indices."
+    },
+    {
+      "id": "20170515-05",
+      "titre": "Echange COPAMO/CARLE dans la Zone d’Activités de la Ronze",
+      "resume": "Révision de la non cessibilité de la parcelle pour un projet d’échange.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Dominique FONS",
+            "Guy DANIEL",
+            "Loïc TAMISIER",
+            "Sylvie ROMAN-CLAVELLOUX",
+            "Charles JULLIAN",
+            "Jean-Pierre MARCONNET",
+            "David SEGURA",
+            "Yves CUBLIER",
+            "Martine TREVISANI",
+            "Isabelle PETIT",
+            "Jean-Jacques COURBON",
+            "Véronique GOUTTENOIRE"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Odile BRACHET",
+            "Séverine SICHE-CHOL"
+          ]
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": "Approbation de la cessibilité de la parcelle concernée."
+    },
+    {
+      "id": "20170515-06",
+      "titre": "Marché de construction d’un bâtiment périscolaire – Modification du contrat",
+      "resume": "Modification du marché de construction concernant le lot d'étanchéité.",
+      "themes": [
+        "marches",
+        "construction"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Modification approuvée entraînant une moins-value."
+    },
+    {
+      "id": "20170515-07",
+      "titre": "Marché de maîtrise d’œuvre – Modification du contrat",
+      "resume": "Modification du contrat pour la rénovation thermique de la Salle d’Animation.",
+      "themes": [
+        "marches",
+        "construction"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Rémunération révisée suite aux nouvelles estimations de travaux."
+    },
+    {
+      "id": "20170515-08",
+      "titre": "Marché de travaux pour la rénovation thermique – Mise à jour de l’option",
+      "resume": "Correction d'une erreur dans le montant de l'option du marché de couverture.",
+      "themes": [
+        "marches",
+        "construction"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Erreur corrigée, marché approuvé."
+    },
+    {
+      "id": "20170515-09",
+      "titre": "Modification des tarifs pour le restaurant scolaire et périscolaire",
+      "resume": "Nouveaux tarifs pour le restaurant et service périscolaire dès septembre 2017.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Tarifs révisés avec prise en compte de l'encadrement."
+    },
+    {
+      "id": "20170515-10",
+      "titre": "Modification du règlement pour le restaurant scolaire et périscolaire",
+      "resume": "Mise à jour du règlement avec des changements pour l'année 2017/2018.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Modifications approuvées, incluant la dématérialisation des factures."
+    }
+  ]
+}

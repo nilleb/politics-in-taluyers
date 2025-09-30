@@ -1,0 +1,138 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2021-11-22",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Evelyne VIOLLET",
+        "Jean-Jacques COURBON",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Yves CUBLIER",
+        "Mireille BERTHOUD",
+        "Marc MIOTTO",
+        "Pierre-Luc GUITTET",
+        "Jean-Louis MONTCEL",
+        "Emilie GRAU"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Giada RAVET",
+        "Sylvain NAVARRO",
+        "Concetta SAYER CORTAZZI",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20211122-01",
+      "titre": "Installation d'un nouveau conseiller municipal",
+      "resume": "Installation de Madame Emilie GRAU en qualité de conseillère municipale après la démission de Madame Anabelle PATRIER.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": 1,
+      "notes": null
+    },
+    {
+      "id": "20211122-02",
+      "titre": "Modification du Régime Indemnitaire",
+      "resume": "Actualisation du RIFSEEP pour les agents des catégories C et B, avec une augmentation de l'enveloppe mensuelle consacrée.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 2,
+      "notes": null
+    },
+    {
+      "id": "20211122-03",
+      "titre": "Indemnités Horaires pour Travaux Supplémentaires",
+      "resume": "Établissement des indemnités horaires pour travaux supplémentaires selon les cadres d'emplois techniques et administratifs.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 3,
+      "notes": null
+    },
+    {
+      "id": "20211122-04",
+      "titre": "Création de deux emplois non permanents",
+      "resume": "Création de deux emplois non permanents pour répondre à un accroissement temporaire d'activité, notamment au respect du protocole sanitaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": 4,
+      "notes": null
+    }
+  ]
+}

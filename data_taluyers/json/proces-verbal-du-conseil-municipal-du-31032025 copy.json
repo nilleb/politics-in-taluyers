@@ -1,0 +1,524 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2025-03-31",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Sylvain NAVARRO",
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL",
+        "Christiane ROUAND",
+        "Audrey MICHALLET",
+        "Giada RAVET",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Emilie GRAU",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Pierre-Luc GUITTET",
+          "mandataire": "Marc MIOTTO"
+        }
+      ],
+      "ABSENT": [
+        "Séverine SICHÉ-CHOL",
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "nº20250331-01",
+      "titre": "Approbation du Compte Financier Unique (CFU) 2024 - Budget principal",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-02",
+      "titre": "Budget principal - Affectation des résultats de l'exercice 2024",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-03",
+      "titre": "Budget principal - Vote des taux d'imposition 2025",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-04",
+      "titre": "Budget principal - Vote des subventions aux associations et au CCAS",
+      "resume": null,
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Jean-Jacques COURBON",
+            "Laurent NAULIN",
+            "Loïc TAMISIER",
+            "Charles JULLIAN",
+            "Marc MIOTTO",
+            "Sylvain NAVARRO",
+            "Evelyne VIOLLET",
+            "Audrey MICHALLET",
+            "Giada RAVET",
+            "Yves CUBLIER"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": "Mme Christiane ROUAND et M. Jean-Louis MONTCEL ne prennent pas part au vote."
+    },
+    {
+      "id": "nº20250331-05",
+      "titre": "Révision n°2 de l'Autorisation de Programme et Crédits de Paiement - Fonds de concours avec la COPAMO pour les travaux de voirie",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-06",
+      "titre": "Révision n°2 de l'Autorisation de Programme et Crédits de Paiement - Travaux de mobilité douce",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-07",
+      "titre": "Création de l'Autorisation de Programme et Crédits de Paiement – Centrales photovoltaïques d'autoconsommation collective",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-08",
+      "titre": "Création de l'Autorisation de Programme et Crédits de Paiement – Végétalisation de cours d'école",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-09",
+      "titre": "Mise en place de la fongibilité des crédits en section de fonctionnement et d'investissement",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-10",
+      "titre": "Budget principal - Adoption du budget primitif 2025",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-11",
+      "titre": "Budget Locaux commerciaux - Approbation du Compte Financier Unique 2024",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-12",
+      "titre": "Budget Locaux commerciaux – Affectation du résultat",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-13",
+      "titre": "Budget Locaux commerciaux - Adoption du Budget primitif 2025",
+      "resume": null,
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-14",
+      "titre": "Choix d'une convention de participation pour le risque « santé » et pour le risque « prévoyance » et mandat au cdg69 pour mener la procédure",
+      "resume": null,
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-15",
+      "titre": "Approbation d'une convention de mise à disposition d'un outil informatique d'observatoire fiscal avec la Communauté de Communes du Pays Mornantais",
+      "resume": null,
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-16",
+      "titre": "Mise à jour des règlements d'aides communales en matière d'habitat",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-17",
+      "titre": "Attribution d'une aide aux travaux d'amélioration de la performance énergétique dans le cadre du 3ème PLH à Madame Marie-Anne HARGUINDEGUY",
+      "resume": null,
+      "themes": [
+        "urbanisme",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-18",
+      "titre": "Attribution d'une aide aux travaux d'adaptation dans le cadre du 3ème Programme Local de l'Habitat de la commune de Taluyers à Monsieur Mohamed SIOUANE",
+      "resume": null,
+      "themes": [
+        "urbanisme",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Présente une possibilité de recours devant le Tribunal Administratif de Lyon."
+    },
+    {
+      "id": "nº20250331-19",
+      "titre": "Création d'un emploi non-permanent pour accroissement temporaire d'activité",
+      "resume": null,
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "nº20250331-20",
+      "titre": "Approbation de la phase PRO - Maîtrise d'œuvre des travaux d'aménagement d'une plaine ludique et sportive route de Grand Bois",
+      "resume": null,
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

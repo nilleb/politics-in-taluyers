@@ -1,0 +1,376 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-11-28",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": "img-0.jpeg",
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Pierre-Henri JOUFFRE",
+        "Pierre-Luc GUITTET",
+        "Emilie GRAU",
+        "Giada RAVET",
+        "Audrey MICHALLET",
+        "Yves CUBLIER",
+        "Dominique FONS",
+        "Evelyne VIOLLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Sylvain NAVARRO",
+          "mandataire": "Jean-Jacques COURBON"
+        },
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Séverine SICHÉ-CHOL"
+        },
+        {
+          "mandant": "Christiane ROUAND",
+          "mandataire": "Evelyne VIOLLET"
+        }
+      ],
+      "ABSENT": [
+        "Sébastien CHAIZE",
+        "Stéphane LEMARCHAND",
+        "Jean-Louis MONTCEL",
+        "Geneviève CASCHETTA"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20221128-01",
+      "titre": "Budget principal 2022 - Décision Modificative n°3",
+      "resume": "Ajustements des crédits pour le budget 2022 suite à des remplacements et acquisitions diverses.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-02",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création et suppression de postes pour le fonctionnement des services municipaux.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-03",
+      "titre": "Taux de promotion pour les avancements de grade",
+      "resume": "Fixation des ratios d'avancement de grade pour les adjoints du patrimoine.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-04",
+      "titre": "Attribution d'une aide aux travaux d'amélioration de la performance énergétique",
+      "resume": "Subvention pour des travaux de performance énergétique dans le cadre du PIG.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-05",
+      "titre": "Révision des tarifs du cimetière",
+      "resume": "Révision des tarifs de concession du cimetière et du colombarium.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-06",
+      "titre": "Révision des tarifs de droits de place",
+      "resume": "Mise à jour des tarifs de droits de place.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-07",
+      "titre": "Révision des tarifs d'occupation de la Maison des Associations et de la Salle d'Animation",
+      "resume": "Modification des tarifs d'occupation des salles municipales.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-08",
+      "titre": "Révision des tarifs de location du parking de la Cordonnerie",
+      "resume": "Actualisation des tarifs de location du parking de la Cordonnerie.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-09",
+      "titre": "Modification des tarifs des repas du restaurant scolaire et du périscolaire",
+      "resume": "Mise à jour des grilles tarifaires pour les repas scolaires et périscolaires.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Audrey MICHALLET"
+          ]
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-10",
+      "titre": "Avis sur l'extension d'une installation classée - Société ORIGINAL DOG",
+      "resume": "Avis sur l'extension de l'installation classée par la Société ORIGINAL DOG.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-11",
+      "titre": "Attribution du marché de maîtrise d'œuvre pour les travaux de mobilité douce",
+      "resume": "Attribution du marché de maîtrise d'œuvre pour les travaux de mobilité douce et sécurisation des voiries.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-12",
+      "titre": "Subventions à des associations « 4L Trophy »",
+      "resume": "Attribution de subventions aux associations participant au 4L Trophy.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-13",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire – Avenant n°3 au lot 15 – Électricité",
+      "resume": "Avenant n°3 au marché de rénovation électrique du groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20221128-14",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - Avenant n°2 au lot 14 Plomberie",
+      "resume": "Avenant n°2 au marché de plomberie dans le cadre des rénovations du groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

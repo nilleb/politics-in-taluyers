@@ -1,0 +1,231 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2016-12-12",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Mme Joëlle DOMEYNE (Comptable du Trésor)"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Marc MIOTTO",
+        "Bruno SICARD",
+        "Charles JULLIAN",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Yves CUBLIER",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Séverine SICHE CHOL"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Charles JULLIAN"
+        }
+      ],
+      "ABSENT": [
+        "Véronique GOUTTENOIRE",
+        "Audrey MICHALLET",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20161212-01",
+      "titre": "Mise en place du Régime Indemnitaire tenant compte des Fonctions, des Sujétions, de l’Expertise et de l’Engagement Professionnel (RIFSEEP)",
+      "resume": "Instaurer le RIFSEEP pour les agents de la commune.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "IFSE institué avec ajustements mensuels, CIA semestriel."
+    },
+    {
+      "id": "20161212-02",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Adaptation des postes suite à la municipalisation de la bibliothèque.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Poste d'adjoint administratif supprimé, création d'adjoint du patrimoine."
+    },
+    {
+      "id": "20161212-03",
+      "titre": "Assistance juridique du Centre de Gestion du Rhône – participation 2017",
+      "resume": "Renouvellement de l'avenant à la convention d'assistance juridique.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Participation de la commune fixée à 2 094 €."
+    },
+    {
+      "id": "20161212-04",
+      "titre": "Assurance des risques statutaires",
+      "resume": "Choix du contrat d'assurance pour les risques statutaires des agents.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Adhésion à l'offre de CIGAC (Groupama) recommandée."
+    },
+    {
+      "id": "20161212-05",
+      "titre": "Mise à disposition de la salle des Barbelous à l’association des vétérans du football de Taluyers",
+      "resume": "Approbation des conditions d'utilisation de la salle par les vétérans.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Conditions spécifiques incluant tarification et horaires d'usage."
+    },
+    {
+      "id": "20161212-06",
+      "titre": "Budget principal 2016 – Décision modificative n°4",
+      "resume": "Ajustement du budget pour les aménagements paysagers et le jardin d'enfants.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Prévoyance des crédits pour travaux non budgétés."
+    },
+    {
+      "id": "20161212-07",
+      "titre": "Marché de construction d’un bâtiment pour le service périscolaire – approbation du lot– menuiseries intérieures",
+      "resume": "Attribution du lot pour menuiseries intérieures.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Offre attribuée à l'entreprise JULLIEN, budget partiellement dépassé de 2.9%."
+    },
+    {
+      "id": "20161212-08",
+      "titre": "Indemnité de conseil alloué au Comptable du Trésor",
+      "resume": "Décision d'allocation de l'indemnité de conseil à Mme Joëlle DOMEYNE.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Pierre MARCONNET",
+            "Loïc TAMISIER"
+          ]
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": null,
+          "abstention": 2
+        }
+      },
+      "page_approx": null,
+      "notes": "Indemnité au taux de 50%, décision d'allouer une indemnité d'aide à la préparation des documents budgétaires."
+    }
+  ]
+}

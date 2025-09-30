@@ -1,0 +1,255 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2020-10-05",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHE-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Christiane ROUAND",
+        "Evelyne VIOLLET",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Stéphane LEMARCHAND",
+        "Giada RAVET",
+        "Pierre Luc GUITTET",
+        "Jean-Louis MONTCEL",
+        "Concetta SAYER CORTAZZI",
+        "Audrey MICHALLET",
+        "Mireille BERTHOUD",
+        "Jean-Jacques COURBON",
+        "Yves CUBLIER"
+      ],
+      "EXCUSE": [
+        "Sébastien CHAIZE",
+        "Sylvain NAVARRO",
+        "Annabelle PATRIER"
+      ],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Sylvain NAVARRO",
+          "mandataire": "Jean-Jacques COURBON"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20201005-01",
+      "titre": "Exercice du droit à la formation des élus locaux",
+      "resume": "Droit à la formation des élus locaux avec orientations et budget pour l'année 2020.",
+      "themes": [
+        "subventions",
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20201005-02",
+      "titre": "Désignation du délégué au CNAS",
+      "resume": "Désignation de M. Pascal OUTREBON comme délégué élu au CNAS.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Séverine SICHE-CHOL",
+            "Odile BRACHET-CONVERT",
+            "Laurent NAULIN",
+            "Geneviève CASCHETTA",
+            "Loïc TAMISIER",
+            "Marc MIOTTO",
+            "Christiane ROUAND",
+            "Evelyne VIOLLET",
+            "Dominique FONS",
+            "Charles JULLIAN",
+            "Stéphane LEMARCHAND",
+            "Giada RAVET",
+            "Pierre Luc GUITTET",
+            "Jean-Louis MONTCEL",
+            "Concetta SAYER CORTAZZI",
+            "Audrey MICHALLET",
+            "Mireille BERTHOUD",
+            "Jean-Jacques COURBON",
+            "Yves CUBLIER"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Pascal OUTREBON"
+          ]
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20201005-03",
+      "titre": "Budget principal - exercice 2020 - Décision Modificative n°2",
+      "resume": "Amendements budgétaires pour les actions municipales en faveur de la transition écologique.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20201005-04",
+      "titre": "Budget Locaux commerciaux – exercice 2020 – Décision Modificative n°1",
+      "resume": "Régularisation des loyers et charges de copropriété pour les locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20201005-05",
+      "titre": "Convention avec l'UGAP – Mise à disposition d'un marché de fourniture, d'acheminement de gaz naturel et services associés",
+      "resume": "Approbation de la convention avec l'UGAP pour l'achat groupé de gaz naturel.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20201005-06",
+      "titre": "Modification des modalités de versement du produit des concessions du cimetière",
+      "resume": "Changement des modalités pour que le revenu des concessions bénéficie entièrement à la commune.",
+      "themes": [
+        "budget",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20201005-07",
+      "titre": "Situation sanitaire - Remise gracieuse du loyer pour la micro-crèche « Brins de Malice»",
+      "resume": "Remise gracieuse du loyer pour la micro-crèche suite à la crise sanitaire.",
+      "themes": [
+        "marches",
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Séverine SICHE-CHOL",
+            "Odile BRACHET-CONVERT",
+            "Laurent NAULIN",
+            "Geneviève CASCHETTA",
+            "Loïc TAMISIER",
+            "Marc MIOTTO",
+            "Christiane ROUAND",
+            "Evelyne VIOLLET",
+            "Dominique FONS",
+            "Charles JULLIAN",
+            "Stéphane LEMARCHAND",
+            "Giada RAVET",
+            "Jean-Louis MONTCEL",
+            "Concetta SAYER CORTAZZI",
+            "Audrey MICHALLET",
+            "Mireille BERTHOUD",
+            "Jean-Jacques COURBON",
+            "Yves CUBLIER"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Pierre Luc GUITTET"
+          ]
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

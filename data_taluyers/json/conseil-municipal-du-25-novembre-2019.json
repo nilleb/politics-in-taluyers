@@ -1,0 +1,251 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2019-11-25",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Loïc TAMISIER (Secrétaire de séance)"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Séverine SICHE CHOL",
+        "Marc MIOTTO",
+        "Jean-Jacques COURBON",
+        "Bruno SICARD",
+        "Yves CUBLIER",
+        "Charles JULLIAN"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": [
+        "Véronique GOUTTENOIRE",
+        "Audrey MICHALLET",
+        "Jean-Pierre MARCONNET",
+        "Nathalie FORISSIER",
+        "David SEGURA"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20191118-01",
+      "titre": "Service de médecine préventive du Centre de Gestion du Rhône – Convention 2020-2022",
+      "resume": "Approbation de la convention relative au service de médecine préventive entre la commune et le Centre de Gestion du Rhône.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20191118-02",
+      "titre": "Demande d’un fonds de concours « Actions complémentaires de proximité jeunesse »",
+      "resume": "Décision de solliciter un fonds pour le financement de nouvelles actions jeunesse pour 2020.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20191118-03",
+      "titre": "Création d’un emploi non permanent pour un accroissement temporaire d’activité",
+      "resume": "Approbation de la création d'un poste temporaire d'ATSEM pour remplacement suite à un départ en retraite.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20191118-04",
+      "titre": "Budget communal 2019 - Budget Décision modificative n°5",
+      "resume": "Approbation de la décision modificative n°5 du budget communal pour l'exercice 2019.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20191118-05",
+      "titre": "Marché de construction d’une bibliothèque et réhabilitation - Lot 2 Maçonnerie",
+      "resume": "Approbation de la modification n°4 du contrat en cours d'exécution.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20191118-06",
+      "titre": "Marché de construction d’une bibliothèque - Lot 11 Plomberie sanitaires",
+      "resume": "Approbation de la modification n°1 du contrat en cours d'exécution.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20191118-07",
+      "titre": "Marché de construction d’une bibliothèque - Lot 8 Plâtrerie peinture",
+      "resume": "Approbation de la modification n°4 du contrat en cours d'exécution.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20191118-08",
+      "titre": "Marché de construction d’une bibliothèque - Lot 3 Charpente couverture",
+      "resume": "Approbation de la modification n°2 du contrat en cours d'exécution.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20191118-09",
+      "titre": "Autorisation de dépenses d’investissement 2020",
+      "resume": "Autorisation d'engager et mandater des dépenses d'investissement 2020 dans la limite du quart des crédits ouverts au budget précédent.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

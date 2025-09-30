@@ -1,0 +1,251 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2021-02-22",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Evelyne VIOLLET",
+        "Charles JULLIAN",
+        "Stéphane LEMARCHAND",
+        "Glada RAVET",
+        "Mireille BERTHOUD",
+        "Yves CUBLIER",
+        "Jean-Jacques COURBON",
+        "Christiane ROUAND",
+        "Audrey MICHALLET",
+        "Dominique FONS",
+        "Pierre-Luc GUITTET",
+        "Sylvain NAVARRO",
+        "Concetta SAYER CORTAZZI",
+        "Annabelle PATRIER"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": [
+        "Jean-Louis MONTCEL",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20210222-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Suppression et création de postes suite à départs en retraite et ajustements internes.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Les crédits nécessaires sont prévus au budget 2021."
+    },
+    {
+      "id": "20210222-02",
+      "titre": "Création d'emplois non-permanents « Jobs d'été »",
+      "resume": "Création d'un emploi saisonnier pour agents contractuels.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Permet le recrutement d'agents étudiants pour la période estivale."
+    },
+    {
+      "id": "20210222-03",
+      "titre": "Travaux de rénovation énergétique - DSIL",
+      "resume": "Demande de subvention pour des travaux de rénovation énergétique.",
+      "themes": [
+        "urbanisme",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Projet financé partiellement par la DSIL."
+    },
+    {
+      "id": "20210222-04",
+      "titre": "Travaux de rénovation énergétique - DETR",
+      "resume": "Demande de subvention auprès de la DETR pour les travaux de rénovation énergétique.",
+      "themes": [
+        "urbanisme",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Subvention sollicitée auprès de la DETR pour la rénovation thermique."
+    },
+    {
+      "id": "20210222-05",
+      "titre": "Désignation d'un élu référent « forêt/bois »",
+      "resume": "Charles JULLIAN désigné comme référent forêt/bois.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "AUTRE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": "Engagement du syndicat pour une politique forêt-bois."
+    },
+    {
+      "id": "20210222-06",
+      "titre": "Adhésion au CAUE pour l'exercice 2021",
+      "resume": "Adhésion au Conseil d'Architecture, d'Urbanisme et de l'Environnement pour 2021.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Gratuité des conseils pour les communes adhérentes."
+    },
+    {
+      "id": "20210222-07",
+      "titre": "Convention de groupement de commande pour fourniture de repas",
+      "resume": "Groupement de commande pour fourniture et livraison de repas.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Soucieu en Jarrest coordonne le groupement de commande."
+    },
+    {
+      "id": "20210222-08",
+      "titre": "Convention avec le Département du Rhône pour mise en accessibilité",
+      "resume": "Mise en accessibilité du quai de bus - arrêt « Mairie ». Convention de financement.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Département du Rhône rembourse les coûts de mise en accessibilité."
+    },
+    {
+      "id": "20210222-09",
+      "titre": "Convention avec la COPAMO pour fonds de concours voirie",
+      "resume": "Versement d'un fonds de concours pour travaux sur la route des Fontaines.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Financement de la réfection de la route des Fontaines par la COPAMO."
+    }
+  ]
+}

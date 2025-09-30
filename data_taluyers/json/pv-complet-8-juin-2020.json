@@ -1,0 +1,445 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2020-06-08",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHE-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Christiane ROUAND",
+        "Evelyne VIOLLET",
+        "Mireille BERTHOUD",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Yves CUBLIER",
+        "Annabelle PATRIER",
+        "Stéphane LEMARCHAND",
+        "Giada RAVET",
+        "Pierre Luc GUITTET",
+        "Audrey MICHALLET",
+        "Sylvain NAVARRO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": [
+        "Jean-Louis MONTCEL",
+        "Sébastien CHAIZE",
+        "Concetta SAYER CORTAZZI"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20200608-01",
+      "titre": "Désignation des délégués au Syndicat des Eaux Millery-Mornant (MIMO)",
+      "resume": "Désignation de Charles JULLIAN comme délégué titulaire et Jean-Jacques COURBON comme délégué suppléant au Syndicat des Eaux MIMO.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Un élu"
+          ]
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-02",
+      "titre": "Désignation des délégués au Syndicat Mixte d’Aménagement et de Gestion du bassin versant du Garon (SMAGGA)",
+      "resume": "Désignation de Charles JULLIAN comme délégué titulaire et Laurent NAULIN comme délégué suppléant au SMAGGA.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Un élu"
+          ]
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-03",
+      "titre": "Désignation des délégués au Syndicat Mixte pour la station d’épuration de Givors (SYSEG)",
+      "resume": "Désignation de Pierre Luc GUITTET comme délégué titulaire et Jean-Jacques COURBON comme délégué suppléant au SYSEG.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Un élu"
+          ]
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-04",
+      "titre": "Désignation des délégués au Syndicat Départemental d’Energie du Rhône (SYDER)",
+      "resume": "Désignation de Marc MIOTTO comme délégué titulaire et Laurent NAULIN comme délégué suppléant au SYDER.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Un élu"
+          ]
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-05",
+      "titre": "Désignation des délégués au Syndicat pour l’Aqueduc Romain du Gier",
+      "resume": "Désignation de Laurent NAULIN comme délégué titulaire et Giada RAVET comme déléguée suppléante au Syndicat pour l’Aqueduc Romain du Gier.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Un élu"
+          ]
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-06",
+      "titre": "Désignation des délégués au Syndicat Rhodanien pour le Développement du Câble",
+      "resume": "Désignation de Yves CUBLIER comme délégué titulaire et Sylvain NAVARRO comme délégué suppléant au Syndicat Rhodanien pour le Développement du Câble.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Un élu"
+          ]
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-07",
+      "titre": "Désignation du représentant permanent à l’AG des actionnaires de la SPL Enfance en Pays Mornantais",
+      "resume": "Désignation du Maire de Taluyers comme représentant permanent à l’AG des actionnaires et Odile BRACHET CONVERT au poste de représentant à l’assemblée spéciale.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-08",
+      "titre": "Détermination du nombre et élection des membres du Conseil d’Administration du CCAS",
+      "resume": "Détermination du nombre de membres du CCAS à 8 et élection des membres proposés.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-09",
+      "titre": "Election des membres de la Commission d’Appel d’Offres",
+      "resume": "Election des membres de la Commission d’Appel d’Offres conformément à l'article L 1414-2 du CGCT.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-10",
+      "titre": "Mise en place des commissions municipales",
+      "resume": "Création et désignation des membres des 8 commissions municipales.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-11",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Modification du tableau des effectifs pour le service du restaurant scolaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-12",
+      "titre": "Marché de fourniture et livraison de repas de restauration scolaire – Modification n°3 du marché en cours d’exécution",
+      "resume": "Approbation de la modification de contrat pour la fourniture et livraison de repas au restaurant scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-13",
+      "titre": "Vente d’un tènement communal situé au 24 rue Sainte Agathe",
+      "resume": "Approbation de la vente du bien immobilier situé au 24 rue Sainte Agathe à M. Tanguy MALLET.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-14",
+      "titre": "Approbation de la modification du Plan Local d’Urbanisme",
+      "resume": "Approbation des modifications apportées au Plan Local d’Urbanisme.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-15",
+      "titre": "Modification du règlement intérieur du restaurant scolaire et du service périscolaire",
+      "resume": "Approbation des modifications du règlement intérieur du service de restauration scolaire et périscolaire.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-16",
+      "titre": "Convention relative à la continuité scolaire et la réalisation d’activités sportives et culturelles sur le temps scolaire",
+      "resume": "Approbation de la convention pour la continuité scolaire et réalisation d’activités sportives et culturelles.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200608-17",
+      "titre": "Convention avec l’Agence Locale de Transition Energétique du Rhône (ALTE69) – Avenant n°2",
+      "resume": "Approbation de l’avenant n°2 avec l’ALTE69 pour proroger la convention jusqu'au 31 décembre 2020.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

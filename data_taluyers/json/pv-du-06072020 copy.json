@@ -1,0 +1,350 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2020-07-06",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Sophie BERTHELIER",
+      "Claire JOANNIN"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHE-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Marc MIOTTO",
+        "Christiane ROUAND",
+        "Evelyne VIOLLET",
+        "Mireille BERTHOUD",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Annabelle PATRIER",
+        "Stéphane LEMARCHAND",
+        "Giada RAVET",
+        "Pierre-Luc GUITTET",
+        "Audrey MICHALLET",
+        "Sylvain NAVARRO",
+        "Jean-Louis MONTCEL",
+        "Concetta SAYER CORTAZZI"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": [
+        "Yves CUBLIER",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20200706-01",
+      "titre": "Désignation du délégué communal au sein de la Centrale Villageoise en Pays Mornantais",
+      "resume": "Désignation de M. Pascal OUTREBON comme délégué titulaire et de Mme Geneviève CASCHETTA comme suppléante.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Une abstention non nommée"
+          ]
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-02",
+      "titre": "Règlement intérieur du conseil municipal",
+      "resume": "Approbation du règlement intérieur du conseil municipal.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-03",
+      "titre": "Réglementation interne à la commune de Taluyers pour la passation des marchés publics",
+      "resume": "Approbation des règles internes pour les marchés publics à procédure adaptée.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-04",
+      "titre": "Désignation des délégués au Syndicat pour l'Aqueduc Romain du Gier",
+      "resume": "Désignation de M. Gérard CHOLLET et Mme Giada RAVET comme délégués au syndicat.",
+      "themes": [
+        "culture"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-05",
+      "titre": "Acquisition de la parcelle cadastrée A 2415 - Emplacement Réservé R6",
+      "resume": "Approbation de l'acquisition d'une parcelle pour la création d'une zone de stationnement et aire de tri sélectif.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-06",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Approbation des modifications du tableau des effectifs avec des ajustements des postes et quotités de travail.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Implémentation de l'emploi d'ATSEM."
+    },
+    {
+      "id": "20200706-07",
+      "titre": "Création d'emplois non-permanents",
+      "resume": "Approbation de la création de quelques emplois non-permanents pour faire face à un accroissement temporaire d'activité.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": null,
+      "titre": "Versement de la prime exceptionnelle - COVID-19",
+      "resume": "Décision de verser une prime exceptionnelle aux agents ayant travaillé durant la crise sanitaire du COVID-19.",
+      "themes": [
+        "RH",
+        "Sante"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Jean-Louis MONTCEL"
+          ]
+        },
+        "compteur": {
+          "pour": 20,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-09",
+      "titre": "Renouvellement de la commission communale des impôts directs",
+      "resume": "Proposition de noms pour la commission communale des impôts directs suite aux élections municipales.",
+      "themes": [
+        "fiscalite"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-10",
+      "titre": "Groupement de commande d'électricité du SYDER",
+      "resume": "Approbation de l'adhésion de la commune au groupement de commandes pour l'achat d'électricité.",
+      "themes": [
+        "energie"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-11",
+      "titre": "Attribution du marché de fourniture et livraison de repas",
+      "resume": "Attribution du marché de restauration scolaire à la société RPC pour une durée maximale de 3 ans.",
+      "themes": [
+        "marches",
+        "education"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-13",
+      "titre": "Convention d'occupation du domaine public avec la SPL Enfance en Pays Mornantais",
+      "resume": "Approbation de la convention avec la SPL Enfance en Pays Mornantais pour l'année scolaire 2020-2021.",
+      "themes": [
+        "education"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20200706-14",
+      "titre": "Actions en faveur de la transition énergétique",
+      "resume": "Modification du règlement d'attribution des aides financières pour la transition énergétique.",
+      "themes": [
+        "energie"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 21,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

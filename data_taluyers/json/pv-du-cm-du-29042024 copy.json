@@ -1,0 +1,207 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-04-29",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Sylvain NAVARRO",
+        "Marc MIOTTO",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Yves CUBLIER",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET",
+        "PierreLuc GUITTET",
+        "Mireille BERTHOUD",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [
+        "Geneviève CASCHETTA",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHETCONVERT"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20240429-01",
+      "titre": "Recrutement de vacataires pour le service périscolaire",
+      "resume": "Décision de recruter des vacataires pour le service périscolaire avec rémunération sur la base du SMIC horaire.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240429-02",
+      "titre": "Création d'emplois non permanents",
+      "resume": "Création d'emplois non permanents pour faire face à un accroissement temporaire d'activité durant la période estivale.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240429-03",
+      "titre": "Déploiement de la vidéoprotection - Demande de subvention auprès de la région Auvergne Rhône-Alpes - année 2024",
+      "resume": "Approbation du déploiement de la vidéoprotection et demande de subvention régionale.",
+      "themes": [
+        "securite",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Montant de la dépense prévisionnelle: 208,437.33 € HT"
+    },
+    {
+      "id": "20240429-05",
+      "titre": "Approbation du titulaire du marché d'aménagement d'un sanitaire public au Parc Pie X",
+      "resume": "Approbation de la commande de sanitaire automatique pour le Parc Pie X.",
+      "themes": [
+        "urbanisme",
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Entreprise désignée: FRANCIOLI. Devis pour travaux MCL: 14,422.00 € HT"
+    },
+    {
+      "id": "20240429-06",
+      "titre": "Marché de rénovation thermique et mise en accessibilité du groupe scolaire - avenant n°3 au lot 11 - Menuiseries intérieures",
+      "resume": "Approbation de l'avenant n°3 pour le lot 11 concernant les menuiseries intérieures.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Montant de l'avenant: 1,671.00 € HT"
+    },
+    {
+      "id": "20240429-07",
+      "titre": "Bail rural à clauses environnementales sur la parcelle n°A 649 au lieu-dit « Pré-Chatel » - avenant",
+      "resume": "Modification du bail rural à clauses environnementales en faveur du GAEC AS DE FERME.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "GAEC AS DE FERME, 250 chemin des rivières 69440 Saint Laurent d'Agny"
+    },
+    {
+      "id": "20240429-08",
+      "titre": "Dépôts sauvages de déchets - Instauration d'une amende administrative",
+      "resume": "Fixation des modalités de mise en œuvre et montant de l'amende pour dépôts sauvages.",
+      "themes": [
+        "environnement"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Amende proportionnelle au volume du dépôt sauvage."
+    }
+  ]
+}

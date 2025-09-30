@@ -1,0 +1,164 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2022-01-31",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Odile BRACHET-CONVERT",
+        "Laurent NAULIN",
+        "Geneviève CASCHETTA",
+        "Loïc TAMISIER",
+        "Evelyne VIOLLET",
+        "Jean-Jacques COURBON",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Yves CUBLIER",
+        "Mireille BERTHOUD",
+        "Marc MIOTTO",
+        "Pierre-Luc GUITTET",
+        "Jean-Louis MONTCEL",
+        "Giada RAVET",
+        "Sylvain NAVARRO"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Emilie GRAU",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Concetta SAYER CORTAZZI",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20220131-01",
+      "titre": "Modification de l'objet social de la SPL « Enfance en Pays Mornantais»",
+      "resume": "Modification de l'objet social de la SPL EPM pour inclure la gestion et l'animation d'actions éducatives, de loisirs et d'information jeunesse.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220131-02",
+      "titre": "Modification des commissions municipales",
+      "resume": "Changement de la composition des commissions suite à la démission de Mme Annabelle PATRIER et son remplacement par Mme Emilie GRAU.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220131-03",
+      "titre": "Création d'un emploi non-permanent",
+      "resume": "Création d'un emploi temporaire pour besoins occasionnels durant les vacances de février.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220131-04",
+      "titre": "Marché de travaux de rénovation énergétique et de mise en accessibilité du groupe scolaire",
+      "resume": "Approbation des lots 3, 5, et 11 pour la rénovation énergétique et l'accessibilité du groupe scolaire.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20220131-05",
+      "titre": "Marché de fourniture et installation de stores enrouleurs",
+      "resume": "Attribution du marché pour la fourniture et l'installation de stores enrouleurs dans les salles de la Maison des Associations.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

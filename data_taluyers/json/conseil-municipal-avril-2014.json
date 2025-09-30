@@ -1,0 +1,173 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2014-04-07",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Marc MIOTTO",
+        "Odile BRACHET",
+        "Charles JULLIAN",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Guy DANIEL",
+        "Martine TREVISANI",
+        "Bruno SICARD",
+        "Dominique FONS",
+        "Yves CUBLIER",
+        "Jean-Jacques COURBON",
+        "Véronique GOUTTENOIRE",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "David SEGURA",
+        "Loïc TAMISIER",
+        "Séverine SICHE-CHOL",
+        "Nathalie FORISSIER",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "Delib01",
+      "titre": "Délégation du conseil municipal au Maire",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Marc MIOTTO",
+            "Odile BRACHET",
+            "Charles JULLIAN",
+            "Sylvie ROMAN CLAVELLOUX",
+            "Guy DANIEL",
+            "Martine TREVISANI",
+            "Bruno SICARD",
+            "Dominique FONS",
+            "Yves CUBLIER",
+            "Jean-Jacques COURBON",
+            "Véronique GOUTTENOIRE",
+            "Isabelle PETIT",
+            "Jean-Pierre MARCONNET",
+            "David SEGURA",
+            "Loïc TAMISIER",
+            "Séverine SICHE-CHOL",
+            "Nathalie FORISSIER",
+            "Audrey MICHALLET"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Pascal OUTREBON"
+          ]
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Delib02",
+      "titre": "Désignation des délégués au Syndicat des Eaux Millery-Mornant (MIMO)",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Delib03",
+      "titre": "Désignation des délégués au Syndicat Mixte d’Aménagement et de Gestion du bassin versant du Garon (SMAGGA)",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Delib04",
+      "titre": "Désignation des délégués au Syndicat Mixte pour la Station d’Epuration de Givors (SYSEG)",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Delib05",
+      "titre": "Désignation des délégués au Syndicat Départemental d’Energie du Rhône (SYDER)",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2015-06-01",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Sylvie ROMAN CLAVELLOUX",
+        "Bruno SICARD",
+        "Isabelle PETIT",
+        "Jean-Pierre MARCONNET",
+        "Loïc TAMISIER",
+        "Séverine SICHE-CHOL",
+        "Martine TREVISANI",
+        "Jean-Jacques COURBON",
+        "Véronique GOUTTENOIRE",
+        "Yves CUBLIER",
+        "Guy DANIEL",
+        "Dominique FONS",
+        "Charles JULLIAN",
+        "Marc MIOTTO"
+      ],
+      "EXCUSE": [
+        "Audrey MICHALLET",
+        "Nathalie FORISSIER"
+      ],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "David SEGURA",
+          "mandataire": "Guy DANIEL"
+        }
+      ],
+      "ABSENT": []
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20150601-01",
+      "titre": "Subvention complémentaire à l’association « Talus’arts »",
+      "resume": "Talus’arts a organisé Festiv’arts avec exposition et ateliers, et reçoit 1 000 € de subvention complémentaire.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150601-02",
+      "titre": "Modification du règlement intérieur du restaurant scolaire et du service périscolaire",
+      "resume": "Création d’un règlement commun pour la restauration scolaire et le périscolaire, avec harmonisation des tranches de QF.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150601-03",
+      "titre": "Temps d’Activités Périscolaires – Mise à jour de la convention avec les associations",
+      "resume": "Mise à jour de la convention de partenariat pour les TAP avec responsabilité et liste des enfants à fournir.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20150601-04",
+      "titre": "Reprise des missions d’Autorisation des Droits du Sol (ADS) – convention avec le Syndicat de l’Ouest Lyonnais",
+      "resume": "Approbation de la convention avec le SOL pour l'instruction des ADS, la commune garde certaines missions.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Convention entre la commune et le SOL précisant les missions partagées."
+    }
+  ]
+}

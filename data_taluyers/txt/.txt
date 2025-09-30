@@ -1,0 +1,1 @@
+__PDF_TEXT_EXTRACTION_ERROR__ [Errno 21] Is a directory: '.'

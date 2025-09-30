@@ -1,0 +1,561 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-03-25",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [
+      "Sylvain NAVARRO (Secrétaire de séance)"
+    ],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Sylvain NAVARRO",
+        "Marc MIOTTO",
+        "Charles JULLIAN",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Giada RAVET",
+        "Yves CUBLIER",
+        "Jean-Louis MONTCEL",
+        "Evelyne VIOLLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Pierre-Luc GUITTET",
+          "mandataire": "Séverine SICHÉ-CHOL"
+        },
+        {
+          "mandant": "Geneviève CASCHETTA",
+          "mandataire": "Giada RAVET"
+        },
+        {
+          "mandant": "Mireille BERTHOUD",
+          "mandataire": "Marc MIOTTO"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20240325-01",
+      "titre": "Budget principal - Approbation du compte de Gestion 2023",
+      "resume": "Approbation à l'unanimité du compte de gestion 2023.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-02",
+      "titre": "Budget principal – Approbation du compte administratif 2023",
+      "resume": "Approbation à l'unanimité du compte administratif 2023.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "M. Pascal OUTREBON s'est retiré pour le vote."
+    },
+    {
+      "id": "20240325-03",
+      "titre": "Budget principal – Affectation des résultats de l'exercice 2023",
+      "resume": "Affectation des résultats de fonctionnement et d'investissement 2023.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-04",
+      "titre": "Budget principal - Vote des taux d'imposition 2024",
+      "resume": "Vote des taux d'imposition pour l'année 2024.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-05",
+      "titre": "Vote des subventions aux associations et au CCAS",
+      "resume": "Attribution des subventions aux associations et au CCAS pour l'année 2024.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Mme Christiane ROUAND n'a pas pris part au vote."
+    },
+    {
+      "id": "20240325-06",
+      "titre": "Révision n°1 AP/CP - Fonds de concours voirie rue du Prieuré, Saint-Marc et Blanchardes",
+      "resume": "Révision n°1 de l'AP/CP pour les travaux de voirie.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-07",
+      "titre": "Révision n°1 AP/CP – Travaux de mobilité douce",
+      "resume": "Révision n°1 de l'AP/CP pour les travaux de mobilité douce.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-08",
+      "titre": "Mise en place de la fongibilité des crédits",
+      "resume": "Autoriser le Maire à procéder à des mouvements de crédits.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-09",
+      "titre": "Budget principal - Adoption du budget primitif 2024",
+      "resume": "Approbation du Budget Primitif principal 2024.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-10",
+      "titre": "Budget Locaux commerciaux - Approbation du compte de gestion 2023",
+      "resume": "Approbation du compte de gestion 2023 du budget Locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-11",
+      "titre": "Budget Locaux commerciaux - Approbation du compte administratif 2023",
+      "resume": "Approbation du compte administratif 2023 du budget Locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 18,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "M. Pascal OUTREBON s'est retiré pour le vote."
+    },
+    {
+      "id": "20240325-12",
+      "titre": "Budget Locaux commerciaux - Affectation du résultat",
+      "resume": "Affectation des résultats 2023 du budget Locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-13",
+      "titre": "Budget Locaux commerciaux - Adoption du budget primitif 2024",
+      "resume": "Approbation du Budget Primitif 2024 du budget Locaux commerciaux.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-14",
+      "titre": "Convention de groupement de commande voirie - attribution du marché",
+      "resume": "Désignation du groupement d'entreprise pour le marché de travaux de voirie.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-15",
+      "titre": "Lignes Directrices de Gestion - Renouvellement",
+      "resume": "Approbation des Lignes Directrices de Gestion pour une période de 3 ans.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-16",
+      "titre": "Instauration de la prime pouvoir d'achat",
+      "resume": "Mise en place d'une prime exceptionnelle de pouvoir d'achat.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-17",
+      "titre": "Convention de mise à disposition d'agents par la COPAMO",
+      "resume": "Convention avec la COPAMO pour la mise à disposition d'agents pour l'entretien du parc automobile.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-18",
+      "titre": "Validation du rapport de la CLECT pour le transfert de la compétence « gestion des espaces jeunes »",
+      "resume": "Approbation du rapport de la CLECT pour le transfert de la compétence « gestion des espaces jeunes ».",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-19",
+      "titre": "Convention « dispositif aidant scolaire H+ »",
+      "resume": "Approbation de la convention pour le dispositif des aidants scolaires H+.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-20",
+      "titre": "Déclassement et désaffectation de la parcelle n° A 3213",
+      "resume": "Déclassement de la parcelle pour la mise en valeur patrimoniale de la Tour Sainte-Maxime.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-21",
+      "titre": "Approbation de la modification simplifiée n° 1 du Plan Local d'Urbanisme (PLU)",
+      "resume": "Approbation de la modification simplifiée n° 1 du PLU liée aux zones UB.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20240325-22",
+      "titre": "Acquisition des parcelles cadastrées B n°82 et n°769",
+      "resume": "Approbation de l'achat des parcelles pour développement agriphotovoltaïque.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 19,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

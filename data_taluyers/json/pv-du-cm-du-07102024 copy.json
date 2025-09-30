@@ -1,0 +1,276 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-10-07",
+    "lieu": "Mairie de Taluyers",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Geneviève CASCHETTA",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Sylvain NAVARRO",
+        "Yves CUBLIER",
+        "Pierre-Luc GUITTET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHET-CONVERT"
+        }
+      ],
+      "ABSENT": [
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": null,
+      "titre": "Approbation du procès-verbal de la séance du Conseil municipal du 30 août 2024",
+      "resume": null,
+      "themes": [],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20241007-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création et modification de postes d'adjoint d'animation.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20241007-02",
+      "titre": "Budget Principal 2024 - Décision Modificative n°2",
+      "resume": "Ajustements budgétaires pour fonctionnement et investissement.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Subvention de 17384 € pour rénovation thermique."
+    },
+    {
+      "id": "Délibération n°20241007-03",
+      "titre": "Mandat spécial pour déplacement à Paris au 106ème Congrès des Maires",
+      "resume": null,
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 11,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Pascal OUTREBON, Séverine SICHE-CHOL, Odile BRACHET-CONVERT, Charles JULLIAN ne prennent pas part au vote."
+    },
+    {
+      "id": "Délibération n°20241007-04",
+      "titre": "Renouvellement du dispositif de signalement des actes de violence, discrimination, harcèlement et agissements sexistes",
+      "resume": "Adhésion au dispositif de signalement avec le Centre de Gestion du Rhône.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20241007-05",
+      "titre": "Convention tripartite pour une aire de covoiturage au lieu-dit « Le Bâtard »",
+      "resume": "Aménagement d'une aire de covoiturage et liaison piétonne.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Financement par la COPAMO évalué à 75440,00 € HT."
+    },
+    {
+      "id": "Délibération n°20241007-06",
+      "titre": "Approbation de la Convention Territoriale Globale (CTG)",
+      "resume": "Convention avec la CAF du Rhône pour la période 2024-2028.",
+      "themes": [
+        "subventions",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20241007-07",
+      "titre": "Avenant à la convention relative au versement d'un fonds de concours avec la COPAMO",
+      "resume": "Modifications financières et géographiques pour des travaux de voirie.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Participations communales estimées à 537 891,20 €."
+    },
+    {
+      "id": "Délibération n°20241007-08",
+      "titre": "Convention d'occupation des locaux municipaux par les associations – 2025 à 2027",
+      "resume": "Renouvellement des conventions d'occupation des locaux municipaux.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "Délibération n°20241007-09",
+      "titre": "Renouvellement de l'adhésion à un groupement de commandes pour l'achat d'électricité",
+      "resume": null,
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 15,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

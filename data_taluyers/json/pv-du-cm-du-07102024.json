@@ -1,0 +1,254 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2024-10-07",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Séverine SICHÉ-CHOL",
+        "Jean-Jacques COURBON",
+        "Odile BRACHETCONVERT",
+        "Laurent NAULIN",
+        "Loïc TAMISIER",
+        "Charles JULLIAN",
+        "Geneviève CASCHETTA",
+        "Marc MIOTTO",
+        "Mireille BERTHOUD",
+        "Christiane ROUAND",
+        "Emilie GRAU",
+        "Sylvain NAVARRO",
+        "Yves CUBLIER",
+        "Pierre-Luc GUITTET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Loïc TAMISIER"
+        },
+        {
+          "mandant": "Giada RAVET",
+          "mandataire": "Odile BRACHET-CONVERT"
+        }
+      ],
+      "ABSENT": [
+        "Evelyne VIOLLET",
+        "Jean-Louis MONTCEL",
+        "Stéphane LEMARCHAND",
+        "Sébastien CHAIZE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20241007-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Création et modification de postes d'adjoints d'animation.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241007-02",
+      "titre": "Budget Principal 2024 - Décision Modificative n°2",
+      "resume": "Modifications budgétaires pour le fonctionnement et l'investissement.",
+      "themes": [
+        "budget"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241007-03",
+      "titre": "Mandat spécial pour le Congrès des Maires",
+      "resume": "Mandat spécial pour le Congrès des Maires en novembre 2024.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Pascal OUTREBON, Séverine SICHÉ-CHOL, Odile BRACHET-CONVERT, Charles JULLIAN ne prennent pas part au vote."
+    },
+    {
+      "id": "20241007-04",
+      "titre": "Renouvellement du dispositif de signalement des actes de violence",
+      "resume": "Adhésion au dispositif de signalement des actes de violence, discrimination, harcèlement et agissements sexistes.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241007-05",
+      "titre": "Convention tripartite pour aire de covoiturage",
+      "resume": "Convention pour la réalisation d'une aire de covoiturage au lieu-dit 'Le Bâtard'.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241007-06",
+      "titre": "Approbation de la Convention Territoriale Globale (CTG)",
+      "resume": "Approbation de la CTG avec la CAF du Rhône pour 2024-2028.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241007-07",
+      "titre": "Avenant à la convention de fonds de concours COPAMO",
+      "resume": "Avenant à la convention pour les travaux des rues du Prieuré, Blanchardes, Saint-Marc.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241007-08",
+      "titre": "Convention d'occupation des locaux municipaux par les associations",
+      "resume": "Approbation des conventions d'occupation des locaux par les associations pour 2025 à 2027.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20241007-09",
+      "titre": "Renouvellement de l'adhésion à un groupement de commandes pour l'achat d'électricité",
+      "resume": "Adhésion au groupement de commandes pour l'achat d'électricité coordiné par le SYDER.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

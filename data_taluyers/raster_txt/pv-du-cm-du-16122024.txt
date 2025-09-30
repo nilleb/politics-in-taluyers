@@ -1,0 +1,243 @@
+# Lundi 16 décembre 2024 à 19 h 00 
+
+Nombre de conseillers : 23
+En exercice : 21
+Présents : 12
+Votants : 18
+L'an Deux-mille-vingt-quatre, le 16 décembre, le Conseil Municipal s'est réuni en session ordinaire à la Mairie, sous la présidence de Monsieur Pascal OUTREBON, Maire.
+
+Date de convocation du Conseil Municipal : 9 décembre 2024
+Présents : M. Pascal OUTREBON, M. Jean-Jacques COURBON, Mme Odile BRACHET-CONVERT, M. Laurent NAULIN, M. Loïc TAMISIER, M. Charles JULLIAN, M. Marc MIOTTO, Mme Mireille BERTHOUD, M. Sylvain NAVARRO, M. PierreLuc GUITTET, Mme Evelyne VIOLLET, M. Jean-Louis MONTCEL,
+
+Absents excusés : Mme Séverine SICHÉ-CHOL a donné pouvoir à M. Jean-Louis MONTCEL Mme Geneviève CASCHETTA a donné pouvoir à M. Charles JULLIAN Mme Christiane ROUAND a donné pouvoir à Mme Mireille BERTHOUD Mme Emilie GRAU a donné pouvoir à Mme Evelyne VIOLLET Mme Audrey MICHALLET a donné pouvoir à M. Loïc TAMISIER Mme Giada RAVET a donné pouvoir à Mme Odile BRACHET-CONVERT
+
+Absents : M. Yves CUBLIER, M. Stéphane LEMARCHAND, M. Sébastien CHAIZE
+Secrétaire de séance : M. Charles JULLIAN
+
+Le quorum étant atteint, le conseil municipal peut valablement délibérer.
+
+## - Approbation du procès-verbal de la séance du Conseil municipal du 18 novembre 2024
+
+Le PV de la séance du Conseil municipal du 18 novembre 2024 est approuvé à l'unanimité des votes exprimés.
+
+## Délibération n²0241216-01
+
+## - Modification du tableau des effectifs
+
+Conformément à l'article L. 313-1 du code général de la fonction publique, les emplois de chaque collectivité ou établissement sont créés par l'organe délibérant de la collectivité.
+Il appartient donc à l'assemblée délibérante, compte tenu des nécessités du service, de modifier le tableau des emplois, afin de permettre la nomination de l'agent inscrit au tableau d'avancement de grade établi pour l'année 2024.
+
+Cette modification, préalable à la nomination, entraîne la suppression de l'emploi d'origine, et la création de l'emploi correspondant au grade d'avancement.
+Compte tenu des dates du CST placé auprès du Centre de Gestion du Rhône, les suppressions de poste seront proposées lors d'une prochaine séance.
+---
+
+|  SUPPRESSION DE POSTE | Quotité hebdomadaire | CREATION DE POSTE | Quotité hebdomadaire  |
+| --- | --- | --- | --- |
+|   |  | ATSEM ppal de 1ère classe | 35/35ème  |
+|   |  | Adjoint administratif principal de 1ère classe | 32/35ème  |
+|   |  | Adjoint technique principal de 2ème classe | 26,5/35ème  |
+|   |  | Adjoint technique principal de 2ème classe | 28,75/35ème  |
+
+Vu le tableau des emplois,
+
+Vu le code général des collectivités territoriales,
+
+Vu le code général de la fonction publique,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- **ADOPTE** la modification du tableau des emplois ainsi proposée, à compter du 01/01/2025,
+- **DIT** que les crédits nécessaires à la rémunération et aux charges des agents nommés dans l'emploi seront inscrits au budget 2025, chapitre 012.
+
+## Délibération n°20241216-02
+
+- **Autorisation d'engager, liquider et mandater les dépenses d'investissement de l'exercice 2025 dans la limite du quart des crédits ouverts au budget de l'exercice 2024**
+
+Au cas où le budget d'une collectivité territoriale n'a pas été adopté avant le 1er janvier de l'exercice auquel il s'applique, l'exécutif de la collectivité territoriale est en droit, jusqu'à l'adoption de ce budget, de mettre en recouvrement les recettes et d'engager, de liquider et de mandater les dépenses de la section de fonctionnement dans la limite de celles inscrites au budget de l'année précédente.
+
+En outre, jusqu'à l'adoption du budget [...] l'exécutif de la collectivité territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et mandater les dépenses d'investissement, dans la limite du quart des crédits ouverts au budget de l'exercice précédent, non compris les crédits afférents au remboursement de la dette.
+
+|  Chapitre - libellé | Dépenses ouvertes en 2024  |
+| --- | --- |
+|  20 – Immobilisations incorporelles | 14 656,76 €  |
+|  21 – Immobilisations corporelles | 1 321 873,52 €  |
+|  **TOTAL** | 1 336 530,28 €  |
+
+|  Chapitre | Opération | Compte | Dépenses à ouvrir avant le vote du BP 2025  |
+| --- | --- | --- | --- |
+|   | 185-Matériel informatique | 2183 | 3 000,00 €  |
+|   | 206-Acquisition diverses terrains | 2111 | 5 000,00 €  |
+|   | 225-Acquisition matériel d'exploitation | 2158 | 2 000,00 €  |
+|   | 231-Voirie | 2128 | 30 000,00 €  |
+---
+
+| 21 - Immobilisations corporelles | 232-Aménagement bâtiments communaux | 2131 | $20000,00 €$  |
+| --- | --- | --- | --- |
+|   | 235-Aménagement sécurité | 2128 | $20000,00 €$  |
+|   | 253-Aménagement espaces verts publics | 2181 | $10000,00 €$  |
+|   | 255-Maison des associations | 2158 | $10000,00 €$  |
+|   | 261-Matériel écoles | 2158 | $4000,00 €$  |
+|   | 263-Matériel illuminations | 2158 | $7000,00 €$  |
+|   | 264-Révision et modifications PLU | 202 | $5000,00 €$  |
+|   | 268-Parc Pie X | 2158 | $2000,00 €$  |
+|   | 271-Rénovation salle d'animation | 21314 | $20000,00 €$  |
+|   | 278-PIG du pays mornantais | 20422 | $1500,00 €$  |
+|   |  | TOTAL: | 139500,00 €  |
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- AUTORISE Monsieur le Maire à engager, liquider et mandater les dépenses d'investissement de 2025 avant le vote du budget 2025 dans la limite des crédits et représentant $25 \%$ maximum des crédits ouverts au budget de l'exercice 2024, non compris les crédits afférents au remboursement de la dette, tel qu'indiqué ci-dessus.
+
+# Délibération n²0241216-03
+
+## - Convention de partenariat entre la commune de Taluyers et l'Etat relative à la vidéoprotection
+
+La mairie de Taluyers a été autorisée par arrêté préfectoral numéro DSPC-BPA-V-020323-05 du 02 mars 2023 à mettre en œuvre un système de vidéoprotection, conformément aux dispositions des articles L251-1 à L255-1 du Code de la Sécurité Intérieure et le décret d'application n ${ }^{\circ} 96-926$ du 17 octobre 1996 modifié. La commandante du groupement de gendarmerie départementale du Rhône et ses représentants sont habilités à l'accès aux images conformément à l'article L252-3 du Code de la Sécurité Intérieure et à l'arrêté préfectoral autorisant le système. Considérant l'intérêt d'un déport d'images et d'accès aux enregistrements vers les services de la Gendarmerie de Mornant, une convention a été formalisée afin de définir les conditions du partenariat entre l'État et la commune de Taluyers pour l'exploitation du déport de vidéoprotection mis à disposition de l'unité du groupement de la Gendarmerie. La collectivité souhaite créer un renvoi des images à la Gendarmerie de Mornant en mettant à disposition un poste de relecture à la Gendarmerie. Un registre répertoriera le jour, l'heure, les noms, qualité et services des membres des forces de sécurité intérieure et des personnes autorisées qui demandent un accès aux images et aux enregistrements, ainsi que la mention éventuelle d'une réquisition judiciaire en cas d'extraction d'images.
+
+Aucun enregistrement des images obtenues ne peut s'effectuer au sein de la brigade de Gendarmerie de Mornant qui devra effectuer les premières recherches des images avant de solliciter leur extraction par les personnes habilitées de la commune. Seuls les personnels habilités par le commandant d'unité peuvent avoir accès aux images obtenues par le renvoi. La liste établie sera annexée au registre mentionné supra. La présente convention est conclue pour une période de cinq ans, renouvelable par tacite reconduction L'ensemble des frais financiers alloués à l'installation, au fonctionnement et à la maintenance restent à la charge de la municipalité. M. Laurent NAULIN. Cela va leur faire gagner du temps et c'est aussi une volonté de leur part d'avoir cette partie opérationnelle dans leurs locaux.
+---
+
+M le Maire. L'opération de déport est intéressante, cela permet aux gendarmes d'être autonomes et pouvoir accélérer les enquêtes.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE la convention à intervenir entre l'État et la commune de Taluyers pour l'exploitation du déport de vidéoprotection mis à disposition de l'unité du groupement de la Gendarmerie afin de définir les conditions du partenariat.
+-AUTORISE Monsieur le Maire à signer la convention
+
+
+# Délibération n²20241216-04 
+
+- Approbation du programme et de l'enveloppe financière du marché de maîtrise d'œuvre pour la végétalisation de deux cours d'école
+
+Dans le cadre de la politique municipale en faveur de la transition écologique et après avoir réalisé une rénovation énergétique complète du groupe scolaire, le souhait a été émis d'agrandir et végétaliser la cour d'école élémentaire et repenser la végétalisation disparue de la cour du périscolaire.
+La mission confiée par la commune de Taluyers au maître d'œuvre aura pour objectifs les études et le suivi des travaux nécessaires à la végétalisation et l'amélioration des conditions d'utilisation des deux cours.
+Un programme a été rédigé afin de préciser les attentes et contraintes particulières.
+Dans les deux cours, il sera nécessaire de concevoir des espaces durables dans le temps et adaptés aux nouvelles contraintes environnementales et climatiques. La conception devra également prendre en compte le futur entretien de l'espace aménagé (entretien régulier de la cour, des équipements, des végétaux) qui devra être minimalisé. Il est demandé de prévoir une simplicité et une fonctionnalité d'aménagement, sans fioritures.
+En lien avec le SYSEG, le souhait de la maîtrise d'ouvrage est d'étudier la possible intégration de la gestion des eaux pluviales aux projets de végétalisation.
+
+A minima pour la cour de l'école élémentaire, des solutions d'infiltration, de rétention ou de stockage des eaux pluviales seront proposées, via une noue, un bassin paysager ou un revêtement drainant.
+L'objectif visé est de réceptionner les travaux avant la rentrée scolaire de 2025.
+L'enveloppe financière des travaux est estimée à $110000 € \mathrm{HT}$ et la commune a obtenu une notification de subvention de $10000 €$ de la part de la COPAMO.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE le programme en vue de la désignation d'un maître d'œuvre pour le projet de végétalisation de deux cours d'école.
+- APPROUVE l'enveloppe financière des travaux estimé à $110000 €$ HT
+
+
+## Délibération n²20241216-05
+
+## - Acquisition d'une parcelle de la rue Saint-Marc
+
+Certains propriétaires riverains de la rue Saint-Marc, bien qu'ayant édifié leurs clôtures en retrait de la voirie, sont encore propriétaires d'une portion de la voirie au droit de leurs propriétés.
+La commune a été interpellée par la propriétaire de la parcelle $n^{\circ} \mathrm{A} 2491$, d'une superficie de $59 \mathrm{~m}^{2}$ qui souhaite régulariser la situation.
+La parcelle en question étant constituée du trottoir de la rue Saint-Marc, cette acquisition est une régularisation qui sera réalisée à l'euro symbolique.
+---
+
+![img-0.jpeg](img-0.jpeg)
+
+Vu le code général des collectivités territoriales, article L 2121-29,
+Vu le code général des collectivités territoriales, article L 2241-1 modifié par l'ordonnance n²006-460 du 21 avril 2006 art. 3 VII,
+
+Vu le code général de la propriété des personnes publiques, article L3221-1,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE l'acquisition, à l'euro symbolique, de la parcelle cadastrée $\mathrm{n}^{\circ} \mathrm{A} 2491$ en vue de son incorporation au domaine public communal.
+- AUTORISE Monsieur le Maire à signer tout acte à intervenir, tous les frais et droits en résultant étant supportés par la commune.
+
+
+# Délibération n²0241216-06 
+
+## - Acquisition d'une parcelle de la rue des Blanchardes
+
+Dans le cadre de sa compétence voirie, la COPAMO envisage à moyen terme l'aménagement de la rue des Blanchardes avec un cheminement modes doux pour les piétons.
+Certains propriétaires riverains de la rue des Blanchardes sont encore propriétaires d'une portion de la voirie et il va être nécessaire de régulariser la situation en acquérant ces parcelles qui seront sur l'emprise du nouvel aménagement à venir.
+
+La commune a missionné un géomètre afin de réaliser un plan de régularisation de la rue des Blanchardes. Les propriétaires concernés ont ensuite reçu un courrier d'information, leur demandant de se positionner sur les propositions d'acquisition en fonction des spécificités de leurs parcelles.
+La parcelle cadastrée A $\mathrm{n}^{\circ} 2188$, d'une surface de $54 \mathrm{~m}^{2}$, est constitué d'un mur en pierres. Cette acquisition est nécessaire à l'élargissement et l'aménagement futur de la rue des Blanchardes ; elle sera réalisée moyennant un prix de $1350 €$.
+---
+
+![img-1.jpeg](img-1.jpeg)
+
+Vu le code général des collectivités territoriales, article L 2121-29,
+Vu le code général des collectivités territoriales, article L 2241-1 modifié par l'ordonnance n²006-460 du 21 avril 2006 art. 3 VII,
+
+Vu le code général de la propriété des personnes publiques, article L3221-1,
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- APPROUVE l'acquisition de la parcelle cadastrée A n²188, au prix de $1350 €$, en vue de son incorporation au domaine public communal.
+- AUTORISE Monsieur le Maire à signer tout acte à intervenir, tous les frais et droits en résultant étant supportés par la commune.
+
+
+# Délibération n²0241216-07 
+
+- Décision de la Mission Régionale d'Autorité Environnementale relative à la modification $\mathbf{n}^{\circ} 2$ du PLU
+
+Dans le cadre de la procédure de modification $n^{\circ} 2$ du PLU de la commune de Taluyers, conformément aux articles R104-33 à R104-37 du Code de l'urbanisme, la Mission Régionale d'Autorité Environnementale a été saisie.
+
+Considérant que le projet de modification $n^{\circ} 2$ du PLU de Taluyers n'est pas susceptible d'avoir des incidences notables sur l'environnement et sur la santé humaine, elle ne requiert pas la réalisation d'une évaluation environnementale.
+
+Le Conseil Municipal, après en avoir délibéré, à l'unanimité,
+
+- ENTERINE l'avis de la MRAE Auvergne-Rhone-Alpes (pas de réalisation d'une évaluation environnementale) relatif au projet de modification $n^{\circ} 2$ de la commune de Taluyers.
+- DECIDE de ne pas procéder à l'évaluation environnementale de la modification $n^{\circ} 2$ du PLU de Taluyers
+---
+
+# Décisions prises par le Maire sur délégation du conseil municipal
+
+|  Préparation, passation, exécution et règlement des marchés < 20 000 € HT |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | Fournisseur/demandeur/intéressé | Montant HT  |
+|  22/11/2024 | Mise en place d'un registre dématérialisé pour la modification n°2 du PLU avec site et adresse mail dédiés et insertions presse incluses | LEGALCOM 14 rue Beffroy - 92523 NEUILLY-SUR-SEINE | 2 484,00 €  |
+|  03/12/2024 | Terrassement et raccordement eau potable du sanitaire du Parc Pie X | VEOLIA - 87 rue Einstein - 71040 MACON | 3 090,34 €  |
+|  03/12/2024 | Raccordement des eaux usées pour le sanitaire du Parc Pie X | VEOLIA - 87 rue Einstein - 71040 MACON | 2 278,60 €  |
+|  13/12/2024 | Mise aux normes électriques de la salle voutée du Cuvier | ECOL - ZA des Lats - 69510 MESSIMY | 1 097,50 €  |
+
+|  Décision d'aliéner de gré à gré des biens mobiliers jusqu'à 4 600 euros ; |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | demandeur/intéressé | Montant  |
+|  18/11/2024 | Vente de l'ancien camion-benne des services techniques | GM TRUCK - 56 route de Grenoble - 69800 SAINT-PRIEST | 1 200 €  |
+
+|  Délivrance et reprise des concessions dans les cimetières |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | Durée | Montant  |
+|  29/11/2024 | Concession NC 009-010 | 30 ans | 680 €  |
+|  26/11/2024 | Concession NC 086-087 | 30 ans | 680 €  |
+
+|  Exercice du droit de préemption |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Désignation du bien | Adresse du bien | Décision  |
+|  27/11/2024 | Maison d'habitation - Section A n°0053 | 66, Rue de la Chabaudière | Pas de préemption  |
+
+|  Conclusion et révision du louage de choses |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | demandeur/intéressé | Montant  |
+
+|  Accepter les indemnités de sinistres |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | demandeur/intéressé | Montant  |
+
+|  Décision d'intenter au nom de la commune des actions en justice |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | demandeur/intéressé |   |
+
+|  Décision de créer, modifier ou supprimer les régies comptables |  |  |   |
+| --- | --- | --- | --- |
+|  Date | Objet | demandeur/intéressé |   |
+
+# Tour de table
+
+**M. le Maire.** *Nous avons reçu des remerciements d'un couple par rapport au colis de fin d'année. On a de plus en plus de gens qui ne sont pas présents le jour de la distribution et on accumule une quantité importante de colis pour lesquels les gens ne veulent pas que l'on passe et ils viennent les chercher en mairie de façon impersonnelle. Cela dénature le lien et la vocation initiale d'aller rendre visite à des gens esseulés. A Mornant et Beauvallon, ils ont le même problème et ces communes ne souhaitent plus que les gens viennent chercher leurs colis en mairie. Le colis doit garder sa vocation sociale.*
+
+**Monsieur Loïc TAMISIER.** *J'adresse des remerciements à tous les bénévoles et à Céline qui a géré la logistique des colis. Merci aux agents techniques pour les décorations de Noël dans le village.*
+
+**M. Charles JULLIAN.** *J'ai été interpellé par ORANGE pour un projet d'implantation d'une antenne relais mobile.*
+
+![img-2.jpeg](img-2.jpeg)
+
+![img-3.jpeg](img-3.jpeg)
+---
+
+.

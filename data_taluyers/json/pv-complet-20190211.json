@@ -1,0 +1,301 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2019-02-11",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Martine TREVISANI",
+        "Séverine SICHE CHOL",
+        "Véronique GOUTTENOIRE",
+        "Bruno SICARD",
+        "Dominique FONS",
+        "Odile BRACHET",
+        "Isabelle PETIT",
+        "Marc MIOTTO",
+        "Charles JULLIAN",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "David SEGURA",
+        "Yves CUBLIER",
+        "Audrey MICHALLET"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Guy DANIEL",
+          "mandataire": "Pascal OUTREBON"
+        },
+        {
+          "mandant": "Loïc TAMISIER",
+          "mandataire": "Séverine SICHE CHOL"
+        }
+      ],
+      "ABSENT": [
+        "Jean-Jacques COURBON",
+        "Jean-Pierre MARCONNET",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20190211-01",
+      "titre": "Création d’emplois non-permanents pour des besoins saisonniers",
+      "resume": "Recrutement non permanent pour besoins saisonniers et départ à la retraite d’un agent.",
+      "themes": [
+        "RH",
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Les crédits correspondants seront inscrits au budget."
+    },
+    {
+      "id": "20190211-02",
+      "titre": "Dénomination de la nouvelle bibliothèque",
+      "resume": "Nomination de la nouvelle bibliothèque municipale de Taluyers comme 'Mots passants'.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-03",
+      "titre": "Travaux de restauration de l’église – demande de subvention",
+      "resume": "Demande de subvention à la Région pour les travaux de restauration de l’église.",
+      "themes": [
+        "urbanisme",
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-04",
+      "titre": "Construction d’une bibliothèque – Demande de subvention DGD",
+      "resume": "Demande de subvention pour l’équipement en matériel, mobilier et informatisation de la nouvelle bibliothèque.",
+      "themes": [
+        "subventions",
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-05",
+      "titre": "Extension des horaires d’ouverture de la bibliothèque – Demande de subvention",
+      "resume": "Demande de subvention pour l’extension des horaires d'ouverture de la bibliothèque municipale.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-06",
+      "titre": "Construction d’une bibliothèque – Lot 8 Plâtrerie-peinture",
+      "resume": "Modification du contrat avec l’entreprise LARDY pour fourniture et pose d’une cloison coupe-feu.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-07",
+      "titre": "Construction d’une bibliothèque – Lot 2 Maçonnerie",
+      "resume": "Modification du contrat avec l’entreprise LCA pour piquage des fondations.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-08",
+      "titre": "Construction d’une bibliothèque – Lot 3 Ossature bois charpente",
+      "resume": "Modification du contrat avec l’entreprise MARTIGNAT pour suppression d’une bande d’isolant.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-09",
+      "titre": "Travaux de restauration de l’église – Lot 2 Charpente couverture",
+      "resume": "Modification du contrat avec l’entreprise BEAUFILS pour dépose de plaques d’amiante.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-10",
+      "titre": "Répartition 2018 du produit des amendes de police",
+      "resume": "Engagement de réalisation des travaux de sécurisation et développement signalisation.",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20190211-11",
+      "titre": "Travaux de restauration de l’église – attribution du marché d’archéologie préventive",
+      "resume": "Attribution du marché d’archéologie préventive à SCOP HADES SAS.",
+      "themes": [
+        "urbanisme"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}

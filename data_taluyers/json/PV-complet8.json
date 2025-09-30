@@ -1,0 +1,83 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2017-04-13",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Dominique FONS",
+        "Séverine SICHE CHOL",
+        "Martine TREVISANI",
+        "Yves CUBLIER",
+        "Bruno SICARD",
+        "Jean-Pierre MARCONNET",
+        "Jean-Jacques COURBON",
+        "David SEGURA"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Véronique GOUTTENOIRE",
+          "mandataire": "Jean-Pierre MARCONNET"
+        },
+        {
+          "mandant": "Audrey MICHALLET",
+          "mandataire": "Dominique FONS"
+        },
+        {
+          "mandant": "Sylvie ROMAN-CLAVELLOUX",
+          "mandataire": "David SEGURA"
+        },
+        {
+          "mandant": "Guy DANIEL",
+          "mandataire": "Odile BRACHET"
+        },
+        {
+          "mandant": "Charles JULLIAN",
+          "mandataire": "Jean-Jacques COURBON"
+        },
+        {
+          "mandant": "Loïc TAMISIER",
+          "mandataire": "Séverine SICHE CHOL"
+        },
+        {
+          "mandant": "Marc MIOTTO",
+          "mandataire": "Bruno SICARD"
+        }
+      ],
+      "ABSENT": [
+        "Isabelle PETIT",
+        "Nathalie FORISSIER"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20170413-01",
+      "titre": "Marché de rénovation thermique de la Salle d’Animation",
+      "resume": "Attribution des lots du marché de rénovation thermique de la Salle d'Animation",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 17,
+          "contre": 0,
+          "abstention": 0
+        }
+      },
+      "page_approx": null,
+      "notes": "Le marché de travaux est attribué pour un montant total de 265 546,91 € HT, en accord avec l'estimation du maître d'œuvre."
+    }
+  ]
+}

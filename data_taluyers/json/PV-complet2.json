@@ -1,0 +1,204 @@
+{
+  "commune": "Taluyers",
+  "seance": {
+    "date": "2016-07-11",
+    "lieu": "Mairie",
+    "lien_source_pdf": null,
+    "autres_participants": [],
+    "presence": {
+      "PRESENT": [
+        "Pascal OUTREBON",
+        "Odile BRACHET",
+        "Bruno SICARD",
+        "Jean-Pierre MARCONNET",
+        "Dominique FONS",
+        "Guy DANIEL",
+        "Loïc TAMISIER",
+        "Séverine SICHE CHOL",
+        "Charles JULLIAN",
+        "Martine TREVISANI",
+        "Isabelle PETIT",
+        "Nathalie FORISSIER",
+        "Véronique GOUTTENOIRE"
+      ],
+      "EXCUSE": [],
+      "EXCUSE_AVEC_POUVOIR": [
+        {
+          "mandant": "Jean-Jacques COURBON",
+          "mandataire": "Charles JULLIAN"
+        },
+        {
+          "mandant": "Nathalie FORISSIER",
+          "mandataire": "Guy DANIEL"
+        },
+        {
+          "mandant": "David SEGURA",
+          "mandataire": "Loïc TAMISIER"
+        }
+      ],
+      "ABSENT": [
+        "Audrey MICHALLET",
+        "Sylvie ROMAN-CLAVELLOUX",
+        "Marc MIOTTO",
+        "Yves CUBLIER",
+        "Véronique GOUTTENOIRE"
+      ]
+    }
+  },
+  "deliberations": [
+    {
+      "id": "20160711-01",
+      "titre": "Modification du tableau des effectifs",
+      "resume": "Réorganisation des postes du service périscolaire et d'entretien des locaux.",
+      "themes": [
+        "RH"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160711-02",
+      "titre": "Convention avec le SDMIS",
+      "resume": "Prise en charge par le service périscolaire des enfants des sapeurs-pompiers volontaires en intervention.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160711-03",
+      "titre": "Modification du règlement d’utilisation de la salle des Barbelous et de la Salle d’Animation",
+      "resume": "Modification des modalités de dépôt des chèques de caution et de réservation.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160711-04",
+      "titre": "Convention avec le SYDER pour la valorisation des Certificats d’Energie",
+      "resume": "Validation des certificats d’économies d’énergie (CEE) pour des travaux d’efficacité énergétique.",
+      "themes": [
+        "marches"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160711-06",
+      "titre": "Subvention exceptionnelle",
+      "resume": "Versement d'une subvention de 75 € à l’association « La Fafa’trie » pour participer au « 4L Trophy ».",
+      "themes": [
+        "subventions"
+      ],
+      "vote": {
+        "mode": "MAJORITE",
+        "detail": {
+          "POUR": [
+            "Pascal OUTREBON",
+            "Odile BRACHET",
+            "Bruno SICARD",
+            "Jean-Pierre MARCONNET",
+            "Dominique FONS",
+            "Guy DANIEL",
+            "Loïc TAMISIER",
+            "Séverine SICHE CHOL",
+            "Charles JULLIAN",
+            "Martine TREVISANI",
+            "Isabelle PETIT",
+            "Nathalie FORISSIER",
+            "Véronique GOUTTENOIRE"
+          ],
+          "CONTRE": [],
+          "ABSTENTION": [
+            "Guy DANIEL"
+          ]
+        },
+        "compteur": {
+          "pour": 14,
+          "contre": 0,
+          "abstention": 1
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    },
+    {
+      "id": "20160711-07",
+      "titre": "Désherbage des livres à la bibliothèque municipale",
+      "resume": "Élimination de livres de la bibliothèque municipale pour garantir la vitalité du fonds.",
+      "themes": [
+        "autre"
+      ],
+      "vote": {
+        "mode": "UNANIMITE",
+        "detail": {
+          "POUR": [],
+          "CONTRE": [],
+          "ABSTENTION": []
+        },
+        "compteur": {
+          "pour": null,
+          "contre": null,
+          "abstention": null
+        }
+      },
+      "page_approx": null,
+      "notes": null
+    }
+  ]
+}
