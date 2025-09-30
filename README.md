@@ -7,7 +7,9 @@ This is actually work in progress, I will update this file as the data flows.
 
 ## Time spans
 
-The data covers the last 10 years - hence three different councils.
+The data covers the last 10 years - hence three different councils. The presence rate may be quite meaningless because the people in charge has changed.
+We can say that Brachet, Jullian, Outrebon, Tamisier, Siché Chol, Courbon, Miotto were certainly elected over the last three mandates.
+The presences.csv is better at visualizing when the mandates changed.
 
 ```sh
 uv run python build_presence_matrix.py data_taluyers/json -o presence.csv
