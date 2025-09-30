@@ -13,6 +13,7 @@ The data covers the last 10 years - hence three different councils.
 uv run python build_presence_matrix.py data_taluyers/json -o presence.csv
 ```
 
+```
 OK: presence.csv écrit (42 élus × 93 séances).
 Légende: présent = 1, absent = 0
 
@@ -59,6 +60,7 @@ CHAIZE                           1 / 93 (  1.1%)
 FERRARI                          0 / 93 (  0.0%)
 LAMOUILLE                        0 / 93 (  0.0%)
 VERPILLIEUX                      0 / 93 (  0.0%)
+```
 
 Donc la palme de la présence revient à Odile Brachet et Charles Jullian. Bravo!
 
@@ -71,6 +73,7 @@ uv run deliberations.py > deliberations.md
 Au cours de 10 années ont été voté 868 déliberations différentes.
 Seules 51 d'entre elles n'ont pas obtenu la majorité, concentrées sur 31 séances.
 
+```
 2025: 3 séances conflictuelles
 2024: 1 séances conflictuelles
 2023: 1 séances conflictuelles
@@ -82,6 +85,7 @@ Seules 51 d'entre elles n'ont pas obtenu la majorité, concentrées sur 31 séan
 2016: 4 séances conflictuelles
 2015: 2 séances conflictuelles
 2014: 2 séances conflictuelles
+```
 
 2020 et 2022 ont été les pires années.
 
