@@ -377,3 +377,15 @@ MAJORITE
 
 
 Total Séances conflictuelles: 31, total déliberations conflictuelles 57, total délibérations: 868
+Par année
+2025: 3 séances conflictuelles
+2024: 1 séances conflictuelles
+2023: 1 séances conflictuelles
+2022: 5 séances conflictuelles
+2021: 3 séances conflictuelles
+2020: 5 séances conflictuelles
+2018: 2 séances conflictuelles
+2017: 3 séances conflictuelles
+2016: 4 séances conflictuelles
+2015: 2 séances conflictuelles
+2014: 2 séances conflictuelles

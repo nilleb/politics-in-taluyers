@@ -58,6 +58,7 @@ for fpath in glob.glob("data_taluyers/json/*.json"):
             )
 
 count = 0
+per_year = defaultdict(int)
 for key in sorted(conflictual_deliberations.keys(), reverse=1):
     print(f"# {key}")
     for cd in conflictual_deliberations[key]:
@@ -67,8 +68,13 @@ for key in sorted(conflictual_deliberations.keys(), reverse=1):
         print(f" - pour: {cd.get('pour')}")
         print(f" - abstention: {cd.get('abstention')}")
     print("\n")
+    per_year[key[:4]] += 1
     count += len(conflictual_deliberations[key])
 
 print(
     f"Total Séances conflictuelles: {len(conflictual_deliberations)}, total déliberations conflictuelles {count}, total délibérations: {total_deliberations}"
 )
+
+print("Par année")
+for key, value in per_year.items():
+    print(f"{key}: {value} séances conflictuelles")
