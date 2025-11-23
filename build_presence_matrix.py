@@ -77,6 +77,21 @@ def safe_list(x):
     return x if isinstance(x, list) else []
 
 
+def get_mandate(session_index: int) -> int:
+    """
+    Détermine le numéro de mandat pour une séance donnée.
+    - Mandat 1: sessions 0-1 (premières 2 séances en 2014)
+    - Mandat 2: sessions 2-37 (36 séances suivantes)
+    - Mandat 3: sessions 38+ (séances restantes)
+    """
+    if session_index < 2:
+        return 1
+    elif session_index < 2 + 36:  # sessions 2 à 37 (36 sessions)
+        return 2
+    else:
+        return 3
+
+
 def load_session(fp: Path):
     """Charge un fichier JSON et retourne (date_iso, meta_dict)."""
     with fp.open("r", encoding="utf-8") as f:
@@ -196,6 +211,10 @@ def main():
     with args.output.open("w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(headers)
+        
+        # Ajoute une ligne avec le numéro de mandat pour chaque séance
+        mandate_row = ["Mandat"] + [str(get_mandate(i)) for i in range(len(sessions_sorted))]
+        writer.writerow(mandate_row)
 
         for elu in elus_sorted:
             row = [elu]
@@ -221,26 +240,57 @@ def recap_presence(csv_file: Path):
     """
     Lit un CSV 'Élu, séance1, séance2, ...'
     et imprime la liste des élus triés par nb de présences décroissant.
+    Affiche aussi les pourcentages de présence par mandat.
     """
     with csv_file.open("r", encoding="utf-8") as f:
         reader = csv.reader(f)
         headers = next(reader)  # skip header row
+        mandate_row = next(reader)  # read mandate row
         session_count = len(headers) - 1
+        
+        # Parse mandate numbers for each session (skip first column "Mandat")
+        mandates = [int(m) for m in mandate_row[1:]]
 
         recap = []
         for row in reader:
             name = row[0]
-            # somme des présences (assume '1' for present, '0' otherwise)
-            presences = sum(int(x) for x in row[1:] if x.strip().isdigit())
-            recap.append((name, presences, session_count))
+            # Get presence values for each session
+            presence_values = [int(x) if x.strip().isdigit() else 0 for x in row[1:]]
+            
+            # Calculate total presences
+            presences = sum(presence_values)
+            
+            # Calculate presences per mandate
+            mandate_presences = {1: 0, 2: 0, 3: 0}
+            mandate_totals = {1: 0, 2: 0, 3: 0}
+            
+            for i, mandate_num in enumerate(mandates):
+                if i < len(presence_values):
+                    mandate_totals[mandate_num] += 1
+                    if presence_values[i] == 1:
+                        mandate_presences[mandate_num] += 1
+            
+            # Calculate percentages per mandate
+            mandate_pcts = {}
+            for m in [1, 2, 3]:
+                total = mandate_totals[m]
+                pct = (mandate_presences[m] * 100 / total) if total > 0 else 0.0
+                mandate_pcts[m] = pct
+            
+            recap.append((name, presences, session_count, mandate_pcts))
 
     # tri par nombre de présences décroissant
     recap.sort(key=lambda x: x[1], reverse=True)
 
     print(f"\n--- Recap présence ({session_count} séances) ---")
-    for name, presences, total in recap:
+    print(f"{'Elu':30s} {'Total':>8s} {'Pct M1':>8s} {'Pct M2':>8s} {'Pct M3':>8s}")
+    print("-" * 70)
+    for name, presences, total, mandate_pcts in recap:
         pct = presences * 100 / total if total else 0
-        print(f"{name:30s} {presences:3d} / {total} ({pct:5.1f}%)")
+        pct_m1 = mandate_pcts[1]
+        pct_m2 = mandate_pcts[2]
+        pct_m3 = mandate_pcts[3]
+        print(f"{name:30s} {presences:3d}/{total:3d} ({pct:4.1f}%) {pct_m1:6.1f}% {pct_m2:6.1f}% {pct_m3:6.1f}%")
 
 
 if __name__ == "__main__":
